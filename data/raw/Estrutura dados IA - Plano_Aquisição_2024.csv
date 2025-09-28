@@ -1,0 +1,1929 @@
+Nº ,OBJETO ,CONTRATO,DIRETORIA RESPONSÁVEL,UNIDADE RESPONSÁVEL,CÓD. PAOE,DESCRIÇÃO DO ITEM DE DESPESA,UNIDADE DE MEDIDA,QTD,VALOR UNITÁRIO,VALOR TOTAL,GRUPO DE DESPESA,NATUREZA,FONTE,IDU,"Plano Estratégico (A)
+digite entre 0-5
+0 = menor
+5 = maior","Gravidade (B)
+digite entre 1-5
+1 = menor
+5 = maior","Urgência (C)
+digite entre 1-5
+1 = menor
+5 = maior","Tendência (d)
+digite entre 1-5
+1 = menor
+5 = maior",Prioridade acumulada (A+B+C+D)
+10,Manutenção de Ar Condiconado ,Existente / Aditivo,DAFI,UGADM,2007,Manutenção Ar Condionado ,Mensal,12,"R$ 7.000,00","R$ 84.000,00",3-DESPESAS CORRENTES,3.3.90.39.071,1.501.0000,CD-CONTRATOS DIVERSOS,4,4,4,4,256
+02,SERVIÇOS DE MANUTENÇÃO DO SOFTWARE ERP - TOTVS PROTHEUS,Existente / Aditivo,DAFI,UGCOF/GCCP,2009,Manutençao do Sistema ERP Protheus,Anual,01,"R$ 117.000,00","R$ 117.000,00",3-DESPESAS CORRENTES,3.3.90.39.016,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+04,"CONTRATAÇÃO DE SERVIÇOS ESPECIALIZDOS EM SOLUÇÃO DE OUTSOURCING (impressão, cópia e digitalização) e GERENCIAMENTO DE IMPRESSÃO DEPARTAMENTAL",Existente / Aditivo,DTIC,UGSTI/GSUP,2009,Locação de impressora e fotocopiadoras,Anual,01,"R$ 42.000,00","R$ 42.000,00",3-DESPESAS CORRENTES,3.3.90.39.041,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+03,CAJU - Empresa Brasileira de Beneficios e Pagamentos Ltda ,Existente / Aditivo,DAFI,UGPES/GPMM,2259,"Fornecimento de vale alimentação -   37 VA  R$ 1.034,00",Mensal,12,"R$ 12.408,00","R$ 148.896,00",3-DESPESAS CORRENTES,3.3.90.39.60,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+04,IFOOD -  Empresa IFFOD Beneficios e Serviços Ltda,Existente / Aditivo,DAFI,UGPES/GPMM,2259,"Fornecimento de vale alimentação  - 12  VA  R$ 1.034,00",Mensal,12,"R$ 38.258,00","R$ 459.096,00",3-DESPESAS CORRENTES,3.3.90.39.60,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+05,VOLUS - Instituição de Pagamento Ltda ,Existente / Aditivo,DAFI,UGPES/GPMM,2259,Fornecimento de vale alimentação -    0 ,Mensal,12,"R$ 0,00","R$ 0,00",3-DESPESAS CORRENTES,3.3.90.39.60,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+06,Equipe Assistência Médica Ltda,Existente / Aditivo,DAFI,UGPES/GPMM,2259,"Executar o PCMSO, PPRA, PPP, Análise Ergonômica, Ginástica Laboral",Mensal,12,"R$ 18.000,00","R$ 216.000,00",3-DESPESAS CORRENTES,3.3.90.39.033,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+07,Unimed Saúde,Existente / Aditivo,DAFI,UGPES/GPMM,2259,Assistência médica Hospitalar (ACT),Mensal,12,"R$ 8.050,00","R$ 96.600,00",3-DESPESAS CORRENTES,3.3.90.39.033,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+12,"Serviços de licenciamento, suporte e atulização da ferramenta Liferay",Existente / Aditivo,DTIC,UGSOF,2787,"Manter a subscrição, suporte e atualização da ferramenta Liferay",Anual,01,"R$ 660.000,00","R$ 660.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+13,"Serviços de licenciamento, suporte e atulização das ferramentas Qlik Sense",Existente / Aditivo,DTIC,UGGDC,2787,"Manter a subscrição, suporte e atualização das ferramentas Qlik Sense ",Mensal,12,"R$ 5.000,00","R$ 60.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+14,Serviços de suporte e manutenção estendida das ferramentas ArcGis,Existente / Aditivo,DTIC,UGGDC,2787,Manter o suporte e manutenção estendida das ferramentas ArcGis,Anual,01,"R$ 380.000,00","R$ 380.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+15,Contratação de serviço de infraestrutura da Zadara que suporte Solução de BigData (Cloudera),Novo a contratar 2024,DTIC,UGITI,2787,Contratação de Serviço de infraestrutura da Zadara que suporte Solução de BigData (Cloudera) - Autoconsumo ,Mensal,12,"R$ 1.000.000,00","R$ 12.000.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+16,Licenciamento de ferramentas de apoio ao desenvolvimento - GitKraken,Novo a contratar 2024,DTIC,UGSOF,2787,Manter a subscrição da ferramenta GitKraken,Unidade,01,"R$ 20.000,00","R$ 20.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+17,Licenciamento de ferramentas de apoio ao desenvolvimento - Intellij,Existente / Aditivo,DTIC,UGSOF,2787,Provimento de ferramentas para desenvolvimento e sustentação de software,Unidade,01,"R$ 120.000,00","R$ 120.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+18,Expansão licenças GENEXUS e WorkWithPlus,Existente / Aditivo,DTIC,UGSOF,2787,"Disponibilizar ferramentas de desenvolvimento de software Low-code:  Licença de GXserver Small Business, licenças Genexus Professional Edition, licenças Gerador Java para Genexus, licenças de Work With Plus",Unidade,01,"R$ 30.000,00","R$ 30.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+19,Contratação de consultoria em ferramentas para desenvolvimento de Software (sob demanda),Novo a contratar 2024,DTIC,UGSOF,2787,Consultoria na solução de automação do processo de desenvolvimento de software (devops),Unidade,01,"R$ 40.000,00","R$ 40.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.759.0000,OD-OUTRAS DESPESAS,,,,,0
+20,Consultoria e solução para gestão de privacidade conforme LGPD,Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de serviço especializado em gestão de privacidade para adequação das aplicações conforme LGPD,Mensal,12,"R$ 100.000,00","R$ 1.200.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+21,AQUISIÇÃO DE FERRAMENTA E SERVIÇO DE CONSULTORIA EM GOVERNANÇA E GESTÃO DE DADOS (LGPD),Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de ferramenta e serviço especializado em Governança e Gestão de Dados,Unidade,01,"R$ 3.500.000,00","R$ 3.500.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+22,"AQUISIÇÃO DE SOLUÇÃO CORPORATIVA DE ANTIVÍRUS MULTIPLATAFORMA COM GERÊNCIA CENTRALIZADA (SOLUÇÃO DE ANTIVÍRUS), COM SUPORTE E DIREITO DE ATUALIZAÇÃO POR 36 (TRINTA E SEIS) MESES (Expansão)",Existente / Aditivo,DTIC,UGSTI,2787,Atualização e suporte Ferramenta de Segurança Lógica de Infraestrutura na MTI - Antivirusl,Anual,01,"R$ 2.100.000,00","R$ 2.100.000,00",4-DESPESAS DE CAPITAL,4.4.90.52.014,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+25,"Contratação de empresa especializada para fornecimento de serviços em infraestrutura de processamento e armazenamento hiperconvergente baseado em tecnologia VMware, para o Data Center da MTI, composta por appliances de hiperconvergência e switches topo de rack.",Existente / Aditivo,DTIC,UGITI,2787,Aquisição de Solução de Hiperconvergência baseada em VMWare para implantação da Nuvem Privada MTI,Unidade,01,"R$ 2.000.000,00","R$ 2.000.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,5,5,5,625
+33,Contratação de Serviços de Monitoramento de Infraestrutura de TIC - ZABBIX/GRAFARA,Existente / Aditivo,DTIC,UGITI,2787,Contratação de Serviços de Monitoramento de Infraestrutura de TIC - ZABBIX/GRAFARA,Mensal,12,"R$ 45.000,00","R$ 540.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,5,5,5,625
+35,"Contratação de empresa especializada  para prestação de Monitoramento e Suporte Técnico 24x7  e serviços especializados sob demanda em soluções de banco de dados nas tecnologias MYSQL, POSTGRESQL e MONGOBD, pelo período de 03(três) anos",Existente / Aditivo,DTIC,UGITI,2787,Contratação de Serviços de Suporte e Garantia em Banco de dados Open,Mensal,12,"R$ 120.000,00","R$ 1.440.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,5,5,5,625
+36,"Contratação de empresa especializada  para prestação de Monitoramento e Suporte Técnico 24x7  e serviços especializados sob demanda em soluções de banco de dados nas tecnologias MYSQL, POSTGRESQL e MONGOBD, pelo período de 03(três) anos (sob demanda)",Existente / Aditivo,DTIC,UGITI,2787,Contratação de Serviços especializados em Banco de dados Open,Unidade,3600,"R$ 550,00","R$ 1.980.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,5,5,5,625
+39,"Contratação de Empresa especializada para fornecimento de Serviços de Nuvem Privada Oracle, Serviços especializados continuados e operação assistida",Novo a contratar 2024,DTIC,UGITI,2787,"Contratação de Empresa especializada para fornecimento de Serviços de Nuvem Privada Oracle, Serviços especializados continuados e operação assistida ",Mensal,12,"R$ 1.800.000,00","R$ 21.600.000,00",3-DESPESAS CORRENTES,3.3.90.40.012,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+51,"contratação de empresa especializada na prestação de serviço técnico especializado, continuado, na modalidade de fábrica de software para sustentação, desenvolvimento e melhorias dos Sistemas de Informação  e desenvolvimento/manutenção/sustentação de Projetos de Transformação Digital utilizando metodologia e práticas ágeis",Existente / Aditivo,DTIC,UGSOF,2787,"Contratação de serviço técnico especializado, continuado, na modalidade de fábrica de software para sustentação, desenvolvimento e melhorias de Sistemas de Informação, utilizando metodologia e práticas ágeis",Unidade,01,"R$ 3.500.000,00","R$ 3.500.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+01,"Serviços de consultoria em implantação de processos e metodologias ágeis de desenvolvimento de software, riscos, itsm, compliance",Novo a contratar 2024,GADV,UGPGD,NOVA 4,"Implantar processos, práticas e metodologias ágeis de desenvolvimento de software",Unidade,01,"R$ 850.000,00","R$ 850.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+02,"Sustentar e Evoluir tecnicamente a Plataforma de Transformação Digital (mt login, mt cidadão, mt servidor, mt empresarial, portal de serviços)",Existente / Aditivo,GADV,UGPGD,NOVA 4,Pagamento de USTs para manutenção da plataforma de governo digital,Unidade,2500,"R$ 250,00","R$ 625.000,00",3-DESPESAS CORRENTES,3.3.90.39,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+03,Validar dispositivos do mt cidadão por sms,Novo a contratar 2024,GADV,UGPGD,NOVA 4,Pacote de SMS para validação de dispositivo e telefone,Unidade,01,"R$ 300.000,00","R$ 300.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,5,3,3,4,180
+04,"Serviços de licenciamento, suporte e atulização da ferramenta de gestão de API e integração de dados (WS02)",Novo a contratar 2024,DTIC,UGSOF,NOVA 4,"Serviços de licenciamento, suporte e atulização da ferramenta de gestão de API e integração de dados (WS02)",Unidade,01,"R$ 500.000,00","R$ 500.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+05,"Contratação de empresa especializada na prestação de serviços técnicos especailizados  de desenvolvimento de portais, para desenvolvimento do Portal de Dados Abertos de MT",Novo a contratar 2024,DTIC,UGSOF,NOVA 4,Desenvolvimento do Portal de Dados Aberto de MT,Unidade,01,"R$ 500.000,00","R$ 500.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+01,"Contratação de serviços terceiros
+em implantação e customização na
+ferramenta de gestão de portfólio e projetos, riscos, compliance, devops e processos",Existente / Aditivo,GADV,UGPGD,NOVA 5,"Contratação de serviços terceiros
+em implantação e customização na
+ferramenta de gestão de portfólio e projetos, riscos, compliance, devops e processos (servicenow)",Unidade,01,"R$ 8.920.000,00","R$ 8.920.000,00",3-DESPESAS CORRENTES,3.3.90.39,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+01,Realizar e Manter Serviços de reforma predial ,Novo a contratar 2024,DAFI,UGADM,2005,Manutenção Predial ,Mensal,12,"R$ 100.000,00","R$ 1.200.000,00",3-DESPESAS CORRENTES,3.3.90.39.069,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,4,500
+12,Capacitações (contempla todo o plano de capacitação),Novo a contratar 2024,DAFI,UGPES/GACD,2007,Capacitar todos os Calaboradores da MTI em 2024,Mensal,12,"R$ 66.667,00","R$ 800.004,00",3-DESPESAS CORRENTES,3.3.90.39.051,1.501.0000,OD-OUTRAS DESPESAS,5,3,3,5,225
+01,"Serviços de licenciamento, suporte e atualização de ferramentas Genexus",Existente / Aditivo,DTIC,UGSOF,2787,"Manter a subscrição, suporte e atualização das ferramentas Genexus",Anual,01,"R$ 60.000,00","R$ 60.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,4,500
+11,"Serviços de licenciamento, suporte e atualização de ferramentas WorkWithPlus",Existente / Aditivo,DTIC,UGSOF,2787,"Manter a subscrição, suporte e atualização das ferramentas WorkWithPlus",Anual,01,"R$ 15.000,00","R$ 15.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,5,5,4,500
+06,AQUISIÇÃO DE LICENÇAS DE COLABORAÇÃO CORPORATIVA,Existente / Aditivo,DTIC,UGSTI/GSUP,2009,Ferramenta de colaboração corporativa (Google Workspace),Anual,01,"R$ 180.000,00","R$ 180.000,00",3-DESPESAS CORRENTES,3.3.90.40.012,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,4,4,400
+07,AQUISIÇÃO DE CONTRATAÇÃO DE SERVIÇO DE MANUTENÇÃO DE SISTEMA CFTV,Novo a contratar 2024,DAFI,UGSTI,2009,Aquisição de serviço de manutenção de equipamento de CFTV para datacenter/ambiente MTI,Unidade,01,"R$ 100.000,00","R$ 100.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,OD-OUTRAS DESPESAS,5,5,4,4,400
+10,AQUISIÇÃO DE LICENÇA DE SOFTWARE TI PARA ATENDER AS DEMANDAS DA MTI,Novo a contratar 2024,DTIC,UGSTI/GCES,2009,Aquisição de licença de software para acesso remonto,Anual,01,"R$ 40.000,00","R$ 40.000,00",4-DESPESAS DE CAPITAL,4.4.90.52.014,1.501.0000,OD-OUTRAS DESPESAS,5,5,4,4,400
+26,Registro de Preços para Contratação de empresa especializada para o fornecimento de futuros e eventuais serviços especializados e Renovação de Subscrições em produtos das plataformas Red Hat Enterprise.,Novo a contratar 2024,DTIC,UGITI,2787,Registro de Preço - Renovação das Subscrições da Plataforma Red Hat,Unidade,01,"R$ 11.000.000,00","R$ 11.000.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,5,4,4,400
+37,Contratação de empresa especializada para execução do Projeto de Prevenção à incêndios do DataCenter,Novo a contratar 2024,DTIC,UGITI,2787,Execução do Projeto de Prevenção à incendios do Datacenter,Unidade,01,"R$ 400.000,00","R$ 400.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,5,4,4,400
+40,"Contratação de Empresa especializada no suporte técnico e garantia em Banco de dados SQL Server, com serviços especializados",Novo a contratar 2024,DTIC,UGITI,2787,"Contratação de Empresa especializada no suporte técnico e garantia em Banco de dados SQL Server, com serviços especializados",Mensal,12,"R$ 120.000,00","R$ 1.440.000,00",3-DESPESAS CORRENTES,3.3.90.40.012,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,3,375
+04,Contratação de Empresa Especializada para a prestação de serviços continuados de limpeza e conservação com fornecimento de material e equipamentos para atender as necessidades da Empresa Mato-Grossense de Tecnologia da Informação do estado de Mato Grosso - MTI ,Existente / Aditivo,DAFI,UGADM,2007,Serviços de Limpeza ,Mensal,12,"R$ 30.000,00","R$ 360.000,00",3-DESPESAS CORRENTES,3.3.90.37.003,1.501.0000,CD-CONTRATOS DIVERSOS,4,4,4,5,320
+23,"CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE NÍVEL 1 PARA ORGANIZAÇÃO, DESENVOLVIMENTO, IMPLANTAÇÃO E EXECUÇÃO CONTINUADA DE ATIVIDADES DE SUPORTE TÉCNICO (SERVICE DESK) REMOTO A USUÁRIOS DE SOLUÇÕES DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÕES (TIC)",Existente / Aditivo,DTIC,UGSTI,2787,Contratação de serviços terceiros  em atendiemntos de chamados nível 1 para atendimento à MTI,Anual,01,"R$ 720.000,00","R$ 720.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,4,4,4,320
+29,Aquisição de Serviços para Sistema de Armazenamento de Objetos composto de Storages com funcionalidade de Object Storage e Files Storage (NAS) NFS e SMB/CIFS com garantia pelo período de 60 (sessenta) meses (Auto consumo Zadara),Novo a contratar 2024,DTIC,UGITI,2787,Serviços de Implantação e Capacitação de Armazenamento de Object Storage,Unidade,01,"R$ 310.000,00","R$ 310.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,4,4,4,320
+30,Registro de Preço para Contratação de empresa para fornecimento de Licenciamento Microsoft (Expansão),Novo a contratar 2024,DTIC,UGITI,2787,Contratação de empresa para fornecimento de Licenciamento Microsoft ,Anual,01,"R$ 8.000.000,00","R$ 8.000.000,00",3-DESPESAS CORRENTES,4.4.90.40.012,1.501.0000,OD-OUTRAS DESPESAS,5,4,3,3,180
+34,Contratação de Serviços de Monitoramento de Infraestrutura de TIC - ZABBIX/GRAFARA,Existente / Aditivo,DTIC,UGITI,2787,Contratação de Serviços Especializados de Monitoramento de Infraestrutura de TIC - ZABBIX/GRAFARA (Sob demanda),Unidade,600,"R$ 450,00","R$ 270.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,4,4,4,320
+57,"Contratação de ferramenta especializada em Integração de Dados  (QDI, Compose e Replicate)",Novo a contratar 2024,DTIC,UGGDC,2787,"QDI, Compose e Replicate",Unidade,01,"R$ 4.500.000,00","R$ 4.500.000,00",4-DESPESAS DE CAPITAL,32967,1.500.0000,MAIS MT,,,,,0
+05,Serviços Diversos de Manutenção Geral da Empresa ,Novo a contratar 2024,DAFI,UGADM,2007,Serviços Diversos ,Mensal,12,"R$ 20.000,00","R$ 240.000,00",3-DESPESAS CORRENTES,3.3.90.39.016,1.501.0000,OD-OUTRAS DESPESAS,4,4,4,4,256
+11,Água Potável ,Novo a contratar 2024,DAFI,UGADM,2007,Água Potável ,Mensal,12,"R$ 10.000,00","R$ 120.000,00",3-DESPESAS CORRENTES,,1.501.0000,OD-OUTRAS DESPESAS,4,4,4,4,256
+01,Contratação de solução na modalidade SAAS - Software como serviço para gerenciamento de processos judiciais e administrativos,Existente / Aditivo,GADP,UNIJUR,2009,Manutenção de ações de Informática,Mensal,12,"R$ 5.000,00","R$ 60.000,00",3-DESPESAS CORRENTES,339040,1.501.0000,CD-CONTRATOS DIVERSOS,4,4,4,4,256
+09,AQUISIÇÃO DE MANUTENÇÃO DE EQUIPAMENTOS DE TI/SUBSTITUIÇÃO DE PEÇAS DE TI PARA ATENDER AS DEMANDAS DA MTI,Novo a contratar 2024,DTIC,UGSTI/GSUP,2009,Aquisição de manutenção de equipamentos e substituição de peças,Mensal,12,"R$ 10.000,00","R$ 120.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,OD-OUTRAS DESPESAS,3,4,4,3,144
+12,AQUISIÇÃO DE SUPRIMENTOS DE TI PARA ATENDER AS DEMANDAS DA MTI,Novo a contratar 2024,DTIC,UGSTI,2009,"Aquisição de suprimentos de TI, como microfones, adaptadores, câmeras, HDs, meméria, entre outros periféricos",Unidade,01,"R$ 170.000,00","R$ 170.000,00",4-DESPESAS DE CAPITAL,4.4.90.52.014,1.501.0000,OD-OUTRAS DESPESAS,4,4,4,4,256
+03,Material Consumo ,Não,DAFI,UGADM,2007,Material de Consumo ,Mensal,12,"R$ 5.000,00","R$ 60.000,00",3-DESPESAS CORRENTES,3.390.30.013,1.501.0000,OD-OUTRAS DESPESAS,4,3,4,5,240
+08,Telefonia Móvel ,Existente / Aditivo,DAFI,UGADM,2007,Telefonia Móvel ,Mensal,12,"R$ 5.000,00","R$ 60.000,00",3-DESPESAS CORRENTES,3.3.90.39.074,1.501.0000,CD-CONTRATOS DIVERSOS,4,4,3,4,192
+41,Contratação de Solução de Balanceamento e Segurança de aplicações,Existente / Aditivo,DTIC,UGITI,2787,Contratação de Solução de Balanceamento e Segurança de aplicações,Mensal,12,"R$ 150.000,00","R$ 1.800.000,00",4-DESPESAS DE CAPITAL,4.4.90.40.014,1.501.0000,OD-OUTRAS DESPESAS,5,4,3,4,240
+14,Contratação Empresa de Gestão de Estagiários Graduação,Novo a contratar 2024,DAFI,UGPES/GACD,2007,"Parceria com instituições públicas e ou privadas para estágio supervisionado - 25 estagiários - R$ 2.300,00",Mensal,12,"R$ 57.500,00","R$ 690.000,00",3-DESPESAS CORRENTES,3.3.90.37.004,1.501.0000,OD-OUTRAS DESPESAS,1,3,3,3,27
+15,Contratação Empresa de Gestão de Estagiários Pós-Graduação,Novo a contratar 2024,DAFI,UGPES/GACD,2007,"Parceria com instituições públicas e ou privadas para estágio supervisionado - 25 estagiários - R$ 1.250,00",Mensal,12,"R$ 31.250,00","R$ 375.000,00",3-DESPESAS CORRENTES,3.3.90.37.004,1.501.0000,OD-OUTRAS DESPESAS,1,3,3,3,27
+09,Energia Elétrica ,Existente / Aditivo,DAFI,UGADM,2007,Energia Elétrica ,Mensal,12,"R$ 120.000,00","R$ 1.440.000,00",3-DESPESAS CORRENTES,3.3.90.39.059,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+24,CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS EM SUPORTE TÉCNICO DE NÍVEL 2,Existente / Aditivo,DTIC,UGSTI,2787,Contratação de serviços terceiros  em atendiemntos de chamados nível 2 (analista de redes/infraestrutura) para atendimento à MTI,Anual,01,"R$ 500.000,00","R$ 500.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,CD-CONTRATOS DIVERSOS,5,4,3,3,180
+28,Aquisição de Sistema de Armazenamento de Objetos composto de Storages com funcionalidade de Object Storage e Files Storage (NAS) NFS e SMB/CIFS com garantia pelo período de 60 (sessenta) meses (Auto consumo Zadara),Novo a contratar 2024,DTIC,UGITI,2787,Aquisição de Solução de Armazenamento Object Storage,Unidade,01,"R$ 3.500.000,00","R$ 3.500.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,3,4,3,180
+31,Aquisição de Solução de Backup,Novo a contratar 2024,DTIC,UGITI,2787,Aquisição de Solução de Backup,Unidade,01,"R$ 8.500.000,00","R$ 8.500.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.500.0000,MAIS MT,5,4,3,3,180
+32,Aquisição de Solução de Backup,Novo a contratar 2024,DTIC,UGITI,2787,Serviços Especializados em Solução de Backup,Unidade,01,"R$ 1.500.000,00","R$ 1.500.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,4,3,3,180
+42,Contratação de empresa para fornecimento de Licenciamento Microsoft ,Existente / Aditivo,DTIC,UGITI,2787,Contratação de empresa para fornecimento de Licenciamento Microsoft (Windows Server e SQL Server),Anual,01,"R$ 2.500.000,00","R$ 2.500.000,00",3-DESPESAS CORRENTES,4.4.90.40.012,1.501.0000,OD-OUTRAS DESPESAS,5,4,3,3,180
+55,Contratação de serviços de consultoria no modelo de atendimento SME (Subject Matter Expert) para a plataforma Liferay DXP da MTI.,Existente / Aditivo,DTIC,UGSOF,1139,Consultoria Liferay,Unidade,832,"R$ 400,00","R$ 332.800,00",3-DESPESAS CORRENTES,3.3.90.40,1.759.0000,CD-CONTRATOS DIVERSOS,,,,,0
+56,Contratação de ferramentas para desenvolvimento de Software,Novo a contratar 2024,DTIC,UGSOF,2787,Ferramenta Automação do processo de desenvolvimento de software (devops),Unidade,01,"R$ 40.000,00","R$ 40.000,00",4-DESPESAS DE CAPITAL,32967,1.759.0000,OD-OUTRAS DESPESAS,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+01,"Contratação de empresa especializada na prestação de serviços continuados de gerenciamento e controle de fornecimento de combustíveis (Gasolina comum, Diesel Comum e S10, Etanol comum) em rede de postos credenciados.",Existente / Aditivo,DAFI,UGADM,2006,Despesas com Combustível ,Mensal,12,"R$ 5.000,00","R$ 60.000,00",3-DESPESAS CORRENTES,3.390.30.004,1.501.0000,CD-CONTRATOS DIVERSOS,4,3,3,4,144
+07,Telefonia Fixa ,Existente / Aditivo,DAFI,UGADM,2007,Telefonia Fixa ,Mensal,12,"R$ 1.500,00","R$ 18.000,00",3-DESPESAS CORRENTES,3.3.90.39.073,1.501.0000,CD-CONTRATOS DIVERSOS,4,4,3,5,240
+03,"SUPORTE TÉCNICO NO SISTEMA TOTVS PROTHEUS COM SUPORTE PARA IMPLANTAÇÃO E CONFIGURAÇÃO
+",Existente / Aditivo,GADV,UGCOF/GCCP,2009,Horas de customização do sistema Photheus do modulo de clientes/faturamento,Anual,01,"R$ 300.000,00","R$ 300.000,00",3-DESPESAS CORRENTES,3.3.90.39.016,1.501.0000,CD-CONTRATOS DIVERSOS,4,4,3,3,144
+11,AQUISIÇÃO DE SOFTWARE PARA GERENCIAMENTO DE RISCOS CORPORATIVOS E COMPLIANCE,Novo a contratar 2024,GADV,UNICRS,2009,"Aquisição de licença de software para gerenciamento de riscos corporativos e compliance, o software fará parte das atividades de gerenciamneto do setor",Anual,01,"R$ 60.000,00","R$ 60.000,00",4-DESPESAS DE CAPITAL,4.4.90.52.014,1.501.0000,OD-OUTRAS DESPESAS,4,4,3,3,144
+44,Contratacão de Ferramentas de Segurança analise Vulnerabilidade (Expansão),Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de Ferramentas de Segurança analise Vulnerabilidade,Unidade,01,"R$ 2.800.000,00","R$ 2.800.000,00",3-DESPESAS CORRENTES,3.3.90.40.014,1.500.0000,MAIS MT,4,3,3,4,144
+45,Contratação de Ferramentas de Segurança analise Vulnerabilidade (Expansão),Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de Serviços para Ferramentas de Segurança em analise Vulnerabilidade,Unidade,1500,"R$ 650,00","R$ 975.000,00",3-DESPESAS CORRENTES,3.3.90.40.014,1.500.0000,MAIS MT,4,3,3,4,144
+46,Contratação de Solução de gerenciamento de Identidades e acessos privilegiados (Expansão),Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de Solução de gerenciamento de Identidades e acessos privilegiados,Unidade,01,"R$ 2.500.000,00","R$ 2.500.000,00",4-DESPESAS DE CAPITAL,4.4.90.40.014,1.500.0000,MAIS MT,4,3,3,4,144
+47,Contratação de Solução de gerenciamento de Identidades e acessos privilegiados (Expansão),Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de Serviços para Solução de gerenciamento de Identidades e acessos privilegiados,Unidade,1500,"R$ 380,00","R$ 570.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,4,3,3,4,144
+05,AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA PARA ATENDER AS DEMANDAS SETORIAIS DA MTI,Novo a contratar 2024,DTIC,UGSTI/GSUP,2009,"Aquisição de computadores, notebooks e monitores para atender a MTI",Unidade,01,"R$ 200.000,00","R$ 200.000,00",4-DESPESAS DE CAPITAL,4.4.90.52.014,1.501.0000,OD-OUTRAS DESPESAS,5,3,3,3,135
+08,AQUISIÇÃO MANUTENÇÃO DE SOLUÇÃO CORPORATIVA DE CONECTIVIDADE POR REDE SEM FIO,Existente / Aditivo,DTIC,UGSTI/GSUP,2009,"Aquisição de manutenção de equipamentos de
+solução profissional de rede sem fio",Unidade,01,"R$ 200.000,00","R$ 200.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,3,3,3,5,135
+27,"Contratação de empresa especializada para o fornecimento de futuros e eventuais serviços especializados e Renovação de Subscrições em produtos das plataformas Red Hat Enterprise, JBOSS Enterprise Middleware e Red Hat Openshift e fornecimento de software da mesma linha de produtos",Existente / Aditivo,DTIC,UGITI,2787,Serviços Especializados RedHat,Unidade,850,"R$ 820,00","R$ 697.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,3,3,3,135
+38,Registro de Preços para Aquisição de Certificados SSL,Novo a contratar 2024,DTIC,UGITI,2787,Aquisição de Certificados SSL,Unidade,1000,"R$ 800,00","R$ 800.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,5,3,3,3,135
+43,Contratação de empresa especializada para provimento de serviços em Nuvem Pública(ABEP),Novo a contratar 2024,DTIC,UGITI,2787,Contratação de empresa especializada para provimento de serviços em Nuvem Pública,Mensal,12,"R$ 1.300.000,00","R$ 15.600.000,00",3-DESPESAS CORRENTES,3.3.90.40.012,1.501.0000,OD-OUTRAS DESPESAS,5,3,3,3,135
+48,"Contratação de empresa especializada para o fornecimento de licenças de Solução de “Application Performance Management” (APM), com monitoramento de experiência de usuário (sessões ou pageviews) com suporte e garantia por um período de 36 (trinta e seis) meses, incluindo prestação dos serviços técnicos, implantação e treinamento oficial (Expansão)",Novo a contratar 2024,DTIC,UGITI,2787,Contratação de solução de APM,Unidade,01,"R$ 3.800.000,00","R$ 3.800.000,00",4-DESPESAS DE CAPITAL,4.4.90.40.014,1.500.0000,MAIS MT,5,3,3,3,135
+49,"Contratação de empresa especializada para o fornecimento de licenças de Solução de “Application Performance Management” (APM), com monitoramento de experiência de usuário (sessões ou pageviews) com suporte e garantia por um período de 36 (trinta e seis) meses, incluindo prestação dos serviços técnicos, implantação e treinamento oficial",Existente / Aditivo,DTIC,UGITI,2787,Contratação de seviços especializados para solução de APM,Unidade,600,"R$ 850,00","R$ 510.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,3,3,3,135
+52,Contratação de empresa especializada na prestação de serviços de operação continuada e sob demanda para soluções de hospedagem de aplicações,Novo a contratar 2024,DTIC,UGITI,2787,Contratação de empresa especializada na prestação de serviços de operação continuada e sob demanda para soluções de hospedagem de aplicações,Mensal,12,"R$ 300.000,00","R$ 3.600.000,00",3-DESPESAS CORRENTES,3.3.90.40.001,1.759.0000,OD-OUTRAS DESPESAS,5,3,3,3,135
+13,AQUISIÇÃO DE SOLUÇÃO DE VIRTUALIZAÇÃO DE ESTAÇÕES DE TRABALHO (VDI) PARA ATENDER AS DEMANDAS DA MTI,Novo a contratar 2024,DTIC,UGSTI,2009,Aquisição de solução para virtualização de estações de trabalho (VDI) para atender aos empregados da MTI em suas atividades diárias,Unidade,01,"R$ 1.500.000,00","R$ 1.500.000,00",4-DESPESAS DE CAPITAL,4.4.90.52.014,1.501.0000,OD-OUTRAS DESPESAS,4,3,3,3,108
+50,Aquisição de solução de Armazenametno dedidado à retenção de backups  IBM Data Domain,Novo a contratar 2024,DTIC,UGITI,2787,Aquisição de Solução de retenção de backups Data Domain para Disaster Recovery em site secundário,Unidade,02,"R$ 1.600.000,00","R$ 3.200.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,4,3,3,3,108
+02,Contratação de empresa especializada em locação de veículos automotores para uso nas atividades técnicas e administrativas para a Empresa Mato-grossense de Tecnologia da Informação - MTI ,Existente / Aditivo,DAFI,UGADM,2006,Despesa com Aluguel de veículos ,Mensal,12,"R$ 10.000,00","R$ 120.000,00",3-DESPESAS CORRENTES,3.3.90.30.004,1.501.0000,CD-CONTRATOS DIVERSOS,3,3,3,3,81
+53,Contratação de solução de analise vulnerabilidade de código,Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de Ferramentas de Segurança analise vulnerabilidade de código,Unidade,01,"R$ 4.000.000,00","R$ 4.000.000,00",3-DESPESAS CORRENTES,3.3.90.40.014,1.500.0000,CD-CONTRATOS DIVERSOS,3,3,3,3,81
+54,Contratação de Serviço Especialazado de Analise Vulnerabilidade de Código,Novo a contratar 2024,DTIC,UGGDC,2787,Contratação de Serviços Especializado em analise vulnerabilidade de código,Unidade,1600,"R$ 650,00","R$ 1.040.000,00",3-DESPESAS CORRENTES,3.3.90.40.014,1.500.0000,CD-CONTRATOS DIVERSOS,3,3,3,3,81
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+01,MANUTENÇÃO DA PROPAGANDA E PUBLICIDADE INSTITUCIONAL,Novo a contratar 2024,GADP,ASSCOM,2014,SERVIIÇOS DE TERCEIROS PARA PUBLICIDADE INSTITUCIONAL E PROPAGANDA,Unidade,01,"R$ 73.500,00","R$ 73.500,00",3-DESPESAS CORRENTES,339039077,1.501.0000,OD-OUTRAS DESPESAS,3,3,2,3,54
+01,Pagamento com despesas com passagens,Existente / Aditivo,GADP,GADP,2004,DESPESAS COM PASSAGENS,Mensal,12,"R$ 12.000,00","R$ 144.000,00",3-DESPESAS CORRENTES,339033001,1.501.0000,CD-CONTRATOS DIVERSOS,3,3,1,3,27
+02,Pagamento de Diarias ,Não,GADP,GADP,2004,DIARIAS FORA DO ESTADO ,Mensal,12,"R$ 12.000,00","R$ 144.000,00",3-DESPESAS CORRENTES,339014002,1.501.0000,OD-OUTRAS DESPESAS,3,3,1,3,27
+01,Contratar Empresa para Prestação de Serviços  - 1-Psicologo e 1-Assistente Social,Novo a contratar 2024,DAFI,UGPES/GACD,2259,Contratar Um psicologo e Um Assitente Social,Mensal,12,"R$ 20.000,00","R$ 240.000,00",3-DESPESAS CORRENTES,3.3.90.39.033,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+02,SODEXO - Sodexo Pass do Brasil,Existente / Aditivo,DAFI,UGPES/GPMM,2259,"Fornecimento de vale alimentação  - 311 VA R$ 1.034,00  (47,00 UN.)",Mensal,12,"R$ 321.574,00","R$ 3.858.888,00",3-DESPESAS CORRENTES,3.3.90.39.60,1.501.0000,CD-CONTRATOS DIVERSOS,5,5,5,5,625
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+01,Adiantamento de Consumo ,Não,DAFI,UGADM,2007,Adiantamento de Consumo ,Unidade,06,"R$ 4.000,00","R$ 24.000,00",3-DESPESAS CORRENTES,3.3.90.30.013,1.501.0000,OD-OUTRAS DESPESAS,2,2,2,2,16
+02,Adiantamento de Serviços ,Não,DAFI,UGADM,2007,Adiantamento de Serviço ,Unidade,06,"R$ 4.000,00","R$ 24.000,00",3-DESPESAS CORRENTES,3.3.90.30.013,1.501.0000,OD-OUTRAS DESPESAS,2,2,2,2,16
+06,Assistencia de Elevador ,Novo a contratar 2024,DAFI,UGADM,2007,Manutenção de Elevador ,Mensal,12,"R$ 1.500,00","R$ 18.000,00",3-DESPESAS CORRENTES,3.390.39.016,1.501.0000,OD-OUTRAS DESPESAS,2,2,2,2,16
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2004,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2005,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2006,,,,,"R$ 0,00",,,,,,,,,0
+13,Aquisição de serviços de terceiros para implementação do Programa PDGD (cedidos),Novo a contratar 2024,DAFI,UGPES/GACD,2007,Continuação da implementação do Programa  PDGD (cedidos),Mensal,12,"R$ 4.166,00","R$ 49.992,00",3-DESPESAS CORRENTES,3.3.90.39.051,1.501.0000,OD-OUTRAS DESPESAS,5,3,3,5,225
+16,LUA Serviços Eireli - ME - Aux. Administrativos ,Existente / Aditivo,DAFI,UGPES/GACD,2007,"Executar serviços administrativos de nivel médio                                              - 27 aux. adm. -   R$ 3.500,00  ",Mensal,12,"R$ 94.500,00","R$ 1.134.000,00",3-DESPESAS CORRENTES,3.3.90.08.006,1.501.0000,CD-CONTRATOS DIVERSOS,1,3,3,3,27
+17,Contratar empresa para confecção e impressão de Crachas funcionais,Novo a contratar 2024,DAFI,UGPES/GPMM,2007,Contratar empresa para emissao de crachas novos e reposições,Mensal,12,"R$ 500,00","R$ 6.000,00",3-DESPESAS CORRENTES,3.3.90.08.006,1.501.0000,OD-OUTRAS DESPESAS,1,3,3,3,27
+18,Contratar Empresa para Prestação de Serviços  -  15 - Analista Administrativo - Perfil nivel superior e pós-gradaução,Novo a contratar 2024,DAFI,UGPES/GACD,2259,Contratar 20 Analista Administrativo (perfil nivel Graduação e pós-Graduação)   -  20  * 7.500,Mensal,12,"R$ 150.000,00","R$ 1.800.000,00",3-DESPESAS CORRENTES,3.3.90.39.033,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,625
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,27
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2007,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2008,,,,,"R$ 0,00",,,,,,,,,0
+14,Aquisição de equipamento de frequência de ponto e Software,Novo a contratar 2024,DAFI,UGPES,2009,Ponto eletrônico,Unidade,01,"R$ 20.000,00","R$ 20.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+15,"Aquisição de Leitores/Coletores de Dados RFID, Tags/Etiquetas para superfícies metálicas/não metálicas dos bens com tombamento patrimonial, para facilitar o Inventário Anual 
+",Novo a contratar 2024,DAFI,UGADM,2009,Controle de patrimônio RFID,Unidade,01,"R$ 1.000.000,00","R$ 1.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+16,Implantação da solução APP MEU RH,Novo a contratar 2024,DAFI,UGPES,2009,Software para gestão de ponto (Versão atualizada),Unidade,01,"R$ 100.000,00","R$ 100.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+17,Consultoria para apoio técnico especializado para registro de software e Propriedade Intelectual e provisão para pagamentos de Taxas INPI,Novo a contratar 2024,GADV,UGEIP,2009,Consultoria para apoio técnico especializado para registro de software e Propriedade Intelectual e provisão para pagamentos de Taxas INPI,Unidade,12,"R$ 4.000,00","R$ 48.000,00",3-DESPESAS CORRENTES,3.3.90.31,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+18,ELOFY  - Sistema de Tecnologia da Informação Ltda  ,Existente / Aditivo,DAFI,UGPES/GACD,2259,Fornecimento de software de Gestão de Pessoas,Mensal,12,"R$ 4.000,00","R$ 48.000,00",3-DESPESAS CORRENTES,3.3.90.08.006,1.501.0000,CD-CONTRATOS DIVERSOS,1,3,3,3,27
+19,Implementar melhorias e evolução no sistema de Gamificação MTI GEN,Novo a contratar 2024,GADV,UGEIP,2009,Contratação de fábrica de sofwtare para desenvolvimento e sustentação sistema de gamificação,Unidade,01,"R$ 320.000,00","R$ 320.000,00",3-DESPESAS CORRENTES,3.3.90.39,1.501.0000,OD-OUTRAS DESPESAS,5,3,4,4,240
+20,Aquisição de equipamentos ou produtos de tecnologia voltados a desenvolvimento de projetos de pesquisa e inovação internas pela MTI,Novo a contratar 2024,GADV,UGEIP,2009,Aquisição de equipamentos voltados a desenvolvimento de projetos de pesquisa e inovação internas pela MTI,Unidade,10,"R$ 6.000,00","R$ 60.000,00",4-DESPESAS DE CAPITAL,4.4.90.52,1.501.0000,OD-OUTRAS DESPESAS,5,3,4,4,240
+21,Equipamento para foto/vídeo e divulgação em tempo real com qualidade profissional de entrega dos eventos/reuniões/capacitações da MTI,Novo a contratar 2024,GADP,ASSCOM,2009,"Aquisição de Smartphone, ring light, microfone, gimbal, etc. ",Unidade,01,"R$ 20.000,00","R$ 20.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+22,"Testar os apps mt cidadão, mt servidor e mt empresarial em versão IOS",Novo a contratar 2024,GADV,UGPGD,NOVA 4,Smartphone IOS,Unidade,02,"R$ 10.000,00","R$ 20.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,5,3,4,3,180
+23,"Testar os apps mt cidadão, mt servidor e mt empresarial em versão IOS",Novo a contratar 2024,GADV,UGPGD,NOVA 4,Smartphone e Tablets Android,Unidade,04,"R$ 2.500,00","R$ 10.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,5,2,3,2,60
+24,"Gerar código dos apps mt cidadão, mt servidor e mt empresarial versão IOS",Novo a contratar 2024,GADV,UGPGD,NOVA 4,MACBOOK AIR M1 16gb de memória,Unidade,02,"R$ 20.000,00","R$ 40.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,5,2,3,2,60
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2009,,,,,"R$ 0,00",,,,,,,,,0
+02,Plano Anual de Comunicação e Marketing,Novo a contratar 2024,GADP,ASSCOM,2014,"Divulgação de campanhas, redes sociais, vídeos marketing, agência especializada, softwares de edição",Mensal,12,"R$ 3.000,00","R$ 36.000,00",3-DESPESAS CORRENTES,3.3.90.39,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+03,Materiais de Marketing ,Novo a contratar 2024,GADP,ASSCOM,2014,"Aquisição de material de consumo: banner, folder, backdroop, adesivos, Display Acrílico;
+Painel;
+Placa de sinalização",Unidade,12,"R$ 1.000,00","R$ 12.000,00",3-DESPESAS CORRENTES,3.3.90.30,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+04,Contratação de empresa de cerimonial e organização de eventos,Novo a contratar 2024,GADP,ASSCOM,2014,"Palestrante, maketing e divulgação do evento, fornecedores e etc.",Unidade,01,"R$ 150.000,00","R$ 150.000,00",3-DESPESAS CORRENTES,3.3.90.39,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2014,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,2259,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,4491,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8028,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8002,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8023,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,8039,,,,,"R$ 0,00",,,,,,,,,0
+02,"EMPRESA ESPECIALIZADA EM SERVIÇOS DE COMPUTAÇÃO EM NUVEM PRIVADA PARA CONSOLIDAÇÃO DE BANCO DE DADOS E APLICAÇÕES ORACLE, ABRANGENDO PROVIMENTO DE INFRAESTRUTURA (IAAS) E PLATAFORMA (PAAS) VISANDO ATENDER A DEMANDA MTI",Existente / Aditivo,DTIC,UGITI,2787,Manter a nuvem privada de Oracle,Mensal,07,"R$ 1.250.000,00","R$ 8.750.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+03,Aquisição de Solução para automatização do provimento de infraestrutura e serviços de TIC,Novo a contratar 2024,DTIC,UGITI,,"Aquisição de solução para realizar automatização do provimento de infraestrutura. 
+
+OBS: Alguma plataforma que, por meio de código (Ansible, terraform, etc) pode automatizar, padronizar o provimento de infraestrutura e serviços de TIC",Unidade,01,"R$ 4.000.000,00","R$ 4.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,MAIS MT,,,,,0
+04,Contratação de Empresa especializada para fornecimento de Soluções e Serviços de Nuvem Privada Oracle,Novo a contratar 2024,DTIC,UGITI,2787,Contratação de Empresa especializada para fornecimento de Soluções e Serviços de Nuvem Privada Oracle,Unidade,01,"R$ 21.000.000,00","R$ 21.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+05,Contratação de Serviços Especializados sob demanda para soluão de automatização do provimento de infraestrutura e serviços de TIC,Novo a contratar 2024,DTIC,UGITI,,"Contratação de Serviços Especializados sob demanda para soluão de automatização do provimento de infraestrutura e serviços de TIC
+",Unidade,4500,"R$ 600,00","R$ 2.700.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+06,"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA RENOVAÇÃO DO LICENCIAMENTO E ATUALIZAÇÃO TECNOLÓGICA DOS SOFTWARES CHECK POINT,  PELO PRAZO DE 60 (SESSENTA) MESES",Existente / Aditivo,DTIC,UGGDC,2787,"Manter Licenciamento e suporte
+Solução de Segurança de redes da
+Infovia
+",Unidade,01,"R$ 15.000.000,00","R$ 15.000.000,00",4-DESPESAS DE CAPITAL,32967,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+07,"CONTRATAÇÃO DE SERVIÇO DE SUPORTE TÉCNICO E PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS E CAPACITAÇÃO OFICIAL DE PLATAFORMAS CHECKPOINT, PELO PRAZO DE 60 (SESSENTA) MESES",Novo a contratar 2024,DTIC,UGGDC,2787,"Manter Licenciamento e suporte
+Solução de Segurança de redes da
+Infovia
+",Mensal,12,"R$ 500.000,00","R$ 6.000.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+08,"Contratação de empresa de prestação de serviços de manutenção preventiva e corretiva, asssitência e suporte técnico, incluindo substituição de peças, atualização de software para equipamentos de armazenamento e conectividade do Data Center da MTI, pelo prazo de 3 anos (Lote 01 equipamentos de armazenamento)",Existente / Aditivo,DTIC,UGITI,2787,"Manter suporte e garantia dos
+equipamentos de armazenamento,
+backup e conectividade
+",Mensal,12,"R$ 100.000,00","R$ 1.200.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+09,"Contratação de empresa de prestação de serviços de manutenção preventiva e corretiva, asssitência e suporte técnico, incluindo substituição de peças, atualização de software para equipamentos de armazenamento e conectividade do Data Center da MTI, pelo prazo de 3 anos (Lote 03 - Hardware de backup; Lote 04 - Comunicação de dados)",Existente / Aditivo,DTIC,UGITI,2787,"Manter suporte e garantia dos equipamentos de armazenamento, backup e conectividade",Mensal,12,"R$ 15.000,00","R$ 180.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+10,"CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE MANUTENÇÃO PREVENTIVA, CORRETIVA E SOB DEMANDA NOS EQUIPAMENTOS E INSTALAÇÕES ELÉTRICAS E DE REFRIFERAÇÃO DO DATA CENTER DA MTI, PELO PERÍODO DE 36 MESES",Existente / Aditivo,DTIC,UGITI,2787,"Contratar empresa especializada
+para manter sistema elétrico e de
+refrigeração do Data Center da MTI
+
+",Mensal,12,"R$ 90.000,00","R$ 1.080.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+58,"Contratação de serviço especializado em Integração de Dados  (QDI, Compose e Replicate)",Novo a contratar 2024,DTIC,UGGDC,2787,"QDI, Compose e Replicate",Mensal,12,"R$ 160.000,00","R$ 1.920.000,00",3-DESPESAS CORRENTES,32935,1.500.0000,MAIS MT,,,,,0
+59,Contratação de Solução de Gerenciamento para BigData (Cloudera) ,Novo a contratar 2024,DTIC,UGGDC,2787,Solução BigData (Cloudera) ,Unidade,01,"R$ 2.400.570,00","R$ 2.400.570,00",4-DESPESAS DE CAPITAL,32967,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+60,Contratação de Serviço de implementação da Solução de Gerenciamento para BigData (Cloudera) ,Novo a contratar 2024,DTIC,UGGDC,2787,Serviços de BigData (Cloudera) ,Mensal,12,"R$ 300.877,88","R$ 3.610.534,50",3-DESPESAS CORRENTES,32935,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+61,Registro de Preço para Contratação de Solução para Geoprocessamento,Novo a contratar 2024,DTIC,UGGDC,2787,Software de Solução para Geoprocessamento,Unidade,01,"R$ 2.000.000,00","R$ 2.000.000,00",4-DESPESAS DE CAPITAL,32967,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+62,Registro de Preço para Contratação de Serviço para Solução de Geoprocessamento ,Novo a contratar 2024,DTIC,UGGDC,2787,Serviço para Solução de Geoprocessamento ,Mensal,12,"R$ 110.000,00","R$ 1.320.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+63,Contratação de solução de Firewall,Novo a contratar 2024,DTIC,UGGDC,2787,Firewall (Expansão),Unidade,01,"R$ 25.000.000,00","R$ 25.000.000,00",4-DESPESAS DE CAPITAL,32967,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+64,"Contratação de Serviço de Implantação Consultoria Firewalll
+",Novo a contratar 2024,DTIC,UGGDC,2787,Serviço de Firewall (Expansão),Mensal,12,"R$ 200.000,00","R$ 2.400.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+01,"Contratação de empresa especializada para prestação de
+serviços continuados com fornecimento de material sob demanda para o
+atendimento em manutenção corretiva, preventiva, expansão e remanejamento para redes de fibra óptica, cabeamento estruturado e infraestrutura
+associada, da INFOVIA-MT.",Existente / Aditivo,DTIC,UGITI,1208,"Manutenção corretiva, preventiva da Rede INFOVIA-mt",Mensal,12,"R$ 36.000,00","R$ 432.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,,,,,0
+02,"Contratação de empresa especializada para prestação de
+serviços continuados com fornecimento de material sob demanda para o
+atendimento em manutenção corretiva, preventiva, expansão e remanejamento para redes de fibra óptica, cabeamento estruturado e infraestrutura
+associada, da INFOVIA-MT.",Existente / Aditivo,DTIC,UGITI,1208,"Expansão e remanejamento de Rede de fibra óptica, cabeamento estruturado e infraestrutura associada da rede INFOVIA-MT",Unidade,01,"R$ 8.000.000,00","R$ 8.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.500.0000,MAIS MT,,,,,0
+03,Contratação de empresa especializada no fornecimento de serviços de comunicação de dados para promover a conectividade entre AS(Autonomous System) da MTI com a Internet na Modalidade Terrestre contemplando a disponibilizaçaõ de roteador com solução de gerência da rede e prevenção de ataque DDoS no Backbone do provedor do serviço,Existente / Aditivo,DTIC,UGITI,2787,"Manter acesso à internet do Sistema Autonomo (AS) - link 1
+",Mensal,12,"R$ 20.000,00","R$ 240.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+04,Contratação de emrpesa especializada no fornecimento de serviços de comunicaçaõ de daods para promover a concetividade entre AS(Autonomous System) da MTI com a Internet na Modalidade Terrestre contemplando a disponibilizaçaõ de roteador com solução de gerência da rede e prevenção de ataque DDoS no Backbone do provedor do serviço,Existente / Aditivo,DTIC,UGITI,2787,"
+Manter acesso à internet do Sistema Autonomo (AS) - link 2",Mensal,12,"R$ 20.000,00","R$ 240.000,00",3-DESPESAS CORRENTES,32935,1.501.0000,CD-CONTRATOS DIVERSOS,,,,,0
+05,"Registro de Preço para Contratação de empresa especializada para aquisição futura e eventual de SOLUÇÃO DE REDE E CONECTIVIDADE PARA AMBIENTE DE DATACENTER EM TOPOLOGIA SPINE-LEAF BASEADA EM SDN (Software Defined Network) E CONEXÃO À REDE INFOVIA, incluindo EQUIPAMENTOS, SOFTWARES,  IMPLANTAÇÃO, ATUALIZAÇÃO E GARANTIA, TREINAMENTO E SERVIÇOS DE MANUTENÇÃO, SUPORTE TÉCNICO E OPERAÇÃO ASSISTIDA",Novo a contratar 2024,DTIC,UGITI,1208,Implantar Nova Solução de Rede para ambiente de Datacenter  baseada em Topologia Spine-Leaf em SDN,Unidade,01,"R$ 26.000.000,00","R$ 26.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.500.0000,MAIS MT,5,3,4,3,180
+06,"Contratação de empresa especializada para reestruturação e amplicação da Rede INFOVIA-MT, com fornecimento de Materiais, equipamentos e serviços especializados",Novo a contratar 2024,DTIC,UGITI,1208,"Expansão e remanejamento de Rede de fibra óptica, cabeamento estruturado e infraestrutura associada da rede INFOVIA-MT para atender rede LAN (Etapa 2) e amplicação da Rede MAN",Unidade,01,"R$ 24.000.000,00","R$ 24.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.500.0000,MAIS MT,5,3,4,3,180
+07,Aquisição de equipamentos de Rede com suporte e garantia,Novo a contratar 2024,DTIC,UGITI,1208,Aquisição de equipamentos de rede (Switchs de Acesso e Agregação) necessários para atendimento de demandas existentes,Unidade,01,"R$ 6.000.000,00","R$ 6.000.000,00",4-DESPESAS DE CAPITAL,4.4.90.40,1.500.0000,MAIS MT,5,4,4,4,320
+08,"PRESTAÇÃO DE SERVIÇOS CONTINUADOS COM FORNECIMENTO DE MATERIAL SOB DEMANDA PARA O ATENDIEMNTO EM MANUTENÇÃO CORRETIVA, PREVENTIVA, EXPANSÃO E REMANEJAMENTO PARA REDES DE FIBRA ÓPTICA, CABEAMENTO ESTRUTURADO E INFRAESTRUTURA ASSOCIADA, DA INFOVIA-MT",Novo a contratar 2024,DTIC,UGITI,1208,Serviço de Manutenção corretiva e preventiva da INFOVIA (Sob demanda),Mensal,12,"R$ 600.000,00","R$ 7.200.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,,,,,0
+09,Contratação de empresa especializada para prestação de serviços reestruturação e amplicação da Rede INFOVIA-MT,Novo a contratar 2024,DTIC,UGITI,1208,"Serviço de Expansão e remanejamento de Rede de fibra óptica, cabeamento estruturado e infraestrutura associada da rede INFOVIA-MT para atender rede LAN (Etapa 2) e amplicação da Rede MAN",Unidade,01,"R$ 4.000.000,00","R$ 4.000.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.500.0000,MAIS MT,5,3,4,3,180
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,,,,,,"R$ 0,00",,,,,,,,,0
+01,Registro de Preços para contratação de empresa especializada para operação remota de Data Center,Novo a contratar 2024,DTIC,UGITI,NOVA 3,Registro de Preço para contratação de empresa especializada para operação remota de Data Center,Mensal,12,"R$ 200.000,00","R$ 2.400.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+02,Contratação de empresa especializada de engenharia para acompanhamento da execução da obra e Atesto da entrega do Novo Datacenter,Novo a contratar 2024,DTIC,UGITI,NOVA 3,Contratação de empresa especializada de engenharia para acompanhamento da execução da obra e Atesto da entrega do Novo Datacenter,Unidade,01,"R$ 1.800.000,00","R$ 1.800.000,00",3-DESPESAS CORRENTES,3.3.90.40,1.501.0000,OD-OUTRAS DESPESAS,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 3,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 4,,,,,"R$ 0,00",,,,,,,,,0
+02,Participação em Eventos de Inovação,Novo a contratar 2024,GADV,UGEIP,NOVA 5,Inscrição em eventos de inovação,Unidade,03,"R$ 3.000,00","R$ 9.000,00",3-DESPESAS CORRENTES,3.3.90.39,1.501.0000,OD-OUTRAS DESPESAS,4,3,3,3,108
+03,Premiação para coloaboradores para atender ao programa de gamificação da MTI,Novo a contratar 2024,GADV,UGEIP,NOVA 5,Premiação para colaboradores,Unidade,12,"R$ 20.000,00","R$ 240.000,00",3-DESPESAS CORRENTES,3.3.90.31,1.501.0000,OD-OUTRAS DESPESAS,5,4,4,4,320
+04,Patrocínio para eventos externos do ecossistema de inovação ou organização de eventos realizados pela MTI para promoção da inovação ou engajamento dos colaboradores,Novo a contratar 2024,GADV,UGEIP,NOVA 5,Patrocínio para eventos externos do ecossistema de inovação ou organização de eventos realizados pela MTI para promoção da inovação ou engajamento dos colaboradores,Unidade,04,"R$ 25.000,00","R$ 100.000,00",3-DESPESAS CORRENTES,3.3.90.31,1.501.0000,OD-OUTRAS DESPESAS,5,3,4,4,240
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 5,,,,,"R$ 0,00",,,,,,,,,0
+01,Contratação de empresa especializada em serviços na área de engenharia para execução da obra de Reforma e Ampliação do prédio onde será a nova sede da MTI,Novo a contratar 2024,DAFI,UGADM,NOVA 6,Reforma e Ampliação do prédio onde será a nova sede da MTI.,Metro,5608,"R$ 3.269,69","R$ 18.337.206,25",4-DESPESAS DE CAPITAL,4.4.90.51,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+02,Contratação de empresa especializada em serviços na área de engenharia para execução da obra de Reforma e Ampliação do prédio onde será a nova sede da MTI,Novo a contratar 2024,DAFI,UGADM,NOVA 6,"FORNECIMENTO e IMPLANTAÇÃO dos sistema de ""Rede Integrada tipo XGS PON, Telefonia, Vídeo Conferência, CFTV, Access Point e Controle de Acesso"".",Metro,5608,"R$ 1.390,67","R$ 7.799.211,12",4-DESPESAS DE CAPITAL,4.4.90.51,1.501.0000,OD-OUTRAS DESPESAS,5,5,5,5,625
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0
+00,,,,,NOVA 6,,,,,"R$ 0,00",,,,,,,,,0

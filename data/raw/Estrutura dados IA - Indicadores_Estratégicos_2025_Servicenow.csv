@@ -1,0 +1,45 @@
+Ciclo,Nome,Descrição,Métrica,Objetivo Estratégico,Unidade,Meta Anual,Progresso da Meta
+2025-2029,Índice de conformidade com LGPD,"<p>Proporção em que as práticas da organização estão alinhadas com os princípios e requisitos da LGPD, refletindo o nível de proteção dos dados pessoais dos titulares.</p>
+<div><strong>Nível A - 5</strong></div>
+<div><strong>Nível B - 4</strong></div>
+<div><strong>Nível C - 3</strong></div>
+<div><strong>Nível D - 2</strong></div>
+<div><strong>Nível E - 1</strong></div>
+<div> </div>
+<div><strong>Tarefas de Adequação Simulador ANPD - meta sair de maturidade E para C em 2025 </strong></div>
+<div>
+<div>- Implantar Simuladores de ANPD em todos os Ciclos  <strong>- Andamento </strong></div>
+<div>- Priorizar tarefas que estão mais adiantadas no processo <strong>-  Andamento</strong></div>
+<div>- Adequar ao ROPA - Registro das Atividades de Tratamento das Atividades <strong>- Andamento</strong></div>
+<div>- Implantar Portal de Titular dos Dados <strong>- Andamento</strong></div>
+<div>- Adequar Politicas e Normas a Conformidade com a Lei <strong>- Andamento</strong></div>
+<div>- Implantar Módulo de Gestão de Incidentes  <strong>- Andamento</strong></div>
+<div>- Efetuar Descoberta e Classificação dos Dados Sensiveis e Não Sensiveis nas Bases Estruturadas e Nãos Estruturadas <strong>- Andamento</strong></div>
+<div>
+<p><strong>Entrega 20: Desenho do processo de curadoria de dados.</strong></p>
+<p><em>Aguardando feedback e aprovação do conteúdo. (MTI)</em></p>
+<p>Prazo para dúvidas/anotações/melhorias: 25/04/25.</p>
+<div style=""direction: ltr; margin: 0px;"">Priorizar a atividade para essa semana, <strong>revisão</strong>. (Comitê e Saffyk)</div>
+<p><strong>Entrega 19: Relatório contendo indicação do curador de dados em cada área entrevistada, a ser aprovado pela MTI, a fim de oficializar a nomeação.</strong></p>
+<p>Depende<em> da Entrega 20 </em>– Aguardando validação do MTI</p>
+<p>Levantar nomes dos curadores de dados de cada área, de acordo com o perfil descrito na Entrega 20 – MTI.</p>
+<div style=""direction: ltr; margin: 0px;"">Aguardando finalizar a entrega 20.</div>
+</div>
+<div>
+<ul><li><strong>Entrega 17: Inventário de dados pessoais com a utilização do SGPS.</strong></li><li><strong>Entrega 05: Lista dos dados pessoais identificados, em formato a ser definido pela MTI, contendo, no mínimo, as seguintes informações: Nome do dado; Descrição; Curador do dado; Sistema de origem e tipo de dado.</strong></li><li>Está aguardando FINALIZAR o BigID SCAN para executar o CORRELATION.<strong> </strong></li><li><strong>Entrega 06: Fluxogramas que traduzam o ciclo de vida (linhagem) dos dados pessoais no SGPS. 3.27.6.1. Desenho da arquitetura de dados pessoais.</strong></li><li> Está aguardando FINALIZAR o BigID SCAN para executar o CORRELATION.</li></ul>
+<p><strong><span style=""text-decoration: underline;"">AÇÕES </span>BIGID<span style=""text-decoration: underline;"">:</span></strong></p>
+<ul><li>As bases Oracle foram conectadas com sucesso e iniciado o SCAN, sem impedimentos (07/11/24).
+<ul><li><span style=""text-decoration: underline;"">Pendente acesso à nova base</span></li></ul>
+</li><li>Pedido ao Saffyk a identificação da tabela principal de relacionamento Oracle e alinhamento dos próximos passos para SCAN das bases - <em><span style=""text-decoration: underline;"">&#64;Saffyk Vicuna</span></em></li><li>Precisamos que sejam compartilhados e realizados os acessos banco MySQL - <em>&#64;Saffyk Vicuna</em></li></ul>
+<ol style=""list-style-type: decimal;"" start=""1""><li>Não temos o IP e tamanho do MongoDb - Cidadão. Será <em>scaneado</em> nesse momento? <em>&#64;Saffyk Vicuna</em></li></ol>
+</div>
+</div>
+<div> </div>",Último valor,Garantir adequação à Proteção de Dados,DTIC - DIRETORIA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO,3,3
+2025-2029,Índice de Maturidade de Gestão e Governança - Modelo iESGo,<p>O iESGo -  Índice de Avaliação de Governança Organizacional é uma ferramenta utilizada para avaliar o nível de desenvolvimento e eficácia das práticas de governança e gestão dentro de uma organização.</p>,Último valor,Aperfeiçoar a Governança Corporativa,UGGOV - UNIDADE DE GESTAO DE APOIO A GOVERNANCA,61,
+2025-2029,Índice de Maturidade de Gestão e Governança - Modelo IMGG,<p>O Índice de Maturidade em Governança e Gestão (IMGG) é uma ferramenta utilizada para avaliar o nível de desenvolvimento e eficácia das práticas de governança e gestão dentro de uma organização.</p>,Último valor,Aperfeiçoar a Governança Corporativa,UGGOV - UNIDADE DE GESTAO DE APOIO A GOVERNANCA,93,
+2025-2029,Índice de satisfação e imagem,<p>Este indicador é obtido através da pesquisa institucional.</p>,Último valor,Elevar o nível de satisfação do cliente e da imagem institucional,ASSCOM - ASSESSORIA DE COMUNICACAO,"8,4",
+2025-2029,Nível de satisfação do cliente com as soluções de Tecnologia da Informação e Comunicação entregues,"<p>Este indicador visa aumentar o nível de qualidade das entregas de soluções de tic, sendo aferido nível de satisfação do cliente após cada entrega</p>",Média,Elevar o nível de satisfação do cliente e da imagem institucional,UGEPV - UNIDADE DE GESTAO DE PÓS VENDA,75,"91,94"
+2025-2029,Percentual de disponibilidade das soluções de Tecnologia da Informação e Comunicação,<p>Objetivo para o programa PPA é garantir alta disponibilidade das soluções de TIC para o Poder Executivo</p>,Média,Garantir alta disponibilidade das soluções de Tecnologia da Informação e Comunicação,DTIC - DIRETORIA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO,"99,8","99,41"
+2025-2029,Percentual de pessoas com 100% de seu Plano de Desenvolvimento Individual executado (sede),<p>Este indicador tem por objetivo empreender esforços para concretização do planejamento individualizado através do PDI - Plano de Desenvolvimento Individual.</p>,Acumulado,"Promover a satisfação do colaborador e aumentar suas competências, habilidades e atitudes",UGPES - UNIDADE DE GESTAO DE PESSOAS,87,"20,02"
+2025-2029,Percentual de satisfação dos colaboradores,<p>Medida do grau de contentamento dos colaboradores com a experiência de trabalho na empresa.</p>,Média,"Promover a satisfação do colaborador e aumentar suas competências, habilidades e atitudes",UGPES - UNIDADE DE GESTAO DE PESSOAS,75,"77,78"
+2025-2029,Valor do Faturamento (R$ em Milhões),<p>Indicar de valor do faturamento da MTI</p>,Acumulado,Elevar o faturamento,UGVEN - UNIDADE DE GESTAO DE VENDAS,84000000,"68358202,66"

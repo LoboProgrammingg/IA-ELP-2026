@@ -1,0 +1,1137 @@
+CÓDIGO DO RISCO,DESCRIÇÃO DO RISCO,CATEGORIA DO RISCO,RISCO INERENTE,RISCO RESIDUAL,RISCO DE SEGURANÇA DA INFORMAÇÃO - SI,O QUE,QUEM,QUAL ATIVO CRÍTICO AFETADO PELO RISCO?,POR QUE,COMO,INÍCIO,FIM,QUANTO,SITUAÇÃO,PERCETUAL DE EXECUÇÃO,OBSERVAÇÕES,UG,Situação Geral,Número de Ações,Quantidade de Eventos de Riscos
+,,,,,,,,,,,,,,,,,,,,
+R.GADP.01,Não priorização pelo governo quanto às soluções a serem entregues pela MTI,ESTRATÉGICO,,ALTO,,Alinhamento com a área estratégica do governo,,,,"- Elaboração e aprovação do PTA;
+- A partir da consolidação do PTA, apresentar e argumentar as necessidades junto ao órgão central do orçamento.
+- Priorização das atividades a serem realizadas, a partir do teto disponibilizado;
+- Viabilizar agendas peiódicas com o Governador, para priorização;
+- Pautar, nas agendas ordinárias do Conselho de Administração, o monitoramento dos projetos estratégicos.",02/01/2023,29/12/2023,,EM ANDAMENTO,"20,00%",- Verificar orçamento 2023 com ideraldo,GADP,"20,00%",3,3
+R.GADP.02,Não contratação da MTI em tempo hábil,ESTRATÉGICO,ALTO,,,Aperfeiçoar o modelo de contratação dos serviços,,,,- Alinhamaento com a PGE e COTEC para criação de um modelo de contratação corporativa da MTI.,02/01/2023,29/12/2023,"R$ 0,00",EM ANDAMENTO,"20,00%",,GADP,,,
+R.GADP.03,Vencimento do contrato de temporários ,ESTRATÉGICO,CRÍTICO,,,Solução para continuidade dos negócios sob responsabilidade dos temporários,,,,"- Verificação com a UNIJUR das soluções jurídicas; 
+- Análise da UGPES;
+- Verificação de soluções com a DTIC.",,,,,,,GADP,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.DTIC.01,Indisponibilidade do MT LOGIN,ESTRATÉGICO,CRÍTICO,CRÍTICO,SIM,O MT LOGIN deve estar disponível 24x7 com uma disponibilidade superior a 99%,UGGDI,GCP,Garantir maior disponibilidade e estabilidade na aplicação,Migrando para Nuvem GCP,01/06/2024,01/09/2025,,EM ANDAMENTO,"20,00%","Ações e Resultados
+
+Criar monitoramento 24x7 da aplicação com equipe dedicada - Painel diário com Relatório semanal [contrato rw3]
+DNS em nuvem (gcp)
+Redundância Total de ambiente para alta disponibilidade
+Atualização do Keycloack
+Refatoração do ambiente para dev, homol, integração e prod
+Atualização conceitual para deixar focado em autenticar usuário
+Migração de base de dados para Postgres com cobertura contratual da RW3
+Migrar notamt para utilizar o mt login da forma correta
+Criar plano de ação para ajustar aplicações do governo digital que estão em produção e novas
+Recriar indicadores e medidores próprios, incluindo disponibilidade de status na plataforma de clientes
+Monitoramento de segurança e painel diário com relatório mensal de incidentes de segurança
+Esteira de Código Seguro
+Esteira de Testes (unitário, e2e, integração)
+Atendimento nível 1 para o usuário do MT Login (mapear ambientes de integração e produção)",DTIC,"17,50%",5,5
+R.DTIC.02,Indisponibilidade do MT ID,ESTRATÉGICO,CRÍTICO,CRÍTICO,SIM,O MT ID deve estar disponível 24x7 com uma disponibilidade superior a 99%,UGGDI,OPENSHIFT,Garantir maior disponibilidade e estabilidade na aplicação,"Atualizando ambiente openshift
+Atualizando aplicação, estruturando documentação, criando time dedicado, ajustando contrato de sustentação",01/06/2024,30/12/2025,,EM ANDAMENTO,"20,00%","Ações e Resultados
+
+
+Redundância total de ambiente para alta disponibilidade
+Criar monitoramento da aplicação 24x7 com equipe dedicada - Painel diário com relatório mensal [contrato da rw3]
+Criar plano de ação para permitir a integração com sistemas do governo de forma facilitada [Instrução normativa??]
+Repositório de documentação (principalmente legal) atualizada (ferramental)
+Site público para integração de todos os sistemas, explicando como que isso é feito
+Recriar indicadores e medidores próprios, incluindo disponibilidade de status na plataforma de clientes
+Monitoramento de segurança e painel diário com relatório mensal de incidentes de segurança
+Atendimento nível 1 para o usuário do MT ID (mapear ambientes de integração e produção)
+Esteira de Código Seguro",DTIC,,,
+R.DTIC.03,Indisponibilidade do Portal de Serviços de MT,ESTRATÉGICO,CRÍTICO,CRÍTICO,SIM,O Portal de Serviços de MT deve estar disponível 24x7 com uma disponibilidade superior a 99%,UGGDI,GCP,Garantir maior disponibilidade e estabilidade na aplicação,,01/06/2024,01/06/2025,,EM ANDAMENTO,"20,00%","Ações e Resultados
+
+Redundância total de ambiente para alta disponibilidade
+Load Balance (gcp) e demais componentes  -- estudar diferentes regiões geográficas incluindo datacenter cuiaba
+Criar monitoramento da aplicação 24x7 com equipe dedicada - Painel diário com relatório mensal
+Recriar indicadores e medidores próprios, incluindo disponibilidade de status na plataforma de clientes
+Monitoramento de segurança e painel diário com relatório mensal de incidentes de segurança
+Nova versão ---- mais robusta e segura do portal
+Esteira de Código Seguro",DTIC,,,
+R.DTIC.04,Indisponibilidade dos Portais de Comunicação de MT,ESTRATÉGICO,CRÍTICO,CRÍTICO,SIM,Os portais de comunicação do Estado de MT devem estar disponíveis 24x7 com uma disponibilidade superior a 99%,UGSDG,,,,01/04/2025,30/12/2025,,EM ANDAMENTO,"10,00%","Ações e Resultados
+
+Redundância total de ambiente para alta disponibilidade
+Criar monitoramento da aplicação 24x7 com equipe dedicada - Painel diário com relatório mensal
+-- Criar plano de ação para deixar o ambiente em nuvem com alta disponibilidade
+-- Criar plano de ação para nuvem liferay 
+-- Criar plano de ação outra alternativa tecnologica para substituição
+Recriar indicadores e medidores próprios, incluindo disponibilidade de status na plataforma de clientes
+Monitoramento de segurança e painel diário com relatório mensal de incidentes de segurança
+Esteira de Código Seguro",DTIC,,,
+R.DTIC.05,Indisponibilidade do Aplicativo MT Cidadão,ESTRATÉGICO,CRÍTICO,CRÍTICO,SIM,"A aplicação nativa do MT Cidadão, logando, navegando no home do app, navegando na parte não logada, entre outras funcionalidades exclusivas do aplicativo devem estar disponíveis 24x7 com disponibilidade superior a 99% -- aplicativo não quebrar de forma alguma -- (microserviços da plataforma, devem estar bem identificados quando estiverem indisponiveis)",UGGDI,,,,01/03/2024,30/12/2025,,EM ANDAMENTO,"25,00%","Ações e Resultados
+
+[contrato da rw3]
+
+Testes integrados, e2e, unitário, fluxo de desenvolvimento de alta qualidade com esteira automatizada
+Esteira de Código seguro
+Testes de cobertura para ios e android, com maior cobertura de so e versão
+Criar monitoramento da aplicação 24x7 com equipe dedicada - Painel diário com relatório mensal
+Recriar indicadores e medidores próprios, incluindo disponibilidade de status na plataforma de clientes
+Monitoramento de segurança e painel diário com relatório mensal de incidentes de segurança
+Central de atendimento nível 1 e nível 2 de atendimento",DTIC,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGGOV.01,Execução parcial do plano estratégico,ESTRATÉGICO,,ALTO,NÃO,"a) Divulgar mensalmente os resultados no painel de Indicadores da MTI (12,5%/12) = 1,0417
+b) Acompanhar evento mensal da DIREX (50%/12) = 4,167
+c) Publicar os resultados na intranet - bimestralmente  (12,5%/6) = 2,0833
+d) Disseminar cartaz de gestão à vista (12,5%) = 12,5
+e) Publicar 2 matérias para os colaboradores (em conjunto com a asscom) (12,5%/2) = 6,25
+",Carlos,MTI,Promover a transparência e responsabilização das partes a fim de melhorar o nível de execução / alcance das metas estratégicas,Atuando de acordo com os cronogramas internos da UGGOV,02/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%","Dos 6 indicadores estratégicos:
+03 indicadores atigiram a meta(Nível de satisfação do cliente com as soluções de TIC entregues, Índice de satisfação e imagem, Percentual de pessoas com 100% de seu PDI executado)
+02 indicadores com tendência de atingir a meta(Índice de disponibilidade das soluções de TIC e, Valor do Faturamento)
+01 indicador resultado abaixo da média (Grau de maturidade de governança e gestão)",UGGOV,"66,67%",3,3
+R.UGGOV.02,Baixo índice de conclusão das oportunidades de melhoria priorizadas pela equipe gerencial,ESTRATÉGICO,,ALTO,NÃO,"a) Divulgar mensalmente os resultados no painel de avaliação da gestão da MTI (5%/12) = 0,4167
+b)Promover capacitação da equipe gerencial (5%) = 5,0
+c)Acompanhar evento semestral  da DIREX (20%)/2 = 10,0
+d) Acompanhar evento semestral no Comitê (20%)/2 = 10,0
+e) Apoiar na elaboração dos planos de ação (5%) = 5,0
+f) Monitorar mensalmente as OM´S (40%)/12 = 3,33
+g) Atuar em conjunto com Asscom na criação de informes   semestral (comunicação de equipe) (5%/2) = 2,5 
+
+",Carlos,MTI,Garantir que as OM´S priorizadas de fato sejam implementadas  ,Atuando de acordo com os cronogramas internos da UGGOV,02/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%","05.06. Ações em andamento / modelo de gestão-governança foi alterado - afetando também o cronograma e métrica. De todo modo, ações de diagnóstico e planos de ação serão elaboradas com novos cronogramas - quando definidos, faremos a atualização aqui.",UGGOV,,,
+R.UGGOV.03,Processos críticos não mapeados ou não atualizados,OPERACIONAL,,ALTO,NÃO,"a) Identificar os processos críticos (15%)
+b) Definir um plano de ação para cada processo identificado (5%)
+c) Atuar no mapeamento/desenho do processo (40%)
+d) Orientar gestores para execução, monitoramento e avaliação dos processos (40%)",Bruno,MTI,Para melhorar a performance gerencial e os resultados da organização,"a) Verificando junto controle interno e UNICRS e posteriormente junto ao Diretor respectivo. A gestão de riscos e segurança da informação poderá fornecer insumos relevantes para determinação dos processos críticos, juntamente com o Diretor. 
+b) Elaborando plano de ação para atuação dos processos críticos identificados
+c) Orientando conforme metodologia de gestão de processos
+d) Orientando gestores para a efetiva execução, monitoramento e avaliação",18/03/2024,31/12/2024,"R$ 0,00",CANCELADA,"0,00%","Em planejamento / atualização de prioridades considerando as demandas na uggov
+
+Início em atraso devido demandas do governo não previstas em planejamento anual - afetando as atividades na equipe
+
+Nova análise: 05/06/24. Em análise quanto a real capacidade da equipe em absorver esta ação.
+Análise 02/07: Equipe com alta demanda e sem condições no momento de atuar nesta atividade / Poucas pessoas para atuação com o volume de competências na uggov.
+
+Análise de risco 24/07: Em consideração às exposições anteriores e considerando IMGG, informamos que a questão será mitigada através de um PMGG - plano de melhoria de governança e gestão - IMGG para 2025, portanto, solicito o CANCELAMENTO",UGGOV,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UNICRS.01,Não  elaborar e acompanhar os  indicadores do  programa de integridade da MTI.,OPERACIONAL,ALTO,,NÃO,- Criar o indicador de integridade e realizar o acompanhamento.,ANA BEATRIZ E IONE COSTA,MTI,"- Evitar a ocorrência de devios de integridade; 
+- Fortalecer e disseminação o programa de integridade no âmbito da MTI, incentivando uma cultura ética.
+- Alcance dos objetivos estratégicos promovendo o engajamento dos colaboradores e assim a melhorando a qualidade das entregas.",1. Elaborar sistematica de controle no plano anual de integridade,01/03/2024,30/04/2024,,CONCLUÍDA,"100,00%",,UNICRS,"100,00%",4,4
+R.UNICRS.03,Falha no acompanhamento mensal dos riscos e encaminhamento do relatório trimestral à alta direção.,OPERACIONAL,,MODERADO,NÃO,Acompanhamento mensal e elaboração de relatório trimestral à DIREX.,ANA BEATRIZ E KAMILLA,MTI,"- Avaliar a aderência dos gerentes administrativos ao gerenciamento de riscos corporativos; 
+- Acompanhar a evolução do tratamento dos riscos corporativos;
+- Fornecer informações aos Diretores sobre o gerenciamento de riscos corporativos.","1. Realizar a atualização do mapa de gestão, mensalmente, sobre o preenchimento do plano de ação por cada UA;
+2. Fazer o levantamento do andamento mensal do preenchimento por cada UA, em pasta apropriada, para subsidiar relatório trimestral;
+3. Consolidar relatório trimestral e encaminhar aos Diretores, constando o andamento do tratamento dos riscos de cada UA, para deliberações internas com o UG responsável:
+     1. JUNHO (mar, abr, mai)
+     2. SETEMBRO (jun, jul, ago)
+     3. Dezembro (set, out, nov, dez)",01/03/2024,20/12/2024,,CONCLUÍDA,"100,00%","1 - Mapa de gestão: realizada a avaliação de dezembro; 3,7% para cada mês avaliado.  
+
+2 - Levantamento de informações para subsidiar o relatório trimestral: Foram coletadas as informações do painel de riscos em 09/01/2025, referente ao mês de outubro; 3,7% para cada mês coletado. 
+
+3 - Relatório trimestral: em elaboração o terceiro relatório trimestral da GIRC-2024. ",UNICRS,,,
+R.UNICRS.04,Execução parcial do plano de segurança da informação.,OPERACIONAL,,ALTO,SIM,"1.Realizar as reuniões periódicas do Comitê de Segurança e Riscos;
+2. Acompanhar e cobrar a execução do plano de segurança da informação para o ano vigente.","ANA BEATRIZ, IONE E LARISSA",MTI,Promover conformidade com as melhores práticas de segurança da informação,"1. Aprovação do plano anual da unidade pelo Presidente
+2. Atualização dos membros do Comitê de Segurança da informação e Riscos;
+3. Atualização do RI do Comitê de Segurança e Riscos;
+4. Aprovação do Plano Anual da SI pelo presidente.
+",01/03/2024,20/12/2024,,CONCLUÍDA,"100,00%","1 - Aprovado o plano anual de SI da UNICRS. 25%
+
+2 - Atualizado os membros do comitê de segurança da informação e riscos, portaria nº 025/2024/MTI. 25%
+
+3 - Elaborado e validado pelos membros o Regimento Interno do Comitê de Segurança da Informação e Riscos; aprovado pela DIREX. 25%
+
+4  - Validado o Plano Anual do CSIR. 25%",UNICRS,,,
+R.UNICRS.05,Falha na disseminação/treinamento de segurança da informação.,OPERACIONAL,,ALTO,SIM,"1. Disseminar a todos os colaboradores as políticas e regulamentos instituídos sobre Segurança da Informação;
+2. Promover palestras e treinamentos sobre segurança da informação aos colaboradores.","ANA BEATRIZ, IONE E LARISSA",MTI,Promover conscientização dos empregados,"1. Aprovação do plano anual da unidade pelo Presidente
+2. Elaboração periódica (MENSAL) de material a ser disseminado via e-mail - projeto ""tome nota""
+3. Convidar palestrantes para tratar de temas relacionados a segurança da informação;
+4. Realizar treinamento interno sobre políticas instituídas na MTI. ",01/03/2024,20/12/2024,,CONCLUÍDA,"100,00%","1 - Aprovado o plano anual da UNICRS. 
+
+2 - foi disseminado, mensalmente, o sétimo material referente ao projeto ""tome nota"".  
+
+",UNICRS,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UNIJUR.01,Deficiência na defesa jurídica da empresa,CONFORMIDADE,,CRÍTICO,NÃO,Monitoramento de prazo judicial,Assessor Juridico I,MTI,Para não perder prazos judiciais.,"1. Por meio de planilha de registro de atividades já elaborada.
+2. Emitir alertas ao assessor do prazo que está esgotando.
+3. Avisar a PGE do prazo encaminhado.
+4. Verificar se a PGE protocolou dentro do prazo.
+",01/03/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,100%,Realizado diariamente,UNIJUR,"97,50%",4,4
+R.UNIJUR.02,Não cumprimento da análise jurídica dentro do prazo legal de 12 dias úteis ou do prazo alinhado com a DIREX,OPERACIONAL,,CRÍTICO,NÃO,Parecer jurídico no prazo,Assessores jurídicos,MTI,Atender o interesse público,"1 - Oferecer treinamento para as áreas demandantes visando disseminar o conhecimento da legislação, visando minimizar os erros.                                                                                             2 - Elaborar cartilhas de orientação para a boa instrução processual;",01/03/2024,30/04/2024,,ATRASADA,90%,"Processo retornou da PGE com manifestação não conclusiva para revisão, após retornaremos a PGE para manifestação conclusiva",UNIJUR,,,
+R.UNIJUR.03,Não cumprimento de intimação judicial feita pelo cadastro da PGE/MT,OPERACIONAL,,ALTO,NÃO,Acompanhamento semanal de todos os andamentos dos processos,UNIJUR,MTI,Não perder prazo judicial,1 - Divisão dos processos entre os assessores                                       2 - Conferência semanal nos sites dos Tribunais de cada processo,01/03/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,100%,Realizado diariamente,UNIJUR,,,
+R.UNIJUR.04, Baixo engajamento das equipes internas,ESTRATÉGICO,,PEQUENO,NÃO,Comunicação entre a equipe,UNIJUR,MTI,engajar toda a equipe,Troca de informações e atualizações diárias de todos os assuntos que ocorrem no setor com o envolvimento de toda a equipe. Participação nos eventos da empresa.,01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",Realizado semanalmente,UNIJUR,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.ASSCOM.01,"Material jornalístico ou publicitário divulgado na mídia (imprensa e redes sociais) que possa prejudicar a reputação da instituição, seus diretores, gestores e colaboradores.",OPERACIONAL,,MODERADO,SIM,Revisão de todas matérias para publicação,Unidade de Comunicação e Marketing  / Diretoria,MTI,Para criar bom relacionamento com a imprensa e mitigar possíveis danos a imagem institucional,"1 – Monitoramento dos principais veículos de imprensa de Mato Grosso;
+2 – Rotina de envio de releases e oferecimento de pautas sobre as ações da MTI à imprensa;
+3 – Realizar Midia Training com os principais porta-vozes da instituição;
+4 – Monitoramento dos riscos de crise institucional junto a Direx ou Comitê de Crise;
+",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,ASSCOM,"100,00%",2,2
+R.ASSCOM.02,Agir em desconformidade com a Lei Geral de Proteção de Dados (LGPD) e expor dados sensíveis ou sofrer com possíveis vazamentos de dados.,CONFORMIDADE,,MODERADO,SIM,   Transparência,Unidade de Comunicação e Marketing / Unidade Jurídica,MTI,Para que as informações disponibilizadas estejam conforme os padrões,"1 – Monitoramento dos sites institucionais, redes sociais e veículos de comunicação ligados a MTI;
+2 – Participar de Capacitação junto a CGE, Ouvidoria e Unidade Jurídica da MTI;
+3 – Submeter à Unidade Jurídica da MTI qualquer solicitação que possa ferir a LGPD;",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,ASSCOM,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.OUVIDORIA.01,A -  Descumprimento das normas e prazos de Ouvidoria,CONFORMIDADE,MODERADO,,NÃO,Cumprir normas e prazos de Ouvidoria,Mara e Maria,MTI,"Para cumprimento das normas,  fortalecimento da imagem institucional e satisfação dos usuários","1. Capacitação/atualização da equipe de Ouvidoria;
+2. Cumprimento das normativas de Ouvidoria e Transparência;
+3. Monitormento dos resultados (relatório de gestão da Ouvidoria);
+4. Disseminação das Normas de Ouvidoria e Transparência.
+",04/03/2024,20/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%","1. Maria - 14 cursos e eventos / Mara - 13 cursos e eventos / Jennifer - 06 cursos e eventos / Gabrielle - 11
+2. jan-dez- 275demandas respondidas no prazo legal.
+3. 04 relatórios publicados
+4. 14 disseminações",OUVIDORIA,"100,00%",3,3
+R.OUVIDORIA.02,C - Não cumprir a meta na avaliação de satisfação com a Ouvidoria,ESTRATÉGICO,MODERADO,,NÃO,Cumprir Meta,Mara e Maria,MTI,Fortalecimento da imagem institucional e satisfação dos usuários,"1. Capacitação/atualização da equipe de Ouvidoria;
+2. Cumprimento das normativas de Ouvidoria e Transparência;
+3. Monitormento dos resultados (relatório de gestão da Ouvidoria);
+4. Disseminação das Normas de Ouvidoria e Transparência.
+",04/03/2024,21/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%","1. Maria - 14 cursos e eventos / Mara - 13 cursos e eventos / Jennifer - 06 cursos e eventos /  Gabrielle - 11
+2. 111 avaliações recebidas, 100% positivas
+3. 04 relatórios publicados
+4. 14 disseminações",OUVIDORIA,,,
+R.OUVIDORIA.03,D - Descumprimento das normas e prazos da LAI no que se refere as demandas de SIC; ,CONFORMIDADE,MODERADO,,NÃO,Cumprir normas e prazos do SIC,Mara e Maria,MTI,"Para cumprimento da LAI,  fortalecimento da imagem institucional e satisfação dos usuários","1. Capacitação/atualização da equipe de Ouvidoria;
+2. Cumprimento das normativas de Ouvidoria e Transparência;
+3. Monitormento dos resultados (relatório de gestão da Ouvidoria);
+4. Disseminação das Normas de Ouvidoria e Transparência.
+",04/03/2024,22/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%","1. Maria - 14 cursos e eventos / Mara - 13 cursos e eventos / Jennifer - 06 cursos e eventos /  Gabrielle - 11
+2. jan-dez - 04 pedidos de informações respondido no prazo legal
+3. 04 relatórios publicados
+4. 14 disseminações",OUVIDORIA,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGENP.01,Não haver captação de novas ideias,OPERACIONAL,,MODERADO,NÃO,"Criar um sistema estruturado para a coleta, avaliação e implementação de novas ideias.",Aílton Machado,MTI,Um sistema de gestão de ideias ajuda a organizar o processo de captação e seleção das melhores ideias.,"Divulgar o programa nos canais da Empresa
+Divulgar nos eventos realizados pela MTI
+Incluir os colaboradoradores no Sistema de Gestão de gamificação",01/06/2024,31/12/2024,,EM ANDAMENTO,"95,00%",Sistema MTIGen em fase final de homologação. Testes em Produção com PILOTO com a UGPES.,UGENP,"99,55%",13,14
+R.UGENP.02,Não cumprir o planejamento da demanda,OPERACIONAL,,MODERADO,NÃO,Realizar planejamento e monitorar as priorizações da camada estratégica da MTI ,Aílton Machado,MTI,Para otimizar a força de trabalho alinhado ao interesse estratégico da MTI ,"Realizar reuniões e monitoramento das ações da DIRC
+Alinhar sobre as priorizações da MTI
+
+
+",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",Reuniões semanais com o Diretor DIRC,UGENP,,,
+R.UGENP.03,Falta de recursos para eventos planejados,OPERACIONAL,,ALTO,NÃO,Estabelecer um processo claro de gestão de recursos que permita o acompanhamento e a alocação adequada dos recursos para os eventos.,Aílton Machado,MTI,Uma gestão eficiente dos recursos ajuda a evitar desperdícios e a garantir que os recursos estejam disponíveis quando necessários.,"Utilizar ferramentas de gestão de projetos, definir responsabilidades claras, monitorar o uso de recursos e fazer ajustes conforme necessário.",01/03/2024,31/12/2024,,CANCELADA,,,UGENP,,,
+R.UGENP.04,Deficiência na entrega de demanda priorizada innovation day,OPERACIONAL,,CRÍTICO,NÃO,"Engajar e envolver as equipes responsáveis pela entrega das demandas priorizadas, garantindo que estejam comprometidas com os objetivos do Innovation Day.",Aílton Machado,MTI,O engajamento das equipes é fundamental para garantir a colaboração e o foco na entrega das demandas prioritárias.,"Realizar sessões de brainstorming, incentivar a comunicação aberta e criar um ambiente de trabalho colaborativo para motivar as equipes.",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%","Conversas diárias com membros da equipe, sobre aspectos pessoais/emocionais e profissionais.",UGENP,,,
+R.UGENP.05,Não haver participação de trabalhos em congressos ,OPERACIONAL,MODERADO,,NÃO,"Conscientizar os colaboradores sobre os benefícios e oportunidades de participar em congressos, como networking, aprendizado e visibilidade.",Aílton Machado,MTI,A participação em congressos contribui para o desenvolvimento profissional dos colaboradores e para a disseminação do conhecimento da empresa.,"Realizar palestras internas, compartilhar casos de sucesso e incentivar a participação ativa dos colaboradores na busca por oportunidades de apresentação em congressos.                                                                                   Apoiar Financeiramente e Logisticamente os Colaboradores",01/03/2024,31/12/2024,,CANCELADA,,,UGENP,,,
+R.UGENP.06,Não oferecer soluções inovadoras de acordo com o mercado,OPERACIONAL,ALTO,,NÃO,Acompanhar de perto as tendências e as mudanças no mercado de Tecnologia da Informação para identificar oportunidades de inovação.,Aílton Machado,MTI,Estar atento às demandas e preferências dos clientes permite antecipar as necessidades do mercado e desenvolver soluções inovadoras.,"Realizar análises de mercado, participar de eventos do setor, e manter contato com clientes e parceiros para obter feedback sobre tendências emergentes.",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%","Participação em evento de TI, agendas com parceiros sobre tendências e oportunidades. ",UGENP,,,
+R.UGENP.07,Não haver participação de colaboradores nos eventos internos e externos,OPERACIONAL,MODERADO,,NÃO,Personalizar a comunicação e a programação dos eventos de acordo com os interesses e necessidades dos colaboradores.,Aílton Machado,MTI,Eventos relevantes e alinhados com as expectativas dos colaboradores aumentam o engajamento e a participação.,"Realizar pesquisas de interesse, segmentar a programação dos eventos, e oferecer opções variadas que atendam às preferências da equipe.",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",Busca com outras áreas sobre tema e palestrantes para as agendas do Café Tech e Tech Talk,UGENP,,,
+R.UGENP.08,Não evolução de contratações dos produtos disponibilizados através de parcerias da MTI,OPERACIONAL,ALTO,,SIM,Estabelecer métricas de desempenho e monitorar regularmente a aceitação e o uso dos produtos disponibilizados por meio das parcerias.,Aílton Machado,MTI,Parcerias sólidas e transparentes são essenciais para a evolução contínua dos produtos e para a manutenção de uma rede de colaboração eficaz.,Monitorar possibilidades de novos parceiros para poderem eventualmente possibilitar a continuidade de negócios.,01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",20 Empresas Entrevistadas: Positivo Tecnologia; Italtel Brasil; Norden IT; Pentágono TI; MTM Tecnologia; EVO; BA Group e Teltec; Palo Alto;  Positivo; Thales; PPN Tecnologia; Autodesk; LanLink; Pars/Adobe; Bricon It Solution; Invillia; Energy Telecom; Chip Cia/DELL; 9NET/AWS; VALID,UGENP,,,
+R.UGENP.09,Vazamento de dados sigilosos referentes ao processo de parcerias e ideias de inovação,OPERACIONAL,CRÍTICO,,SIM,Participar de treinamentos regulares sobre segurança da informação e a importância da proteção de dados sigilosos.,Aílton Machado,MTI,"conscientização dos colaboradores é essencial para prevenir erros humanos, phishing e outras ameaças internas.","Participar de campanhas de conscientização, simulações de phishing, e orientar os colaboradores sobre boas práticas de segurança.                                                                                       Fomentar políticas de acesso baseadas em funções, criptografar dados sensíveis e monitorar as atividades de acesso e uso dos dados.",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%","Worshop sobre LGPD;                                                  Participação nos fóruns de LGPD;                          Participação em pesquisa;                             Revisão do compartilhamento de pastas e arquivos da UG, dos processos de parceria estratégica.      ",UGENP,,,
+R.UGENP.10,Direcionamento de um processo de parceria ou chamamento público,OPERACIONAL,MODERADO,,SIM,"Assegurar que o processo de seleção seja conduzido de forma imparcial, sem favorecimentos ou direcionamentos indevidos.",Aílton Machado,MTI,"A transparência fortalece a credibilidade da empresa, demonstra a lisura do processo e permite a prestação de contas à sociedade.","Participar de comissão ou equipe responsável pela avaliação, evitar conflitos de interesse e garantir a transparência em todas as etapas do processo.                                                                                                                    Dar publicidade de informações sobre o processo, disponibilizar relatórios de avaliação, e responder a questionamentos e solicitações de esclarecimento de forma aberta.",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",Participação de comitê de inovação e Transformação Digital MT;                                                  Grupo de Trabalho da Politica de IA para Poder Executivo de Mato Grosso,UGENP,,,
+R.UGENP.11,Baixo engajamento das equipes internas,ESTRATÉGICO,,CRÍTICO,NÃO,"Criar oportunidades para que os colaboradores participem ativamente, contribuam com ideias e sugestões, e se envolvam em projetos e iniciativas da empresa.",Aílton Machado,MTI,"O envolvimento dos colaboradores aumenta a motivação, a criatividade e a produtividade, além de fortalecer o senso de pertencimento e a cultura de colaboração.",Sensibilização/motivação das equipes,01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",Liberação para participação em palestras de tecnologia e inovação;                                Participação de Evento externo do Gartner; Participação em Eventos ,UGENP,,,
+R.UGENP.12,Baixa capacidade para operacionalizar as parcerias estratégicas,ESTRATÉGICO,,CRÍTICO,NÃO,"Elaborar um plano estratégico que defina objetivos claros, metas mensuráveis e ações específicas para operacionalizar as parcerias estratégicas.",Aílton Machado,MTI,"Um plano de gestão estruturado orienta as atividades, alinha os esforços da equipe e facilita a execução eficaz das parcerias.",Aperfeiçoar o modelo de parcerias estratégicas a. monitorar a execução de todo o processo das parcerias estratégicas em conjuto com os parceiros.,01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%",Aprovação des instrumentos do Regulamento de Parceria MIPP / TAP / Compliance,UGENP,,,
+R.UGENP.13,Risco a oportunidade de negócios ou comprometimento da continuidade de negócios de produtos de parceria da MTI,OPERACIONAL,CRÍTICO,,SIM,Identificar e avaliar os riscos que podem impactar as oportunidades de negócios e a continuidade das operações da empresa.,Aílton Machado,MTI,"A análise de riscos permite antecipar ameaças potenciais, tomar medidas preventivas e mitigar os impactos negativos nos negócios.","Realizar avaliações regulares de riscos, envolver as partes interessadas, priorizar os riscos identificados e desenvolver planos de ação para gerenciá-los.",01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%","Revisitação no Plano de Riscos, inerentes a UGENP",UGENP,,,
+R.UGENP.14,,ESTRATÉGICO,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGVEN.01,Serviços prestados sem cobertura contratual pelos Clientes,OPERACIONAL,,CRÍTICO,,Existem clientes sem contrato ou com contratos deficitários em serviços e/ou quantitativos prestados X serviços contratados,UGVEN,,"1. Não prestarmos serviço sem cobertura contratual ou com quantitativos menores  
+2. Não termos problemas no faturamento
+3. Priorização dos projetos contratados","- Negociar com os clientes para que seja elaborado aditivos de contrato ou novos contratos;
+- Definir processos/procedimentos para cobrar e agilizar a contratação dos serviços",22/01/2024,13/12/2024,,EM ANDAMENTO,"90,00%",Apenas Empaer sem contrato formal,UGVEN,"65,71%",7,7
+R.UGVEN.02,Contratos não são assinados no prazo necessário,OPERACIONAL,,CRÍTICO,,Serviços prestados sem contrato,UGVEN,,Processo para contratação da MTI é lento e burocrático,"- Verificar outra forma de receber os serviços prestados pela MTI (Fundo de TI);
+- Encaminhar o KIT contratação 
+- Verificar parecer referencial da PGE",14/02/2024,13/12/2024,,EM ANDAMENTO,"30,00%",Kits contratação em elaboração,UGVEN,,,
+R.UGVEN.03,Execução do serviço não compatível com a expectativa do cliente,OPERACIONAL,,ALTO,,Acompanhar o cronograma e as entregas dos serviços contratados,UGVEN,,Fazer as adequações do projeto e/ou prazos,Agendar reuniões sistemáticas (quinzenal ou mensal) de acompanhamento dos projetos,22/01/2024,13/12/2024,,EM ANDAMENTO,"50,00%",Consultores iniciaram agendas com clientes em projetos em andamento,UGVEN,,,
+R.UGVEN.04,Não atualização de portfólio de serviços,OPERACIONAL,,CRÍTICO,,Revisar  Catálogo de serviços e preço dos produtos para sermos competitivos com o mercado,UGVEN,,Portfólio de serviços desatualizado,"Revisando o portfólio da MTI, mantendo os serviços atualizados e verificando os preços praticados estão adequados com os valores de mercado",22/01/2024,13/12/2024,,EM ANDAMENTO,"80,00%","catálogo aprovado Direx, porém necessita de constante acompanhamento",UGVEN,,,
+R.UGVEN.05,Entregas dos serviços das parcerias fora do prazo acordado ou de baixa qualidade,OPERACIONAL,MODERADO,,,Acompanhar o cronograma e as entregas dos serviços das parcerias,UGVEN,,Fazer as adequações do projeto e/ou prazos,Agendar reuniões sistemáticas (quinzenal ou mensal) de acompanhamento dos projetos,22/01/2024,13/12/2024,,EM ANDAMENTO,"70,00%","No que tange ao comercial, a equipe de vendas e pós vendas estão realizando agendas com clientes ",UGVEN,,,
+R.UGVEN.06,Frustração da realização das receitas previstas,OPERACIONAL,,ALTO,,"Celebrar novos contratos com os clientes
+Celebrar contratos dos serviços/quantitativos sem cobertura contratual",UGVEN,,Aumentar a receita dos serviços,"- Identificar as oportunidades com as novas parcerias e os clientes que não tem serviços todos os serviços disponíveis.
+- Celebrar novos contratos com os clientes
+atualizar no Infocenter os ativos que não estão cadastrados corretamente e celebrar contratos ou aditivos dos serviços/quantitativos sem cobertura contratual",22/01/2024,13/12/2024,,EM ANDAMENTO,"60,00%",Novas propostas e contratos oriundos de parcerias estão surgindo.,UGVEN,,,
+R.UGVEN.07,Baixo engajamento das equipes internas,ESTRATÉGICO,,,,Baixo engajamento da equipe,UGVEN,,"- Equipes internas desmotivadas
+- Baixo interesse em ajudar outras equipes
+- Falta de espírito colaborativo","- Realização de treinamentos motivacionais
+- Dar e receber feedback
+- Reuniões com a equipe e individuais para monitoramento",01/03/2024,29/11/2024,,EM ANDAMENTO,"80,00%","Reuniões com equipe e individuais
+Feedback com equipe
+Elaboração do PDI de todos da equipe
+",UGVEN,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGADM.01,Não coordenar a gestão do arquivo permanente,OPERACIONAL,,MODERADO,,Coordenar efetivamente a gestão do arquivo permanente,Marcela ,MTI,"Gestão de documentos em cumprimento aos Decretos Estaduais nº 1.654/97, de 29 de agosto de 1997 e 1.509/2008, de 12 de agosto de 2008, a Secretaria de Estado de Gestão, através do Arquivo Público de Mato Grosso, tem a atribuição de orientar os órgãos públicos do Estado de Mato Grosso sobre a implantação ou implementação da Política de Gestão de Documentos",Treinamento SEPLAG,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","1° Ciclo - até 30/04/2024 - Foi enviado para avaliação  para Coordenadoria do Arquivo Publico 
+
+2° Ciclo - até 31/07/2024 -  Foi enviado para avaliação  para Coordenadoria do Arquivo Publico 
+
+3° Ciclo - até 31/10/2024 -  Foi enviado para avaliação  para Coordenadoria do Arquivo Publico ",UGADM,"100,00%",6,6
+R.UGADM.02,Falta de gestão dos documentos da empresa,OPERACIONAL,,ALTO,,Coordenar a gestão de documentos ,Marcela ,MTI ,Manter a gestão de documentos ,Treinamento SEPLAG/ Arquivo Publico ,02/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Realizado através da Portaria de eliminação de documentos ,UGADM,,,
+R.UGADM.03,Falta de planejamento e distribuição dos materiais de consumo,OPERACIONAL,,MODERADO,,Implantação do Módulo Almoxarifado no Protheus ,Marcelo ,MTI ,Utilizar o Sistema já utulizado pela MTI ,Realizar a contabilidade dos materiais no sistema e parametrizar as regras no Protheus juntamente com o Gestor do Sistema ,03/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",,UGADM,,,
+R.UGADM.04,Não realizar manutenção predial ,OPERACIONAL,,ALTO,,Formalizar o processo de Manutenção Predial ,Olívia ,MTI ,Dar suporte a equipe GETS nas demandas solicitadas.,Realizar a contratação com a empresa ,04/01/2024,31/12/2024,,CONCLUÍDA,100%,,UGADM,,,
+R.UGADM.05,Falta de controle dos materiais permanentes ,OPERACIONAL,,MODERADO,,Implantação do Módulo Patrimonio no Protheus ,Marcelo ,MTI,Utilizar o Sistema já utulizado pela MTI ,Realizar a contabilidade dos materiais no sistema e parametrizar as regras no Protheus juntamente com o Gestor do Sistema ,05/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",,UGADM,,,
+R.UGADM.06,"Falta de realização de inventário (Bens permanentes, consumo, imobiliário e intangíveis)",OPERACIONAL,,ALTO,,Implantação do Módulo Patrimonio no Protheus ,Marcelo ,MTI ,Encerramento do Exercício que prevê prazos e limites para providências quanto ao Inventário de Bens e demais ações.,Alimentar com todas as informações a comissão de inventário ,06/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",,UGADM,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGEPV.01,Insatisfação do cliente com o serviço adquirido.,OPERACIONAL,ALTO,,NÃO,"1. Entrega deficitária
+2. Entrega fora do prazo acordado;
+3. Falta de atendimento em tempo hábil",todas as equipes ,MTI,O acordo entabulado com o cliente deve ser rigorosamente cumprido emtodos os seus termos,"Acompanhar o cliente em todo processo desde a compra até a entrega do produto, cada equipe seguindo seu processo na cadeia comercial, proporcionando ao cliente a segurança e satisfação pretendida. ",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Aumentamos o numero de visitas aos clientes com o intuito de ouvi-los tanto em relação a necessidades do dia a dia, quanto nas necessidades futuras, a expectativa é que essas interações traga ao cliente mais confiança em nossos consultores e principalmente os tenham como um ponto focal para relatos de problemas e novas oportunidades",UGEPV,"100,00%",7,7
+R.UGEPV.02,Atrasos na entrega de serviços .,OPERACIONAL,ALTO,,NÃO,cumprimento de prazos,todas as equipes ,MTI,A pontualidade é um fator primordial que vai ser o grande divisor entre atrair ou afastar o cliente.,Identificar onde estão os pontos que acarretam nos atrasos das entregas e sanar ou miticar tais pontos ,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Para essa atividade estamos estreitando a comunicação entre a equipe de Fabrica, projetos e comercial, desta forma conseguiremos estar junto ""just in time"" na entregas e conforme reuniões semanais o andamento das entregas visando assim uma entrega a contento para o cliente.",UGEPV,,,
+R.UGEPV.03,Dificuldades na utilização do produto/serviços por parte do cliente.,OPERACIONAL,ALTO,,NÃO,"Orientação, treinamento, informação.",todas as equipes ,MTI,se o Cliente não sabe ou não consegue utilizar o produto adquirido na sua totalidade e/ou da forma correta esse produto se torna sem valor.,Orientar o cliente quanto a  eventuais dificuldades que o cliente possa ter na utilização adequada do produto.,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Estamos entendendo os processos, bem como os produtos, para dessa forma consguirmos ajudar nossos clientes em suas necessidades/duvidas, contudo apesar de não dominarmos em sua totalidade as ferramentas, sempre conseguimos alinhar com os parceiros capacitações / overview's para sanarem duvidas existentes.",UGEPV,,,
+R.UGEPV..04,Falta de suporte pós-venda adequado.,OPERACIONAL,ALTO,,NÃO,canais de relacionamento,UGEPV,MTI,"A equipe de pós venda deve estar sempre em contato com o cliente, sanando dúvidas, ouvindo as dificuldades que ele venda a ter, anseios dos clientes, identificando os pontos de atenção e buscar sanar ou mitigar juntos os gestores.",Criar e manter canais de relacionamento com o cliente.,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Aumentamos o numero de visitas aos clientes com o intuito de ouvi-los tanto em relação a necessidades do dia a dia, quanto nas necessidades futuras, a expectativa é que essas interações traga ao cliente mais confiança em nossos consultores e principalmente os tenham como um ponto focal para relatos de problemas e novas oportunidades",UGEPV,,,
+R.UGEPV.05,Dificuldades na resolução de problemas ou reclamações dos clientes.,ESTRATÉGICO,ALTO,,NÃO,Suporte dos Gestores Diretores,todas as equipes,MTI,"O cliente é o centro do negócio, sem ele, a empresa não tem razão de existir, de modo que, a prioridade é que o cliente utilize nossos produtos sem qualquer intercorrência, e quando houver que seja sanado no menor tempo possível.","Oferecer suporte para apoiar o cliente direcionando para o atendimento adequado, no entanto, quando não for possível essa resolução, é de suma importância acionar os Gestores Diretores para dirimir demandas de alçada maior.",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Hoje os clientes utilizam a plataforma service now, ainda estamos em fase inicial contudo, pela relação que estamos construindo com os clientes os mesmos nos acionam quando necessario visando celeridade em um ponto ou outro que precisam de maior agilidade;",UGEPV,,,
+R.UGEPV.06,Falta de comunicação e acompanhamento eficaz com o cliente após a venda.,ESTRATÉGICO,MODERADO,,NÃO,Acompanhamento dos projetos,todas as equipes,MTI,è importante que o cliente tenha plena transparencia dos produtos adquiridos e entregues,Acompanhar de forma macro a entrega dos produtos.,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Estamos antenados com os acompanhamentos dos projetos e em sua grande maioria acompanhamos as reuniões semanais de entrega juntamente com o cliente, a idéia é que dentro dessa iteração consigamos entender se o que foi entregue esta a contento.",UGEPV,,,
+R.UGEPV.07,"""O turnover""
+Baixo engajamento da equipe",ESTRATÉGICO,ALTO,,NÃO,valorização dos colaboradores,,MTI,A valorização dos colaboradores é de suma importância para o crescimento de uma empresa.,"Cultura Organizacional Forte, Comunicação Clara e Aberta, Desenvolvimento Profissional, Conscienticação/ Equilíbrio entre Vida Profissional e Pessoal;Feedback e Desenvolvimento Individual:",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Uma cultura positiva e inclusiva pode ajudar os funcionários a se sentirem valorizados e conectados à missão da empresa, 
+Manter os canais de comunicação abertos para que os colaboradores se sintam ouvidos e compreendidos, ofereçemos hoje oportunidades de desenvolvimento profissional, como treinamentos, workshops e programas de mentoria.
+Ainda é necessario conseguirmos mais ferramentas para engajamento e conexão individual da equipe, estamos trabalhando para um curso/imersão visão construção de equipe.",UGEPV,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGPES.01,"Não propor a  implantação da Politica de Gestão
+ de Pessoas, bem como a avaliação periódica da 
+política e do regimento de gestão de pessoas",ESTRATÉGICO,ALTO,,NÃO,Elaborar a Politica de Gestão de Pessoas,Silvia ,MTI,"Estabelecer Direção e Orientação Claras:
+Uma política de gestão de pessoas bem elaborada fornece direção e orientação claras sobre as práticas de RH da empresa, ajudando a alinhar os objetivos organizacionais com as necessidades e expectativas dos funcionários.
+
+Promover Consistência e Justiça:
+Uma política sólida ajuda a promover consistência e justiça no tratamento dos funcionários, garantindo que todos sejam tratados de forma equitativa e que as decisões sejam tomadas de maneira transparente e imparcial.
+
+Atrair e Reter Talentos:
+Uma política de gestão de pessoas bem estruturada pode ser uma ferramenta poderosa para atrair e reter talentos, pois demonstra o compromisso da empresa com o desenvolvimento e bem-estar de seus funcionários.
+
+Minimizar Riscos Legais e Conformidade:
+Uma política abrangente pode ajudar a minimizar os riscos legais e garantir a conformidade com as leis e regulamentações trabalhistas, reduzindo assim o potencial de litígios e penalidades.","Análise das Necessidades e Objetivos da Empresa:
+Realizar uma análise das necessidades e objetivos da empresa em relação à gestão de pessoas, levando em consideração a cultura organizacional, os valores da empresa e os desafios específicos do setor de tecnologia da informação em Mato Grosso.
+
+Envolver Diversos Stakeholders:
+Envolver uma variedade de stakeholders, incluindo funcionários, gestores, líderes de equipe e representantes de RH, no processo de elaboração da política para garantir que ela seja abrangente e representativa.
+
+Definir Diretrizes e Procedimentos Claros:
+Estabelecer diretrizes e procedimentos claros em áreas-chave, como recrutamento e seleção, desenvolvimento de funcionários, avaliação de desempenho, remuneração e benefícios, gestão de talentos e resolução de conflitos.
+
+Comunicar e Treinar:
+Comunicar a política de gestão de pessoas de forma clara e acessível a todos os funcionários e fornecer treinamento adequado sobre as diretrizes e procedimentos estabelecidos.
+
+Revisar e Atualizar Regularmente:
+Revisar e atualizar a política de gestão de pessoas regularmente para garantir que ela continue relevante e eficaz em atender às necessidades em evolução da empresa e de seus funcionários.",1/3/2024,31/12/2025,,EM ANDAMENTO,"50,00%","
+50% DE EXECUÇÃO
+
+MINUTA DA POLITICA DE GESTÃO DE PESSOAS
+
+Os documentos estão sendo escrito por etapas.
+
+
+A mioria estão publicados na  INTRANET aba Gestão de Pessoas
+
+INTRANET
+
+
+
+",UGPES,"69,76%",14,14
+R.UGPES.02,Não propor e implantar e definir a natureza de trabalho,CONFORMIDADE,ALTO,,NÃO,Propor a  Portaria de Ponto/Assiduidade,Silvia,MTI,"Evitar multas e ações trabalhistas, bem apontamentos dos ógãos de controle, além de ser uma forma eficaz na Unidade de Gestão de Pessoas da MTI é fundamental para promover o alinhamento organizacional, aumentar o engajamento dos funcionários e impulsionar o sucesso da organização. Ao seguir uma abordagem estruturada e envolver os funcionários no processo, a MTI pode garantir que as atividades dos funcionários estejam alinhadas com os objetivos organizacionais, promovendo um ambiente de trabalho produtivo e eficaz.",Acompanhar a  Publicação da Portaria de Ponto,1/3/2024,31/12/2024,,CONCLUÍDA,"100,00%","
+100% CONCLUIDO
+
+Portaria Nº 203/2024 publicada em 22 de outubro de 2024",UGPES,,,
+R.UGPES.03,Baixo engajamento das equipes internas,ESTRATÉGICO,CRÍTICO,,NÃO,"1) Propor a Poltica de Gestão de Pessoas 
+
+",Silvia,MTI,"Melhoria do Desempenho Organizacional: Funcionários engajados tendem a ser mais produtivos, criativos e comprometidos com o sucesso da organização, o que contribui para um melhor desempenho geral da empresa.
+
+Redução da Rotatividade: O engajamento dos funcionários está fortemente relacionado à retenção de talentos. Ao aumentar o engajamento, a empresa pode reduzir a rotatividade de funcionários e os custos associados à substituição e treinamento de novos colaboradores.
+
+Criação de uma Cultura Positiva: Um ambiente de trabalho onde os funcionários se sintam engajados, valorizados e respeitados ajuda a promover uma cultura organizacional positiva, que por sua vez atrai talentos e promove a satisfação no trabalho.
+
+Aumento da Satisfação do Cliente: Funcionários engajados tendem a oferecer um melhor atendimento ao cliente e a demonstrar um maior comprometimento com a excelência no trabalho, o que pode resultar em uma melhor experiência do cliente e maior fidelidade à marca.","
+
+Escrever Politica de Gestão de Pessoas
+
+2) Avaliação de Engajamento:
+Realizar uma avaliação abrangente do engajamento dos funcionários para identificar áreas de melhoria e entender as causas subjacentes do baixo engajamento.
+
+Desenvolvimento de Estratégias de Engajamento:
+Desenvolver estratégias específicas de engajamento que promovam uma cultura organizacional positiva, reconheçam e valorizem as contribuições dos funcionários e incentivem a colaboração e o trabalho em equipe.
+
+Comunicação Transparente e Aberta:
+Promover uma comunicação transparente e aberta entre a liderança e os funcionários, garantindo que as informações relevantes sejam compartilhadas de forma clara e oportuna.
+
+Fomento de um Ambiente de Trabalho Positivo:
+Criar um ambiente de trabalho positivo e inclusivo, onde os funcionários se sintam valorizados, apoiados e encorajados a contribuir com suas ideias e feedback.
+
+Oferta de Programas de Desenvolvimento Profissional:
+Oferecer programas de desenvolvimento profissional e oportunidades de aprendizado contínuo para os funcionários, permitindo-lhes expandir suas habilidades e avançar em suas carreiras dentro da organização.
+
+Reconhecimento e Recompensa:
+Implementar programas de reconhecimento e recompensa que reconheçam e celebrem as conquistas dos funcionários e seu comprometimento com os objetivos organizacionais.
+",1/3/2024,31/12/2025,,EM ANDAMENTO,"50,00%","
+50% DE EXECUÇÃO
+
+MINUTA DA POLITICA DE GESTÃO DE PESSOAS
+
+Os documentos estão sendo escrito por etapas.
+
+
+A mioria estão publicados na  INTRANET aba Gestão de Pessoas
+
+INTRANET
+
+
+
+",UGPES,,,
+R.UGPES.04,Não executar o Plano Anual de Capacitação ,OPERACIONAL,MODERADO,,NÃO,Executar o Plano de Capacitação relativo ao ano de 2024,Ana Flávia,MTI,Cumprir o indicador estratégico  (PDI),Elaborar e Executar o Plano de Capacitação 2023 ,1/3/2024,31/12/2024,,CONCLUÍDA,"100,00%","""
+
+
+97,93% DE EXECUÇÃO DO PLANO DE CAPACITAÇÃO APROVADO
+PLANO DE CAPACITAÇÃO
+O Plano de Capacitação de 2024 foi apresentado em DIREX e já foi liberado para áreas demandantes o início de sua TRs
+
+
+JANEIRO
+Windows Server Hybrid Administrator Associate Módulo : AZ 801
+
+MARÇO
+Gestão de Documentos na prática""
+
+ABRIL
+Foundations of Incident Management e Advanced Topics in Incident Handling,
+
+MAIO
+Governo Digital
+Formação em Métricas de Fluxo
+Cursos Técnicas de Negociação, Liderança e Gestão de Vendas, Liderança e Coach, Roteirização de vendas e entregas
+Seminário das Estatais
+
+JUNHO
+ORATÓRIA-COMUNICAÇÃO EFICAZ com TÉCNICAS DE PNL
+AUTORESPONSABILIDADE E SUCESSO-PROMOVENDO ATITUDES PROATIVAS com TEAL""
+
+JULHO
+Congresso Matogrossense de Gestão de Pessoas
+NO TOUR PODER E ALTA PERFORMANCE
+
+AGOSTO
+Evento Agile Trends GOV 2024, a ser realizado entre os dias 19 e 22 de Agosto de 2024, modalidade presencial.
+Curso On Demand + Exame da CTFL
+Certified ScrumMaster® CSM, 10(dez) vagas - Advanced Certified Scrum Master® A-CSM, 04 (quatro) vagas - Certified Scrum Product Owner® CSPO, 10 (dez) vagas - Advanced Certified Scrum Product Owner® A-CSPO, 03 (três) vagas
+ITIL V4 FOUNDATION E PRACTITIONER
+7º Encontro Nacional das Estatais.
+
+SETEMBRO
+""PLANO DE CAPACITAÇÃO
+97,93% DE EXECUÇÃO DO PLANO DE CAPACITAÇÃO APROVADO
+O Plano de Capacitação de 2024 foi apresentado em DIREX e já foi liberado para áreas demandantes o início de sua TRs
+
+OUTUBRO
+AGILE BRAZIL 2024”
+CONTRATAÇÃO DE Plataforma online de treinamentos com foco em infraestrutura de TI.
+CURSO GESTÃO ESTRATÉGICA DE CUSTOS
+INTELIGÊNCIA EMOCIONAL,
+
+NOVEMBRO
+COMUNICAÇÃO PLENA, ""
+
+DEZEMBRO
+Curso de Oratória - Comunicação Eficaz com Técnicas de PNL
+
+
+
+
+",UGPES,,,
+R.UGPES.05,Não realizar a Avaliação de Desempenho 2024,OPERACIONAL,MODERADO,,NÃO,Realizar a avaliação de Desempenho,Ana Flávia,MTI,Cumprir o Regulamento de Avalaição de Desempenho,Aplicar a avaliação de Desempenho,1/9/2024,30/9/2024,,CONCLUÍDA,"100,00%","
+100% DA META ALCANÇADA
+
+A Avaliação de Desempenho é realizada no Mês 09/2024
+
+- Portaria publicada no DO e na INTRANET",UGPES,,,
+R.UGPES.06,Não realizar a Pesquisa de Clima,OPERACIONAL,MODERADO,,NÃO,Realizar a Pesquisa de Clima,Ana Flávia,MTI,Cumprir o Regulamneto de Pequisa de Clima,"1) Defnir o questionário 
+2) cadastrar no sistema ELOFY 
+3) Aplicar a Pequisa  
+4) Apurara o resultado  
+5) Publicar na Intranet",1/5/2024,31/12/2024,,CONCLUÍDA,"100,00%","A Pequisa de Clima foi aplicada em 05/2024  e 11/2024 até 06/12/2024
+
+",UGPES,,,
+R.UGPES.07,Não realizar o programa de Qualidade de Vida,OPERACIONAL,MODERADO,,NÃO,Executar o programa de qualidade de vida,Ana Flávia,MTI,Cumprir o Programa de Qualidade de Vida,Executar as ações que estão elecandas no Programa de Qualidade de Vida,2/1/2024,31/12/2024,,CONCLUÍDA,"100,00%","
+100 % DA META ALCANÇADA ATÉ 30/11/2024
+
+QUALIDADE DE VIDA
+
+Janeiro: 2
+Campanha do Janeiro Branco - diversos conteúdos elaborados pelo psicólogo JONATAS, divulgados pela ASSCOM sobre o tema e finalizando na última sexta do mês com uma palestra sobre o tema e ginástica laboral todos vestidos com uma peça de roupa branca
+Upgrade da Saúde: Projeto vida saudável - bioimpedância
+ Fevereiro – 2 
+Palestra Assédio Moral - entenda mais sobre o assunto e também divulgação de conteúdos sobre o tema roxo e laranja
+Upgrade da Saúde: Projeto vida saudável - bioimpedância
+Março
+Dia internacional da mulher, entrega de bombom e mensagens para as mulheres da MTI, Campanha da Páscoa para crianças carentes com TEA.
+Upgrade da Saúde: Projeto vida saudável - bioimpedância
+Avaliação capilar e massagem craniana oferecida pela empresa mais cabelo
+Doação de Sangue em Parceria com a Casa Civil
+AbriL
+Abril Verde - Informativos durante a semana sobre o tema
+Conscientização sobre o autismo - Ginástica laboral com os balões verde e azul
+Projeto Vida Saudável - SEPLAG - Exame de bioimpedância
+Mais Cabello - Avaliação e Massagem Capilar
+Maio
+Alerta para doenças inflamatórias intestinais - Ginástica laboral com os balões amarelo e roxo
+Projeto Vida Saudável - SEPLAG - Exame de bioimpedância
+UPGRADE DA SAÚDE - Aferição de Pressão Arterial e Teste Glicêmico
+Mais Cabello - Avaliação e Massagem Capilar
+Comemoração do dia das Mães - coffee break e palestra - A importância da auto valorização da Mulher e Mãe
+junho
+almoço junino e laboral coletiva tema junino
+Campanha Junho VERMELHO (doação de sangue)
+Projeto Vida Saudável - SEPLAG - Exame de bioimpedância
+UPGRADE DA SAÚDE - Aferição de Pressão Arterial e Teste Glicêmico
+Julho
+Contatos com entidades/órgãos para realização de convênios
+Atualização calendário de ações de 2024
+Atualização cronograma de palestrantes e realização do Momento de Espiritualidade
+Realização do Upgrade da Saúde (Bioimpedância Seplag e Ginástica Laboral ( Setores e Coletiva)
+Orientações Credenciamento Sesc
+Encaminhamento para os colaboradores para autorização e foto Tempo de Serviço
+Relação de aniversariantes de Julho (ASSCOM – DAFI – DTIC)
+Relação de Tempo de Serviço Julho (ASSCOM)
+Atualização Quem é Quem (ASSCOM)
+Divulgação/Boas Vindas Novos colaboradores (ASSCOM)
+Agosto
+Contatos com novas entidades/órgãos para realização de convênios
+Atualização cronograma de palestrantes e realização do Momento de Espiritualidade
+Realização do Upgrade da Saúde (Bioimpedância Seplag e Ginástica Laboral ( Setores e Coletiva)
+Orientações Credenciamento Sesc
+Encaminhamento para os colaboradores para autorização e foto Tempo de Serviço
+Relação de aniversariantes de agosto (ASSCOM – DAFI – DTIC)
+Relação de Tempo de Serviço Agosto (ASSCOM)
+Atualização Quem é Quem (ASSCOM)
+Realização evento em comemoração ao dia dos PAIS
+Participação na Elaboração do Programa de Sustentabilidade MTI - MTIGreen - 
+Divulgação/Boas Vindas Novos colaboradores (ASSCOM) "" 
+setembro
+Contatos com novas entidades/órgãos para realização de convênios Atualização cronograma de palestrantes e realização do Momento de Espiritualidade Realização do Upgrade da Saúde (Bioimpedância Seplag e Ginástica Laboral ( Setores e Coletiva) Encaminhamento para os colaboradores para autorização e foto Tempo de Serviço Relação de aniversariantes de Setembro (ASSCOM – DAFI – DTIC) Relação de Tempo de Serviço Setembro (ASSCOM) Atualização Quem é Quem (ASSCOM) Realização evento em comemoração ao dia dos PAIS Participação na Elaboração do Programa de Sustentabilidade MTI - MTIGreen - Realização da 3a. Semana da Integridade Realização da roda de conversa: Setembro amarelo: Nenhuma tempestade dura para sempre.
+Outubro
+Contatos com novas entidades/órgãos para realização de convênios
+Atualização cronograma de palestrantes e realização do Momento de Espiritualidade
+Realização do Upgrade da Saúde (Bioimpedância Seplag e Ginástica Laboral ( Setores e Coletiva)
+Orientações Credenciamento Sesc
+Encaminhamento para os colaboradores para autorização e foto Tempo de Serviço
+Relação de aniversariantes de outubro (ASSCOM – DAFI – DTIC)
+Relação de Tempo de Serviço Outubro (ASSCOM)
+Atualização Quem é Quem (ASSCOM)
+Realização evento Outubro Rosa - palestra sobre o tema
+Participação na Elaboração do Programa de Sustentabilidade MTI - MTIGreen -
+Divulgação/Boas Vindas Novos colaboradores (ASSCOM)
+Participação da reunião comissão A3P
+Abertura de convênio com escolas particulares
+Novembro/2024
+Palestra: Novembro azul - 62 participantes
+UPgrade Saúde, ginástica laboral:142
+Assistente Social: 01
+02 Convênios: Escola Farina e Colégio Master
+Momento de espiritualidade
+Relação de aniversariantes de Novembro (ASSCOM – DAFI – DTI)
+Atendimento psicológico: 04
+Atualização Quem é Quem (ASSCOM)
+Cronograma Ações/Datas Comemorativas MTI 2025
+Cronograma Momento de Espiritualidade 2025
+Cronograma Projeto Vida Saudável 2025 Seplag (Exame Bioimpedância)
+Cronograma Posto Itinerante MT Saúde 2025
+
+DEZEMBRO
+Lançamento do projeto LUnnar - recolhimento de embalagens aerosol - sustentabilidade e apoio a proteção dos animais , Momento de espiritualidade Relação de aniversariantes de Dezembro (ASSCOM – DAFI – DTI) Atendimento psicológico: 04 Atualização Quem é Quem (ASSCOM) - Confraternização DAFI
+
+
+
+
+
+
+
+",UGPES,,,
+R.UGPES.08,"Não gerenciar eleição da Comissão Interna de Prevenção
+ de Acidentes (CIPA)",OPERACIONAL,MODERADO,,NÃO,Gerenciar a eleição da CIPA,Ana Flávia,MTI,Cumprir a Legislação vigente,"1 - A inscrição para o registro de candidatura dos colaboradores EFETIVOS da MTI/ 
+
+
+2 - divulgar a lista dos candidatos à CIPA;
+3) Emitir Ofício para informar o SINDPD sobre a eleição da CIPA na MTI, incluindo a relação dos candidatos e o cronograma da eleição;
+4) Liberar o prazo para que os camdidatos realizem a campanha  CIPA, pelo meios de comunicação oficiais da empresa; 
+5) Reazlizar a Eleição;
+6) Divulgar o Resultado; 
+7) Solcitar a Publicação no Diário Oficial
+",01/09/2024,30/9/2024,,CONCLUÍDA,"100,00%","
+100% DA META ALCANÇADA
+
+A Eleição da CIPA é realizada no mês 09/2024
+
+- Portaria Publicada no DO e na INTRANET",UGPES,,,
+R.UGPES.09,Não realizar a contratação de jovens aprendizes,OPERACIONAL,MODERADO,,NÃO,Realizar o processo seletivo,Ana Flávia,MTI,Cumprir a Legislação vigente (cota),"1) Realizar cálculo  em conformidade com  a Lei (quantitativo)
+2) Formar Comissão;
+3) Acompanhar a  comissão  no processo seletivo",01/09/2024,30/9/2024,,EM ANDAMENTO,"40,00%","- O processo seletivo deverá ser  realizado até 12/2024
+- Publicação da Portaria desegnando os membros da Comissão
+- Elaboramos o Edital que já foi envido para UNIJUR e PGE no entanto tivemos que remeter a SEPLAG . Estamos aguardando retorno ",UGPES,,,
+R.UGPES.10,Não contratação de apoio externo para ações de transformação cultural,OPERACIONAL,ALTO,,NÃO,Contratar empresa para realizar as ações de transformação cultural,Ana Flávia,MTI,Apoiar a transformação cultural,Elaborar  Termos de Referencia conforme previsto  Plano de Capacitação  e da competências comportamentais identificadas no programa de Gestão por competências,01/04/2024,31/12/2024,,CONCLUÍDA,"100,00%"," 
+META 2024 70%
+META ALCANÇADA ATÉ 30/11/2024 
+88,30%
+
+Do Montante de 171 Servidores avaliados no Programa Gestão Por Competências 2023/2024: 
+
+
+171 Servidores com os PDIs Elaborados
+150 Servidores com os PDIs concluidos de janeiro a dezembro (acumulado)
+006 Servidores com os PDIs em andamento 
+001 Servidores com os PDIs com iniciativas Cadastradas
+014 Servidores com os PDIs incorretos sem iniciativa (criaram PDI, mas não fizeram nenhuma ação)
+ 
+ 
+PDIs concluidos no mês 12/2024 = 01 colaborador
+
+
+PDI - DEZEMBRO/2024",UGPES,,,
+R.UGPES.11,Não Gerenciar folha de Pagamento e  Encargos,CONFORMIDADE,CRÍTICO,,SIM,"1.        Implementação de Controle de Qualidade: Realizar cadastros com cautela, evitando registros de informações incorretas e garantindo conformidade com a regulamentação vigente (ACT/CLT).
+2.        Capacitação da Equipe: Fornecer treinamento adequado aos funcionários responsáveis pela entrada de dados na folha de pagamento, assegurando que estejam familiarizados com os procedimentos corretos e as melhores práticas para evitar erros.
+3.        Automação de Processos: Utilizar sistemas automatizados e integrados de gerenciamento de folha de pagamento, reduzindo a necessidade de inserção manual de dados e minimizando a probabilidade de erros.
+4.        Implementação de Verificações Duplas: Estabelecer um processo de verificação dupla, onde um segundo membro da equipe revise os dados inseridos na folha de pagamento para identificar e corrigir possíveis erros antes da emissão dos pagamentos.
+5.        Cálculo de Salários e Benefícios: Realizar os cálculos dos salários dos colaboradores, considerando horas trabalhadas, horas extras, sobreaviso e benefícios como vale-transporte e vale-alimentação, auxilio creche, PCD e outros.
+6.        Descontos e Deduções: Aplicar descontos legais, como INSS, imposto de renda retido na fonte (IRRF) e contribuições sindicais, além de descontos autorizados pelos colaboradores, como plano de saúde e empréstimos consignados.
+7.        Registro e Controle de Informações: Manter registros precisos e atualizados dos dados dos colaboradores, incluindo informações pessoais, contratuais, salariais e de benefícios.
+8.        Conformidade Legal: Garantir o cumprimento das normas trabalhistas, previdenciárias e fiscais relacionadas à folha de pagamento, como emissão de guias de recolhimento de impostos e contribuições.
+9.        Teto Constitucional: Verificar no fechamento da folha a questão do Teto Constitucional.
+10.        Relacionamento com Órgãos Governamentais: Intermediar e comunicar-se com órgãos governamentais, como Ministério do Trabalho, Receita Federal e INSS, para cumprir obrigações legais e enviar informações exigidas por esses órgãos.
+11.        Auditoria e Controle Interno: Realizar auditorias internas para garantir a precisão e integridade dos registros da folha de pagamento, bem como o cumprimento das políticas e procedimentos internos da empresa.
+",Rogério,MTI,"
+
+
+1) Pagamentos incorretos aos funcionários, levando a insatisfação e possível perda de talentos.
+2) Conflitos e disputas com funcionários devido a discrepâncias nos pagamentos.
+3) Possíveis implicações legais e regulatórias decorrentes de não conformidade com obrigações trabalhistas e fiscais.
+Impacto negativo na reputação da empresa e na confiança dos funcionários na gestão financeira da organização.
+
+4 Evitar multas e ações trabalhistas, bem apontamentos dos ógãos de controle",Cumpriur a legislação vigente e manter as informações no sistemas protheus atualizadas,01/03/2024,31/12/2024,,CONCLUÍDA,"100,00%","1) Adimila e Osmar serão responsáveis por lançar os dados na folha de pagamento, enquanto Rogério realizará a conferência da mesma.
+
+2) Em 26/07/2024, durante uma conversa com o Diretor Administrativo, solicitei a possibilidade de conseguir um empregado público cedido para ser lotado na GPMM, com o objetivo de colaborar na execução da folha de pagamento. Em circunstâncias eventuais, como atestado médico, férias, licença assiduidade e outras, essa pessoa também poderá substituir Rogério.
+
+
+3) A folha de pagamento 11/2024 passou pela auditoria da UGCOF e não houve nenhum apontamento e erros ",UGPES,,,
+R.UGPES.12,Não gerenciar ponto eletrônico e realizar debidos indevidos;,CONFORMIDADE,ALTO,,NÃO,"Implementar Políticas Claras de Controle de Ponto: Estabelecer políticas claras e procedimentos para o registro e controle do ponto eletrônico, definindo regras específicas para horas de trabalho, intervalos e horas extras.
+
+Automatizar o Registro de Ponto: Utilizar sistemas automatizados de registro de ponto eletrônico que garantam a precisão e integridade dos dados, minimizando a possibilidade de erros humanos.
+
+Monitorar e Revisar Regularmente os Registros de Ponto: Realizar auditorias periódicas nos registros de ponto para identificar e corrigir possíveis discrepâncias ou irregularidades, garantindo a conformidade com as políticas estabelecidas.
+
+Fornecer Treinamento e Conscientização: Capacitar os funcionários e gestores sobre as políticas e procedimentos de registro de ponto, destacando a importância da precisão e integridade dos registros para evitar descontos indevidos.
+
+Implementar Controles de Aprovação: Estabelecer um processo de revisão e aprovação dos registros de ponto por parte dos gestores, garantindo que qualquer alteração ou desconto seja justificado e autorizado adequadamente.",Rogério,MTI,"Reduzir o descontentamento dos Funcionários: Descontos indevidos nos salários podem levar a insatisfação e desmotivação entre os funcionários, afetando o clima organizacional e a produtividade.
+
+Riscos Legais e Trabalhistas: A realização de descontos indevidos nos salários pode resultar em processos judiciais, multas e penalidades por não conformidade com as leis trabalhistas e regulamentações vigentes.
+
+Melhorar a Reputação da Empresa: Práticas inadequadas de gestão de ponto podem afetar negativamente a reputação da empresa, causando danos à imagem e credibilidade perante clientes, investidores e comunidade em geral.",Realizando a Gestão de Ponto via sistemas Protheus,01/03/2024,31/12/2024,,EM ANDAMENTO,"12,21%","PERIÓDICAMENTE: 
+
+Osmar e Eloize
+a) Monitorar diariamente os registros de ponto para identificar inconsistências ou ausências não justificadas.
+b) Utilizar relatórios automatizados do sistema de ponto para facilitar a análise.
+c) Cobrar dos empregados e gestores:que registrem  todas as correções de ponto de forma transparente e auditável
+d) Manter uma comunicação contínua com os empregados sobre a importância do registro correto de ponto e as consequências de não cumprir as políticas.
+e) Enviar lembretes periódicos sobre a política de ponto e procedimentos de correção.
+f) Realizar auditorias periódicas para garantir que as práticas de registro de ponto estão sendo seguidas corretamente.
+g) Verificar a conformidade com as leis trabalhistas e regulamentos internos.
+h) Gerar e revisar relatórios mensais de ponto para análise de tendências, como padrões de absenteísmo e horas extras.
+i) Utilizar esses relatórios para ajustes de políticas e identificação de necessidades de recursos adicionais.
+j) Integrar os dados de ponto com o sistema de folha de pagamento para garantir que os cálculos de salários, horas extras e outras compensações sejam precisos.
+l) Fornecer suporte contínuo para resolver problemas ou dúvidas dos empregados sobre o sistema de ponto.
+m) Recolher feedback dos empregados para melhorias no processo de gestão de ponto.
+n) Manter uma documentação completa e arquivar todos os registros de ponto e relatórios de auditoria, conforme exigido pela legislação.
+o) Criar um manual detalhado de políticas e procedimentos de ponto.
+P) Tivemos um treinamento via meet sobre a portaria de ponto e da inserção de informações no Portal RH
+",UGPES,,,
+R.UGPES.13,Não Monitorar a privacidade de dados,CONFORMIDADE,ALTO,,SIM,"Desenvolver Políticas de Privacidade de Dados Específicas: Criar políticas de privacidade de dados específicas para a Unidade de Gestão de Pessoas, abordando como os dados dos funcionários são coletados, armazenados, processados e protegidos.
+
+
+Fornecer Treinamento Específico em Privacidade de Dados: Oferecer treinamento especializado em privacidade de dados para os funcionários da Unidade de Gestão de Pessoas, destacando a importância da proteção dos dados dos funcionários e os procedimentos corretos para lidar com informações confidenciais.
+
+
+Implementar Controles de Acesso e Autorização: Estabelecer controles rigorosos de acesso e autorização para garantir que apenas funcionários autorizados tenham acesso aos dados pessoais dos funcionários, de acordo com as necessidades de trabalho.
+
+
+Realizar Avaliações de Impacto de Privacidade de Dados: Conduzir avaliações de impacto de privacidade de dados para identificar e avaliar os riscos associados ao processamento de dados pessoais na Unidade de Gestão de Pessoas e implementar medidas de mitigação apropriadas.
+
+
+Monitorar o Cumprimento da LGPD: Monitorar regularmente o cumprimento das disposições da LGPD e outras regulamentações relevantes de proteção de dados na Unidade de Gestão de Pessoas, garantindo conformidade com as leis e regulamentos aplicáveis.",Rogério,MTI,"Essas medidas visam criar um ambiente seguro e confiável para o tratamento dos dados pessoais dos funcionários na Unidade de Gestão de Pessoas, minimizando os riscos de violações de privacidade ou não conformidade com regulamentações de proteção de dados.","Designar um profissional de privacidade de dados na Unidade de Gestão de Pessoas para liderar as iniciativas relacionadas à proteção de dados dos funcionários.
+Estabelecer procedimentos claros para garantir a segurança e confidencialidade dos dados dos funcionários, incluindo a utilização de medidas técnicas e organizacionais apropriadas.
+Manter registros detalhados das atividades de processamento de dados dos funcionários e garantir a transparência no tratamento desses dados.
+Implementar políticas de retenção de dados para garantir que os dados dos funcionários sejam armazenados apenas pelo tempo necessário e de acordo com as obrigações legais e regulatórias.
+Ao adotar essas medidas de mitigação, a Unidade de Gestão de Pessoas pode reduzir significativamente os riscos associados à falta de monitoramento da privacidade de dados dos funcionários e garantir a proteção adequada das informações confidenciais.",01/03/2024,31/12/2024,,EM ANDAMENTO,"12,21%","1) As atividades estão sendo realizadas pela GPMM e GACD
+
+2) Estamos em processo de mapemaneto do processos - LGPD
+
+LGPD NOW: Mapeamento dos Processos de dados da Unidade e Resposta ao questionários de dados
+ 📑Atualizado dos  Contratos e Aditivos de Trabalho em conformidade com a LGPD
+",UGPES,,,
+R.UGPES.14,Não cumprir a Legislação (CLT/SST/ACT/CF-88),CONFORMIDADE,MODERADO,,NÃO,"Manter-se Atualizada sobre a Legislação Pertinente:
+Acompanhar e entender as mudanças na legislação trabalhista, de SST, ACT e CF-88 para garantir conformidade contínua.
+
+Implementar Políticas e Procedimentos em Conformidade com a Legislação:
+Desenvolver e implementar políticas e procedimentos que estejam alinhados com os requisitos legais e regulamentares aplicáveis.
+
+Garantir a Conformidade nos Processos de Recrutamento e Seleção:
+Assegurar que os processos de recrutamento e seleção respeitem os princípios da igualdade de oportunidades e não discriminação, conforme previsto na legislação.
+
+Oferecer Treinamento sobre a Legislação Trabalhista e de SST:
+Fornecer treinamento regular para funcionários e gestores sobre os requisitos da CLT, SST, ACT e CF-88, bem como sobre as políticas e procedimentos internos relacionados.
+
+Implementar Sistemas de Monitoramento e Controle:
+Estabelecer sistemas e procedimentos para monitorar e garantir o cumprimento das leis trabalhistas, de SST, ACT e CF-88 em toda a organização.",Rogério,MTI,"Cumprir a legislação trabalhista, de SST, ACT e CF-88 é fundamental para garantir um ambiente de trabalho justo, seguro e legalmente adequado.
+
+O não cumprimento da legislação pode resultar em penalidades legais, multas e litígios trabalhistas, que podem ter impactos financeiros significativos na organização.
+
+Além disso, manter a conformidade com a legislação ajuda a proteger a reputação e a credibilidade da empresa perante funcionários, clientes, acionistas e outras partes interessadas.","Acompanhar as  publicações e alterações nas Legislação 
+
+Designar um profissional qualificado ou equipe responsável por acompanhar e interpretar a legislação trabalhista e de SST.
+
+Realizar auditorias internas regulares para avaliar a conformidade com a legislação e identificar áreas de não conformidade.
+
+Estabelecer canais de comunicação eficazes para que os funcionários possam relatar preocupações relacionadas ao cumprimento da legislação.
+
+Colaborar com departamentos jurídicos e consultores especializados, conforme necessário, para garantir que as políticas e procedimentos estejam em conformidade com a legislação aplicável.",01/03/2024,31/12/2024,,EM ANDAMENTO,"12,21%",Acompanhar as mudanças na Legislação pelos meios disponiveis (internet) e se necessário participar de cursos de aperfeiçoamento,UGPES,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGGDI.01,A. Não priorizar a continuidade de negócio dos produtos de Identificação Digital do Cidadão da Plataforma de Governo Digital,OPERACIONAL,,CRÍTICO,NÃO,Priorização da continuidade de negócio dos produtos de Identificação Digital do Cidadão da Plataforma de Governo Digital,UGGDI,UGGDI,"Por se tratar de produtos altamente estratégicos, diretamente ligados à agenda estratégica de Governo Digital, os mesmos devem ser priorizados e estruturados para sua continuidade","1. Preparando uma ou mais pessoas de carreira da MTI que esteja engajada e comprometida e que tenha conhecimento técnico e habilidade conduzir a continuidade dos produtos
+
+2. Monitorando a continuidade da parceria",01/03/2024,31/12/2024,,EM ANDAMENTO,"20,00%","PONTO DE ATENÇÃO: MT.id sendo mantido pelo time Mandaloriano, é necessário mudar para o time Digital ID. Após a correção do problema na validação da assinatura do mt.id pela SIGADOC, será realizado o planejamento para separação do mt.id do backend do MT Cidadão e repasse de conhecimento para o time Digital Id.
+Foi criada ug de arquitetura que está apoiando da evolução e continuidade dos produtos
+Esmael está coordenando os produtos: MT Login, MTI Valida
+Dedé está atuando no Prova de Vida, MT Login e MTI Valida
+Foi iniciada a transferência de conhecimento do ambiente de infra do MTI valida para a equipe da MTI
+Implementado monitoramento da VMs do MTI Valida no Zabbix. Foi solicitado a implementação do monitoramento dos pods openshift do MTI Valida no Kuma.
+Está sendo negociado com a SEPLAG um contrato de sustentação da plataforma de governo digital",UGGDI,"19,50%",4,4
+R.UGGDI.02,B. Não priorizar a continuidade de negócio dos produtos dos Canais de Atendimento Digitais da Plataforma de Governo Digital,OPERACIONAL,,CRÍTICO,NÃO,Priorização da continuidade de negócio dos produtos de dos produtos dos Canais de Atendimento Digitais da Plataforma de Governo Digital,UGGDI,UGGDI,"Por se tratar de produtos altamente estratégicos, diretamente ligados à agenda estratégica de Governo Digital, os mesmos devem ser priorizados e estruturados para sua continuidade","1. Preparando uma ou mais pessoas de carreira da MTI que esteja engajada e comprometida e que tenha conhecimento técnico e habilidade conduzir a continuidade dos produtos
+
+2. Monitorando a continuidade da parceria",01/03/2024,31/12/2024,,EM ANDAMENTO,"16,00%","PONTO DE ATENÇÃO: O PO do MT Cidadão é o Adauto da RW3
+Novo canal de atendimento ao cidadão: Chatbot e Whatsapp. Está sendo acompanhado pelo analista temporário Marcelo Mialho.
+Está sendo negociado com a SEPLAG um contrato de sustentação da plataforma de governo digital",UGGDI,,,
+R.UGGDI.03,C. Indisponibilidade dos produtos de Identificação Digital do Cidadão da Plataforma de Governo Digital,ESTRATÉGICO,CRÍTICO,,NÃO,Melhorar a disponibilidade dos produtos de Identificação Digital do Cidadão da Plataforma de Governo Digital,UGGDI,UGGDI,"Por se tratar de produtos altamente estratégicos, diretamente ligados à agenda estratégica de Governo Digital, os mesmos devem estar disponíveis 24x7","1. Preparando uma ou mais pessoas de carreira da MTI que esteja engajada e comprometida e que tenha conhecimento técnico e habilidade conduzir a continuidade dos produtos
+2. Monitoramento 24x7 (contrato de consumo interno parceria TD)
+3. Redundancia do ambiente tecnológico",01/03/2024,31/12/2024,"Valor do contrato consumo: R$ 4.778.935,20",EM ANDAMENTO,"19,00%","Projeto de atualização e migração do MT Login em fase de homologação (PRJ0010450). Previsão para migração em produção: 15/12/2024
+Monitoramento das VMS do MTI Valida já implementado
+Os relatórios de disponibilidade do MT Login são gerados mensalmente para composição do indicador estratégico",UGGDI,,,
+R.UGGDI.04,D. Indisponibilidade dos produtos dos Canais de Atendimento Digital da Plataforma de Governo Digital,ESTRATÉGICO,CRÍTICO,,NÃO,Melhorar a disponibilidade dos produtos dos Canais de Atendimento Digital da Plataforma de Governo Digital,UGGDI,UGGDI,"Por se tratar de produtos altamente estratégicos, diretamente ligados à agenda estratégica de Governo Digital, os mesmos devem estar disponíveis 24x7","1. Preparando uma ou mais pessoas de carreira da MTI que esteja engajada e comprometida e que tenha conhecimento técnico e habilidade conduzir a continuidade dos produtos
+2. Monitoramento 24x7 (contrato de consumo interno parceria TD)
+3. Redundancia do ambiente tecnológico",01/03/2024,31/12/2024,"Valor do contrato consumo: R$ 4.778.935,20",EM ANDAMENTO,"23,00%","Monitoramento do Portal e MT Cidadão sendo realizado e acompanhado mensalmente e são utilizados na composição do indicador estratégico
+Novo canal de atendimento ao cidadão: Chatbot e Whatsapp. Necessário implementar monitoramento do Chatbot e Whatsapp.",UGGDI,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGACO.01,Atraso nos prazos previstos para a conclusão das aquisições,OPERACIONAL,,ALTO,,Instrução correta dos processos,GCTO E GAQS,MTI,Para que os processos não retorne por diversas vezes as unidades demandantes para correção,1 - Elaboração do Check List dos documentos necessários para instrução e mapeamento do processo                                                                                   ,01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,100%,,UGACO,"100,00%",7,8
+R.UGACO.02,processos iniciados sem previsão orcamentária (PTA),OPERACIONAL,,ALTO,,"Cumprimento das Legislações (LRF, Decreto 1.525/2022/, RLC...",UGACO,MTI,A unidade demandante deve saber se o produto ou o serviço a ser adquirido foi incluido no PTA e se existe orçamento para a aquisição,1 - Disparar CI com a informação e encaminhar às areas,01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,UGACO,,,
+R.UGACO.03,Prorrogações contratuais realizadas com o prazo exíguo ou correndo risco de perder o prazo para prorrogação,OPERACIONAL,,ALTO,,Evitar a perda do contrato por desídia,UGACO,MTI,Perda das prorrogações dos contratos geram demandas novas com custos elevados e tempo para conclusão,"1 -  A GCTO comunicará mensalmente (12 meses antes de vencer )  as areas demandantes sobre os vencimentos dos contratos e o check list com os documentos necessários para as  prorrogações, via SIGADOC.                                                                           2. 06 Meses antes do vencimento dos contratos , a GCTO intensifica o contato com area para alertar sobre os vencimentos dos contratos, via SIGADOC e  caso não seja respondidoo prazo máximo de 60dias do vencimento , então realiza o item 3.                                                                                 .                       3 Cobranças semanais das Unidades com cópia para os Chefes imediatos e Presidência para o cumprimento da demanda no prazo, realizadas por e-mail ou CI",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,UGACO,,,
+R.UGACO.04,Realizar contratações emergenciais,OPERACIONAL,,ALTO,,Evitar a perda dos contratos que devem ser prorrogados e planejar as aquisições em tempo hábil,UGACO,MTI,Contratos emergenciais devem ser realizados somente em casos estritamente necessários e com justificativa plausível,1 - Demandar CI para as Unidades com as recomendações.,01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,UGACO,,,
+R.UGACO.05,Fiscalização contratal ineficiente,OPERACIONAL,,CRÍTICO,,Evitar que os contratos sejam mal fiscalizados,GCTO,MTI,"As contratações devem ser monitoradas e acompanhadas, visando a entrega de um excelente serviço ou produto",1 - Curso de Capacitação em fiscalização de contratos (encaminhado e-mail para os responsáveis para arealização do curso que foi disponibilizado gratuitamente)                                                                                                            2 - Elaborar cartilha juntamente a UNISECI m para orientações.                                                                                                                                                                                                                                                                                                                                                                                      3.Portaria com após a publicação do novo RLC. ,01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,UGACO,,,
+R.UGACO.06,"Receber, para si ou para outrem, vantagem(econômica ou não), direta ou indireta, por ação ou omissão decorrente das atribuições do Agente Público",OPERACIONAL,,ALTO,,Receber vantagens financeiras,UGACO,MTI,"Evitar qualquer Infração Penal prevista em lei, com sanções administrativas e Penais.","1 - Atuar conforme principios da Legalidade, Imparcialidade, Moralidade, Publicidade e Ética",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,UGACO,,,
+R.UGACO.07,Baixo engajamento das equipes internas,ESTRATÉGICO,,ALTO,,"Demora na Analise de processos, conclusão e finalização",UGACO,MTI,Ausencia de politicas que incentivem a produtividade,1 - Estrutura o setor com pessoa com perfil pertinente a UGACO .                                                                                                      2. Capacitação da equipe .                                                                                                           3. Reconhecer e incentivar colaboradores a atingirem suas metas e obrigações diarias.                                                                                                                                                                                 ,01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,UGACO,,,
+R.UGACO.08,Indisponibilidade dos serviços de TIC,ESTRATÉGICO,,CRÍTICO,,Aperfeiçoar o plano anual de contratação (com prioridades para assuntos críticos de continuidade de negócio),UGACO,MTI ,"Melhorar a consciência dos elaboradores das áreas demandante, para que o plano anual seja elaborado e executado com maior qualidade, planejamento, tempestividade e interesse na concretização de contratações, buscando assim priorizar e mitigar os assuntos críticos.","1. Através de reuniões trimestrais com as áreas demandantes, orientar e estimular a melhoria na elaboração e execução no plano anual de aquisições. 
+2. Acompanhar a execução do plano anual de contratação vigente, realizando ajustes caso necessário. 
+",02/02/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGOFF.01,D - Pagamentos por Indenização,OPERACIONAL,,ALTO,,Pagamentos de despesas sem cobertura contratual.,Todas as áreas demandantes,MTI,"Morosidade nos trâmites processuais para a renovação ou contratação de serviços contínuos. Falta de planejamento por parte do Gestor e Fiscal do Contrato, considerando que o Setor de Contratos envia e-mails orientativos informando o vencimento dos Contratos com até 6 (seis) meses de antecedência","O Gestor e o Fiscal do Contrato deverão fazer o acompanhamento da vigência do Contrato que é de sua responsabilidade, tomando as devidas providências quanto a sua renovação ou nova contratação, em tempo hábil, evitando pagamentos indenizatórios e abertura de Processo Administrativo - PAD.",02/01/2024,31/12/2024,"R$ 0,00",CANCELADA,0%,"Não houve pagamento por indenização no período de janeiro à junho de 2024. Este Indicador será revisto, haja vista que a UGOFF, não tem gerência sobre processos de indenizações.",UGOFF,-,6,6
+R.UGOFF.02,H - Morosidade na liberação do Pedido de Venda via INFOCENTER.,OPERACIONAL,,CRÍTICO,,Atraso na emissão e entrega das notas fiscais para o cliente.,UGENE,MTI,Morosidade na liberação do pedido de venda através do INFOCENTER.,"A UGENE deverá liberar o pedido de venda através do INFOCENTER/PROTHEUS, validando todos os valores e serviços prestados para o cliente até o dia 05 domês subsequente ao serviços prestado pela MTI. GFAC - Gerar a nota fiscal, o  DAR - Documento de Arrecadação se necessário e envia o processo via SIGADOC para o cliente até o dia 10.",02/01/2024,31/12/2024,"R$ 506,00",EM ANDAMENTO,"50,46%","De janeiro à outubro foram realizados 747 faturamentos, sendo que 50,46% que equivale a 316 notas fiscais foram enviadas dentro do prazo de até o dia 10 do mês subsquente aos serviços prestados pela MTI.",UGOFF,,,
+R.UGOFF.03,I - Inadimplência dos Clientes da MTI,OPERACIONAL,,ALTO,,Indíce de inadimplência dos clientes da MTI,Clientes ,MTI,Despesa não prevista no PTA pelos clientes; Discordância do cliente quanto aos serviços prestados; Morosidade na finalização do Termo de Referência do clientes para assinatura do contrato com a MTI; Ausência de Aditivo Contratual conforme o consumo do cliente., O cliente deverá prever no PTA o valor da despesa contratada.,02/01/2024,31/12/2024,"R$ 3.709.376,57",EM ANDAMENTO,"8,75%","Considerando os meses de janeiro à dezembro, consta uma inadimplência no valor de R$ 8.616.948,71, equivale a 9,73%. Insta informar que não foi considerado as notas fiscais faturadas no mês 6, uma vez que conforme clausula contratual, os clientes terão até 30 dias para realizar o pagamento considerando o atesto da nota fiscal pelo fiscal do contrato.",UGOFF,,,
+R.UGOFF.04,"J - Solicitações de novas demandas durante a execução orçamentária, sem o devido planejamento. ",ESTRATÉGICO,,CRÍTICO,,Falta de Planejamento Orçamentário e corte do valor da LOA.,Todas as áreas demandantes,MTI,"1. Falta de planejamento para novas aquisições; 
+2. Dificuldades em priorizar as novas demandas; 
+3. Falta de clareza nos conceitos de planejamento e execução orçamentária", Na elaboração do PTA cada gestor e fiscal do contrato deverá primeiramente prever o valor da despesa já contratada (vigente) e na sequência prever valores para novas aquisições que já estejam validadas pelo Diretor da área e autorizadas pelo Presidente da MTI. ,02/01/2024,31/12/2024,"R$ 0,00",EM ANDAMENTO,"0,00%",Não houve movimentação de janeiro à dezembro,UGOFF,,,
+R.UGOFF.05,L - Processo de pagamento Judicial.,OPERACIONAL,,ALTO,,Processos de Execução Judicial de Sentença proferida em 48 horas,UNIJUR,MTI,Curto prazo para pagamento de processos de Execução Judicial de Sentença proferida em 48 horas,"A UNIJUR encaminhar o processo de pagamento em carácter de urgência sempre comunicando a UGOFF e GEFI do curto prazo para autenticação do pagamento. Vale destacar que o sistema FIPLAN realiza pagamento até às 17h:00min e em casos de solicitação de antecipação de Float, o horário é até às 11h:00min. Pagamentos realizado sem antecipação, será creditado em até 48 horas.",02/01/2024,31/12/2024,"R$ 2.347,00",EM ANDAMENTO,"1,23%","Dos 2347 pagamentos realizados  de janeiro à novembro, 1,23 % que equivale a 6 (seis) processos, foram judiciais.",UGOFF,,,
+R.UGOFF.06,B - Manter Atualizado o Sistema FIPLAN-GFO (Gestão Financeira de Obras e Serviços de Engenharia,OPERACIONAL,,MODERADO,,Manter o sistema FIPLAN-GFO atualizado,"Gestor/Fiscal do Contrato, GCTO, GEOR, GEFI.",MTI,Impedimento do pagamento da despesa.,"Todos os perfis envolvidos nesta demanda deverão manter os sistema FIPLAN-GFO atualizado, sendo o perfil de Operador de contratos de obras e serviços de engenharia, operador orçamentário e financeiro, fiscal de obras e serviços de engenharias, Auxiliar de fiscalização de obras e serviços de engenharia e Consulta.",02/01/2024,31/12/2024,"R$ 18.050.000,00",EM ANDAMENTO,"49,31%","O Sistema FIPLAN-GFO está sendo atualizado conforme a evolução da reforma da Nova Sede da MTI através de suas medições. Vale ressaltar que a quantidade informada de R$ 18.050.000,00 é referente ao credor São Pedro Construtora LTDA.  Foi realizado pagamentos até dezembro no total de R$ 8.900.814,01 , que equivale a 49,31 % do valor contratado.",UGOFF,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGCOF.01,B - Descumprimento de prazos para envio de informações relativas à Conciliação Bancaria pelo setor Financeiro em detrimento do processo de compatibilização de informações entre os sistemas de gestão Publico e Privado.,OPERACIONAL,,MODERADO,NÃO,Cumprimento de prazos,Alcindo / Gustavo / Marcio,UGOFF/UGCOF/GICF,"Ações a serem realizadas para mitigação de riscos de atrasos nos fechamentos contabeis mensais, oriundos de ausencias de informações internas. ","Com a realização da conciliação bancaria em ritmo diario ou semanal, com intuito de otimizar a data de fechamento mensal e posterior entrega à UGCOF para as devidas validações.",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",As entregas dos balancetes mensais foram realizadas no prazo para a Sefaz e Conselho Fiscal.,UGCOF,"100,00%",5,5
+R.UGCOF.02,C - Descumprimento de prazos para envio de informações relativas ao Faturamento Mensal pela GFAC em detrimento do processo de compatibilização de informações entre os sistemas de gestão Publico e Privado.,OPERACIONAL,,MODERADO,NÃO,Cumprimento de prazos,Alcindo / Gustavo / Marcio,UGOFF/UGCOF/GICF,"Ações a serem realizadas para mitigação de riscos de atrasos nos fechamentos contabeis mensais, oriundos de ausencias de informações internas. ",Com o fechamento das informações relativas aos faturamentos do mês corrente em prazo hábil e a conferencia dos cancelamentos de documentos de competencias anteriores que servirão de creditos tributarios nas apurações tributarias do mês avaliado. ,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","A validação do faturamento está ocorrendo até o segundo dia util do mês subsequente, dentro do prazo.",UGCOF,,,
+R.UGCOF.03,D - Analise de documento fiscal em descumprimento as normas de retenção ou creditos tributarios.,OPERACIONAL,,MODERADO,NÃO,Legislação Tributaria,Alcindo / Gustavo,UGCOF/GICF,"Análises necessarias para liberação de um documento de entrada/saida, considerando que os mesmos interferem diretamente no montante de tributos apurado mensalmente.","Com observação a legislação tributaria, realização de atualizações constantes sobre o assunto e tratamento de erros na validação dos documentos.",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Realizadas melhorias no sentido de verificar caso a caso as devidas retenções e aproveitamentos de crédito tributario.,UGCOF,,,
+R.UGCOF.04,G - Preço dos produtos/serviços não competitivos com o mercado,ESTRATÉGICO,,ALTO,SIM,Atualização do plano de gestão de custos,Alcindo / Naianne,UGCOF/GCCP,"Necessidade de revisão dos custos dos serviços prestados, considerando folha, insumos e tributos para melhoria e adequação da apropriação dos custos e preços de venda","Com a observação nas melhores praticas de gestão de custos,realização de capacitação do pessoal responsavel e implantação de ferramentas necessarias. ",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Iniciado o Pré projeto para realização do custeio de uma unidade piloto e apresentação do modelo à diretoria.,UGCOF,,,
+R.UGCOF.05,"H - Descumprimento dos prazos de entrega dos Inventarios de Bens móveis, imóveis e de Consumo",OPERACIONAL,,MODERADO,NÃO,Gestão patrimonial,Alcindo / Olivia,UGCOF/UGADM,Necessidade do registro e classificação dos bens e suas alterações/cessões tempestivamente.,"Com a correta utilização da ferramenta de gestão de ativos, realização de ações  que mitiguem o risco de perda, dano ou extravio dos bens da empresa.",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Nomeação de novo gerente de patrimonio. Levantamento de informações dos bens da empresa (por empregado).,UGCOF,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGITI.01,Baixa performance nos equipamentos de processamento de dados;,ESTRATÉGICO,,ALTO,NÃO,Substituir Parque Computacional obsoleto,GPAC,MTI,Garantir a integridade dos dados e disponiblidade dos serviços de TI,"3 Cenários possíveis:
+* Aguardar a aquisição de HCI através do PROFISCO II, conforme projeto da MTI já reportado à SEFAZ;
+* Realizar a Migração dos workloads de clientes/serviços dedicados para infraestrutura do Parceiro ZADARA, sendo necessário readequação contratual;
+* Realizar a aquisição de mais nós de HCI que suporte a demanda, e definir estratégia de ciclo de investimentos contínuos",,,,EM ANDAMENTO,"51,00%","Necessário discutir possibilidades e definir estratégia.
+
+* Parte será viabilizado pela ARP RedHat,para construção de ambiente dedicado;
+* Aguardando agenda com a presidência para encaminhamento quanto a ARP RedHat;
+* Aguardando retorno do CONDES;
+Pregão agendado para 09/12",UGITI,"73,00%",8,8
+R.UGITI.02,Indisponibilidade do ambiente de hospedagem (colocation),ESTRATÉGICO,,MODERADO,NÃO,Executar Retrofit do Espaço Físcio do DC,GPAC,MTI,Garantir a integridade dos dados e disponiblidade dos serviços de TI,"Realizar a contratação de serviços de engenharia para elaboração de Projetos de Retrofi do DC, que compreendam as necessidade de Refrigeração, Elétrica, Combate e prevenção de incêndio, Monitoramento e automação (DCIM);
+Após projetos disponíveis realizar a priorização, para contratação das execuções ",01/02/2024,31/12/2024,,EM ANDAMENTO,98%,"Processo de contratação de engenheiro em fase de assinatura de Contrato, logo após segue para emissão de OS e início das atividades.
+* Projetos em fase de validação;
+* Realizada apresentação das especificações de alteração do DC para Diretoria que irá levar a Presidência para aprovação;
+Aguardando finalização da documentação do projeto básico ",UGITI,,,
+R.UGITI.08,Indisponibilidade no Ambiente de Virtualização;,ESTRATÉGICO,,ALTO,NÃO,Substituir Parque Computacional obsoleto,GPAC,MTI,Garantir a integridade dos dados e disponiblidade dos serviços de TI,"3 Cenários possíveis:
+* Aguardar a aquisição de HCI através do PROFISCO II, conforme projeto da MTI já reportado à SEFAZ;
+* Realizar a Migração dos workloads de clientes/serviços dedicados para infraestrutura do Parceiro ZADARA, sendo necessário readequação contratual;
+* Realizar a aquisição de mais nós de HCI que suporte a demanda, e definir estratégia de ciclo de investimentos contínuos",,,,EM ANDAMENTO,"50,00%","Processo MTI-CIN-2022/00205; Contrato assinado em 17/05/2022;
+
+
+* Parte será viabilizado pela ARP RedHat,para construção de ambiente dedicado;
+* Aguardando agenda com a presidência para encaminhamento quanto a ARP RedHat;
+* Aguardando retorno do CONDES;
+Pregão agendado para 09/12",UGITI,,,
+R.UGITI.11,Indisponibilidade dos serviços de internet,OPERACIONAL,,PEQUENO,NÃO,Ampliar a capacidade dos links de internet do AS,GRCO,MTI,Garantir a continuidade dos processos de negócio do Estado de Mato Grosso,Adtivo contratual com os provedores de Internet do AS para aumento da capacidade do LINK de internet,01/12/2023,15/04/2024,,CONCLUÍDA,100%,"Novos contratos assinados com as empresas Claro e Titânia.
+Aguardando ativação ;
+Mesmo Status",UGITI,,,
+R.UGITI.16,"Indisponibilidade de comunicação na rede Infovia
+e rede Core (incluindo rede de acesso - Datacenter)",ESTRATÉGICO,,CRÍTICO,NÃO,Subustituição de todo o parque de Ativos de Rede CORE,GRCO,MTI,Garantir a continuidade dos serviços de conectividade  do Datacenter e da Rede Infovia,Executar o Projeto de Implantação da Rede Core SDN (Spine/Leaf) licitada em 2023,05/12/2023,31/12/2024,,EM ANDAMENTO,"74,00%","Contrato assinado, emitido OS. Está em fase de planejamento, enquanto aguarda chegada dos equipamentos;
+Equipamentos Entregues (Agosto/2024), iniciada fase de instalação e ativação;
+* Instalação realizada, iniciado planejamento lógico e de migração;
+Finalizando implantação, para início das migrações.
+* De acordo com cronograma atualizado (encerramento previsto para 05/12)",UGITI,,,
+R.UGITI.23,Indisponibilidade do Ambiente de Balanceamento,OPERACIONAL,,MODERADO,NÃO,Finalizar projeto de migração dos Virtual Servers (VS) do ambiente legado para novo,GABD,MTI,Garantir a disponibilidade e segurança das aplicações mantidas pela MTI,"Emitir OS para o contratado realizar as ações de configuração e finalização do projeto de migração, consequentemente desativar ambiente legado",01/01/2024,31/12/2024,,EM ANDAMENTO,"87,00%",Contrato 016/2022,UGITI,,,
+R.UGITI.33,Baixa performance no uso das aplicações,OPERACIONAL,,MODERADO,NÃO,ampliar uso da ferramenta de monitoramento de performance de aplicações (APM),GABD,MTI,Garantir a disponibilidade e segurança das aplicações mantidas pela MTI,Avaliar possiblidade de adesão a ARP de subscrições e serviços Dynatrace para ampliar utilização da solução de monitoramento,10/05/2024,31/12/2024,,NÃO INICIADA,,"Iniciada análise de mercado e elaboração do Termo de Referência após a aprovação do recurso e repriorização dessa ação.
+
+Aberto o processo MTI-PRO-2022/00154 para contratação;
+
+Aguardando Homologação do Pregão realizado;
+Contrato assinado;
+Solução Implantada;
+Iniciado configuração de aplicações a serem monitoradas;
+
+* Aguardando definições quanto a cenários possíveis de contratação.
+- Ação ficará para 2025, devido necessitar finalizar contratação",UGITI,,,
+R.UGITI.37,"Indisponibilidade da Plataforma de
+ Container - RedHat Openshift.",ESTRATÉGICO,,ALTO,NÃO,Manter equipe capacitada na operacionalização da solução de containers,GABD,MTI,Garantir a disponibilidade das aplicações mantidas pela MTI,"* Realizar Licitação de ARP de soluções Red Hat para prover subscrições e serviços que atendam a plataforma e sua expansão;
+Avaliar lote de appliance que suporte ambiente dedicado",01/03/2024,31/12/2024,,EM ANDAMENTO,"51,00%","Aguardando licitação
+* Aguardando retorno do CONDES quanto ao processo em andamento;
+Pregão agendado para 09/12",UGITI,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGSDG.01,Falta de vazão na entrega dos serviços por meio de parceria,OPERACIONAL,MODERADO,,NÃO,Adequar tamanho dos pacotes de entrega confome capacidade das sprint,UGSDG,UGSDG,para entregar constantemente,"1-Orientar equipe interna
+2-Orientar Parceira
+3-Incluir o acordo na reunião de Kick Off
+3-Acompanhar tamanho dos pacotes de entrega",01/03/2024,31/12/2024,,EM ANDAMENTO,92%,"23/04/2024 Atualizado.
+06/09/2024 Atualizado.
+08/10/2024 - Atualizado
+22/11/2024 - Atualizado.",UGSDG,"72,22%",6,6
+R.UGSDG.02,Falta de vazão na entrega dos serviços por meio de parceria,OPERACIONAL,MODERADO,,NÃO,Automatizar processo por meio de ferramentas,UGSDG,UGSDG,para aumentar a fluidez do processo,"1-Estudar Ferramentas disponiveis no mercado
+2-Identificar o que pode ser automatizado no Service Now
+3-Executar as adequações
+4-Treinar Equipe",01/03/2024,31/12/2024,,EM ANDAMENTO,35%,"24/04/2024  - Atualizado.
+A automatização de esteira, está sendo conduzida pela equipe UGARQ.
+06/09/2024 Atualizado. Reforço recebido dos novos contatados.
+08/10/2024 - Atualizado
+22/11/2024 - Atualizado",UGSDG,,,
+R.UGSDG.03,Dificuldade para estabelecer pacotes de entrega de valor para o cliente,OPERACIONAL,MODERADO,,NÃO,Capacitar Perfil PO,UGSDG,UGSDG,para entregar valor para o negocio,"1-Identificar capacitações e informar no plano de Capacitação
+2-Adquirir treinamentos /certificações
+3-Realizar treinamentos / certificação",01/03/2024,31/10/2024,,CONCLUÍDA,100%,"23/04/2024  Atualizado.
+06/09/2024Atualizado. Contratações em andamento.
+08/10/2024 - Atualizado
+22/11/2024 - Atualizado",UGSDG,,,
+R.UGSDG.04,Dificuldade para estabelecer pacotes de entrega de valor para o cliente,OPERACIONAL,MODERADO,,NÃO,Avaliar a percepção do valor entregue,UGSDG,UGSDG,para aferir satisfação do cliente,"1-Definir pesquisa 
+2-Avaliar mensalmente",01/03/2024,31/12/2024,,EM ANDAMENTO,92%,"23/04/2024 -Atualizado.
+06/09/2024-Atualizado.
+08/10/2024 - Atualizado
+22/11/2024 - Atulizado.",UGSDG,,,
+R.UGSDG.05,"Falta de Integração dos processos (DEV, Comercial e Central)",OPERACIONAL,MODERADO,,NÃO,Integrar esteira dev e comercial,UGSDG,UGSDG,para desenvolver somente o que foi contratado ou autorizado comercialmente,"1-Definir os pontos possiveis de integração das equipes
+2-Implantar Fluxo de Ordem de serviço
+3-Implantar Fluxo de Faturamento",01/03/2024,31/12/2024,,EM ANDAMENTO,"15,00%","23/04/2024 Atualizado.
+06/09/2024 Atualizado.
+08/10/2024 - Atualizado - Esse assunto náo andou quase nada. 
+22/11/2024 - Atualizado - Esse assunto náo andou quase nada. ",UGSDG,,,
+R.UGSDG.06,Falta de vazão na entrega dos serviços por meio de parceria,OPERACIONAL,MODERADO,,NÃO,Solicitar contratação de Pessoas para atuarem como Líder de Celula e Tech Lead,UGSDG,UGSDG,"para manter a capacidade de atuação, considerando o encerramento do contrato  temporário atual","1-Especificar perfil de Lider de Celula e Tech Lead
+2-Reportar produtos /projetos impactados",01/03/2024,30/04/2024,,CONCLUÍDA,"100,00%","24/04/2024 
+Atualizado.
+06/09/2024
+Atualizado.",UGSDG,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGSTI.01,Parada de Firewall (UGGDC),OPERACIONAL,,MODERADO,SIM,Fazer cópias quinzenais das VMs que hospedam a ferramenta; Monitorar status de funcionamento dos firewalls gerenciados pela GSUP,GSUP,Vcenter MTI,Para ter como restaurar em caso de dano no ambiente original; Para acompanhar a disponibilidade dos firewalls,"Registrando chamado para a equipe que gere a Vcenter que hospeda a solução para agendar a execução do procedimento mensalmente; Através do acompanhamento de disponibilidade de funcionamento dos firewalls, gerados pela monitoria do Zabbix.
+",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%","Processo executado, porém sem atingir a meta de contratação que era de 65 analistas temporários, sendo contratados apenas 31. ""Feito o relatorio mensal sobre a disponibilidade dos Firewalls dos Clientes/Setorial na planilha
+https://docs.google.com/spreadsheets/d/1YVhjTOhok5tPOz28j4gA2EaWMfX5gxq91xaeiS1un04/edit#gid=2108066493 """,UGSTI,"100,00%",8,8
+R.UGSTI.03,Parada do Servidor do Antivirus (UGGDC),OPERACIONAL,,ALTO,SIM,Fazer cópias mensais das VMs que hospedam a ferramenta,GSUP,Vcenter MTI,Para ter como restaurar em caso de dano no ambiente original. Assegurar o bom funcionamento da ferramenta e evitar que a ferramenta fique sem analista para futuras manutenções e/ou atualizações.,"Registrando chamado para a equipe que gere a Vcenter que hospeda a solução para agendar a execução do procedimento mensalmente
+",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Será feito um relatorio mensal para monitoramento e evidencias.,UGSTI,,,
+R.UGSTI.05,Baixa adesão Suporte do Google Workspace,OPERACIONAL,,MODERADO,NÃO,Capacitar técnicos e analistas em trilhas de conhecimento das ferramentas do Google Workspace ,UGSTI,MTI,Assegurar o bom funcionamento da solução e prestar um melhor atendimento aos usuários sobre as ferramentas disponibilizadas pela solução de colaboração,Através da realização de treinamentos e compartilhamento de conhecimento dentro das equipes  conforme o plano de capacitação da MTI e busca de auxílio por parte da parceria Google,01/01/2024,01/07/2024,,CONCLUÍDA,"100,00%",Está sendo realizado treinamento periódicos com a equipe.,UGSTI,,,
+R.UGSTI.06,Parada de ativos de rede da MTI (ex: switches),OPERACIONAL,,ALTO,NÃO,Monitorar proativamento os status de funcionamento dos ativos de rede da MTI,GSUP,MTI,Para acompanhar a disponibilidade dos ativos de rede,"Através do acompanhamento de disponibilidade de funcionamento dos ativos de rede, gerados pela monitoria do Zabbix",01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Realizado criação e configuração Dashboard.,UGSTI,,,
+R.UGSTI.12,Perda de backups Firewall´s,OPERACIONAL,,ALTO,NÃO,"Certificar junto a GPAC a realização e o armazenamento dos backups (diários, semanais e mensais dos arquivos e sistemas sensíveis).Realizar testes regulares mensais para se certificar que as cópias de segurança estão operacionais.",GSUP,MTI,"Assegurar disponibilidade das cópias de segurança de informações, dados e apps de utilização da UGSTI. Assegurar que as cópias de segurança realizadas estão operacionais.",Informar sempre que necessário a equipe responsável pelo ambiente de hospedagem das soluções e ferramentas de utilização da UGSTI sobre as necessidades de cópias recorrentes e das eventuais para se evitar perda de dados ou parada de serviços. Realizar restauração sistemática amostral de backups realizados de forma a se assegurar de que os mesmos estejam operacionais.,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Está sendo realizado bkp de 15 em 15 dias pela GSUP.,UGSTI,,,
+R.UGSTI.18,Indisponibilidade de ativos de TI por ausência de equipamentos e peças reservas,OPERACIONAL,,ALTO,NÃO,Assegurar a disponibilidade de equipamentos reservas e peças sobressalentes,UGSTI,MTI,Para que sempre se tenha equipamentos e peças de reserva para que não haja parada crítica das atividades da empresa ou de seus clientes,"1- Confecção de novo termo de referência para aquisição de peças para manutenção;
+2- Adquirir equipamentos e peças para assegurar continuidade das atividades da MTI e clientes;
+
+",01/01/2024,30/08/2024,,CONCLUÍDA,"100,00%","Realizada a compra de periféricos (fone de ouvidos, teclados com fio, mousescom fio, kit teclado/ mouse sem fio).",UGSTI,,,
+R.UGSTI.21,"Prestação de serviço indevido, por falta de controle automatizado de Saldo de contas Google",OPERACIONAL,MODERADO,,NÃO,Assegurar que a planilha está atualizada para ter certeza que os clientes estão com saldo de contas,UGSTI,GSUP,Atualizar a planilha constantemente conforme a criação das contas para cada cliente,1 - Automatização do processo de atualização de contas,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Planilha segue sendo atualizada diariamente.,UGSTI,,,
+R.UGSTI.23,Baixo Engajamento das equipes internas,OPERACIONAL,,MODERADO,NÃO,Adotar ações que possibilitem o desenvolvimento das competencias e engajamento dos técnicos/analistas,UGSTI,MTI,Para ampliar o comprometimento e motivação em realizar suas tarefas e contribuir para os objetivos gerais da MTI. Resultando em um ambiente de trabalho colaborativo e produtivo.,"1 - Definindo objetivos e metas de forma clara e aberta 
+2 - Reconhecimento e Feedback reconhecer as realizações das equipes
+3 - Desenvolvimento profissional oferencendo oportunidades",01/05/2024,31/12/2024,,CONCLUÍDA,"100,00%",,UGSTI,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGGDC.01,Indisponibilidade do Ambiente do Data Lake,OPERACIONAL,,CRÍTICO,SIM,"Regularizar licenciamento e suporte técnico das plataformas de BigData ""Cloudera""",Helder Ramos,GEGD,Para garantir ambiente tecnológico adequado para o desenvolvimento de soluções de BI e BigData Lake Coorportivo,"1 -Elaborar TR para renovação de licença e suporte técnico (Clodera) de todos os produtos que contempla o Projeto de BigData
+
+",17/01/2024,20/12/2024,"R$ 15.142.815,95",EM ANDAMENTO,99%,Processo Autorizado para Licitação -  MTI-PRO-2023/02416,UGGDC,"50,00%",3,3
+R.UGGDC.02,Indisponibilidade do Ambiente de GeoProcessamento,OPERACIONAL,ALTO,,SIM,Elaborar Termo de Referência ou desenvolver Parceria Estratégica de Soluções de GeoProcessamento,Helder Ramos,GEGD,Possibilitar a atualização tecnológica de GeoProcessamento e mão de obra especializada,"1 - Elaborar ETP e TR para aquisição
+2 - Prospecção de Parceria Estratégica de GeoProcessamento
+",02/03/2024,21/12/2024,,CANCELADA,"0,00%",Acordado junto a UGEN que será feito a atualização com a renovação tecnológica já existente.,UGGDC,,,
+R.UGGDC.03,Ataques cibernéticos ,OPERACIONAL,ALTO,,SIM,Elaborar Projeto para Implementação de CSIRT - Centro de Tratamento de Incidêntes com objetivo de tratar todos e qualquer incidente Cibernético,Hercules,GEDC,Para garantir o tratamento adequado de Ataques Cibernéticos,"1 - Capacitar a Equipe Técnica 
+2 - Elaboração do Projeto de CSIRT 
+3 - Contratação de Soluções de CiberSegurança  
+4 - Implementação das Soluções 
+5 - Monitoramento
+",03/03/2024,22/12/2024,,EM ANDAMENTO,51%,"Planejamento do Projeto Elaborado, porém passará por uma revisão, para começar as fases de execução. Projeto sendo acompanhando no ServiceNow",UGGDC,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGPRO.01,Ausência de acompanhamento de projetos estratégicos.,ESTRATÉGICO,ALTO,,NÃO,Acompanhamento de Projetos Estratégicos,Gerente da UGPRO,MTI,Assegurar junto aos Times de Projetos as Entregas pactuadas junto aos Clientes.,"1 - Acompanhamento semanal junto com Diretor de TI e Gerentes de Áreas.
+2 - Implementação de Melhorias no Service Now, com intuito de garantir uma fluidez na execução de monitoramento pelos Times de Projetos.
+3 - Reunião semanal de Status Report com o Presidente dos Projetos Estratégicos.",01/05/2024,31/05/2024,R$ -,CONCLUÍDA,"100,00%",,UGPRO,"57,14%",7,7
+R.UGPRO.02,Contratualização com o parceiro da ServiceNow ,ESTRATÉGICO,ALTO,,NÃO,Contratação de Horas e Serviços Técnicos com Parceiro Service Now.,Gerente da UGPRO,MTI,Para dar continuidade aos projetos do MTI,"1 - Alinhamento com a Presidência MTI, apresentando dados e necessidades de utilização de Horas Técnicas do Parceiro no Service Now.
+2 - Confecção de TR de contratação de Horas e Serviços Técnicos do Parceiro da Service Now.
+3 - Planejamento na utilização de Horas e Serviços Ténicos Contratados: Implantação, Suporte e Melhorias.",,10/05/2024,R$ -,CONCLUÍDA,"100,00%","1. Termo de Referência encontra-se parcialmente confeccionado; Atualmente não existe orçamento previsto para contratação dos produtos e serviços, em contrapartido,a UGPRO em conjunto com a DTIC, está realizando levantamento dos contratos de TI que ainda não foram executados para utilização do Saldo Orçamentário e posteriormente apresentação de proposta a Presidência.
+
+2. [08.07.2024] - Termo de Referência concluído e tramitado para análises e deliberações.",UGPRO,,,
+R.UGPRO.03,Mudanças na legislação e regulamentação,ESTRATÉGICO,MODERADO,,NÃO,Adequações a novas possíveis legislações ,Equipe da UGPRO,MTI,"As alterações nas Leis e Regulamentos Governamentais podem gerar impactos nos projetos em andamentos, exigindo ajustes nos planos e nas operações do PMO.","1 - Acompanhamento semanal junto com Diretor de TI e Gerentes de Áreas, levantando os potenciais problemas e riscos alinhados ao Cliente.
+2- Atualização semanal do cronograma de execução física do Projeto.",01/05/2024,31/05/2024,R$ -,CONCLUÍDA,"100,00%",,UGPRO,,,
+R.UGPRO.04,Mudanças nas demandas do mercado,ESTRATÉGICO,MODERADO,,NÃO,"Solicitar mais de um fornecedor externo de tecnologia, hardware ou servidores ",Equipe UGPRO,MTI,Para evitar falhas e riscos nos projetos ,1 - Sempre se atentando a mudanças no mercado.,,,R$ -,CANCELADA,"0,00%",,UGPRO,,,
+R.UGPRO.05,Problemas de integração de sistemas,OPERACIONAL,MODERADO,,NÃO,"Gestão de Mudança em situações de integração de Sistemas com o Service Now, que devido a ausência de especificação e/ou refinamento das necessidades, podem impactar nas automações da ferramenta.",Equipe da UGPRO,MTI,"Impactos em rotinas de processos, utilização da ferramenta que podem chegar ao Cliente.",1 - Implementação de Gestão de Mudança de todas iniciativas de Melhorias no Service Now,,,R$ -,CANCELADA,"0,00%","1. Implementação não realizando, devendo ser iniciada a partir do momento da conclusão da aquisição do Contrato de Consumo de Horas e Licenças do SN.
+
+2. Iniciativa cancelada, em decorrência de reestruturação de nova estratégia de execução de Contrato com Parceiro da ServiceNow.",UGPRO,,,
+R.UGPRO.06,Riscos de fornecedores (Fábrica de Software),OPERACIONAL,ALTO,,NÃO,Adaptação e utilização de melhores equipamentos para comunicação,Equipe UGPRO,MTI,Para manter a clareza e e praticidade nas reuniões ,1 - Solicitando sempre manutenção dos equipamentos.,,,R$ -,CANCELADA,"0,00%",,UGPRO,,,
+R.UGPRO.07,Aculturamento na metodologia de gestão de projetos/ágil,ESTRATÉGICO,ALTO,,NÃO,"Cultura engessada e sem engajamento 
+a novos desafios, inovação e Gestão de 
+Mudança",Equipe UGPRO,MTI,"A resistência à mudança dentro da organização pode 
+dificultar a implementação bem-sucedida de novas 
+tecnologias ou processos, exigindo esforços extras de 
+gerenciamento de mudanças.","1 - Promover Workshop sobre o Service Now.
+2 - Comunicação nas principais Melhorias implementadas no Service Now.
+3 - Implementação de Melhorias que agreguem valor aos usuários do Service Now",01/05/2024,31/08/2024,R$ -,CONCLUÍDA,"100,00%","1. Implementação de novo Fluxo de Projetos no ServiceNow, próximos passos é a realização de capacitação, em conjunto com a DTIC, aos usuário.
+
+2. Readequação de prazo para dia 31.08.2024.
+
+3. Divulgados em julho o Guia de Gestão de Projeros + Painel de Dados BIP - Boletim Informativo de Projetos.
+
+4. Elaboração de material de treinamento para disseminação da MTI.
+
+5. Alinhamento com a VAExpert a disseminação da metodologia ágil",UGPRO,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+R.UGARQ.01,Indisponibilidade da Plataforma de Simplificação ,OPERACIONAL,ALTO,,SIM,"- Manter redundância dos ativos  e monitorar a saúde do ambiente
+- Quanto ao risco contratual, apenas aceitar, pois é uma tecnologia proprietária e não tem como ter uma alterativa. Em caso de ocorrer a quebra de contrato, as aplicações precisam ser refeitas para não utilizar essa tecnologia.",William Chitto,GIAP,Mitigar a chance de indisponibilidade,"Monitorar o ambiente pelo Zabbix, e manter servidores redundantes rodando em paralelo",01/03/2024,31/12/2024,N/A,CONCLUÍDA,100%,,UGARQ,"50,00%",4,4
+R.UGARQ.02,Indisponibilidade do servidor seguro e central da MTI no Xvia,OPERACIONAL,MODERADO,,SIM,"- Evoluir o xVia para ser entregue em formato de docker, assim fica mais fácil para provisionar outros ambientes em caso de falha
+- Manter redundância dos servidores",George Oliveira,GASI,Mitigar a chance de indisponibilidade,"Compliar o xVia na versão nova e manter uma imagem de fácil deploy. 
+Instalar várias instâncias dos servidores seguros para mitigar chance de indisponibilidade.",01/01/2024,31/12/2024,N/A,EM ANDAMENTO,"95,00%","Foi feito o deploy do SS da MTI no GKE, ainda resolvendo problema de IPs no kubernetes local para fazer deploy de outros servidores seguros",UGARQ,,,
+R.UGARQ.03,Indisponibilidade do servidor seguro dos órgãos no Xvia,OPERACIONAL,PEQUENO,,SIM,"- Prover suporte para as equipes dos clientes
+- Evoluir o xVia para ser entregue em formato de docker, assim fica mais fácil para provisionar outros ambientes em caso de falha",George Oliveira,GASI,Mitigar a chance de indisponibilidade,Fornecer nova versão do xVia aos clientes,01/06/2024,31/12/2024,N/A,NÃO INICIADA,"0,00%",Aguardando finalizar o item R.UGARQ.02,UGARQ,,,
+R.UGARQ.04,Indisponibilidade do GCP,OPERACIONAL,ALTO,,SIM,- Manter redundância das aplicações em ambiente local,Fernando Tonon ,UGARQ,Evitar a indisponibilidade das aplicações quando não houver mais contrato com o GCP,Recomendar aos responsáveis das aplicações a aplicação de uma arquitetura em que as aplicações sejam disponibilizadas em paralelo no ambiente da MTI,01/01/2024,31/12/2024,N/A,EM ANDAMENTO,"5,00%",Necessário preparar os ambientes e configurar as esteiras de desenvolvimento e aplicações,UGARQ,,,
