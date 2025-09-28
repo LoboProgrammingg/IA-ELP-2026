@@ -1,4 +1,4 @@
-CÓDIGO DO RISCO,DESCRIÇÃO DO RISCO,CATEGORIA DO RISCO,RISCO INERENTE,RISCO RESIDUAL,RISCO DE SEGURANÇA DA INFORMAÇÃO - SI,O QUE,QUEM,QUAL ATIVO CRÍTICO AFETADO PELO RISCO?,POR QUE,COMO,INÍCIO,FIM,QUANTO,SITUAÇÃO,PERCETUAL DE EXECUÇÃO,OBSERVAÇÕES,UG,Situação Geral,Número de Ações,Quantidade de Eventos de Riscos
+Unidade,DESCRIÇÃO DO RISCO,CATEGORIA DO RISCO,RISCO INERENTE,RISCO RESIDUAL,RISCO DE SEGURANÇA DA INFORMAÇÃO - SI,O QUE,QUEM,QUAL ATIVO CRÍTICO AFETADO PELO RISCO?,POR QUE,COMO,INÍCIO,FIM,QUANTO,SITUAÇÃO,PERCETUAL DE EXECUÇÃO,OBSERVAÇÕES,UG,Situação Geral,Número de Ações,Quantidade de Eventos de Riscos
 ,,,,,,,,,,,,,,,,,,,,
 R.GADP.01,Não priorização pelo governo quanto às soluções a serem entregues pela MTI,ESTRATÉGICO,,ALTO,,Alinhamento com a área estratégica do governo,,,,"- Elaboração e aprovação do PTA;
 - A partir da consolidação do PTA, apresentar e argumentar as necessidades junto ao órgão central do orçamento.
@@ -197,7 +197,8 @@ R.ASSCOM.01,"Material jornalístico ou publicitário divulgado na mídia (impren
 ",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,ASSCOM,"100,00%",2,2
 R.ASSCOM.02,Agir em desconformidade com a Lei Geral de Proteção de Dados (LGPD) e expor dados sensíveis ou sofrer com possíveis vazamentos de dados.,CONFORMIDADE,,MODERADO,SIM,   Transparência,Unidade de Comunicação e Marketing / Unidade Jurídica,MTI,Para que as informações disponibilizadas estejam conforme os padrões,"1 – Monitoramento dos sites institucionais, redes sociais e veículos de comunicação ligados a MTI;
 2 – Participar de Capacitação junto a CGE, Ouvidoria e Unidade Jurídica da MTI;
-3 – Submeter à Unidade Jurídica da MTI qualquer solicitação que possa ferir a LGPD;",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,ASSCOM,,,
+3 – Submeter à Unidade Jurídica da MTI qualquer solicitação que possa ferir a LGPD;
+",01/01/2024,31/12/2024,"R$ 0,00",CONCLUÍDA,"100,00%",,ASSCOM,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
@@ -1031,7 +1032,8 @@ R.UGSTI.18,Indisponibilidade de ativos de TI por ausência de equipamentos e pe�
 R.UGSTI.21,"Prestação de serviço indevido, por falta de controle automatizado de Saldo de contas Google",OPERACIONAL,MODERADO,,NÃO,Assegurar que a planilha está atualizada para ter certeza que os clientes estão com saldo de contas,UGSTI,GSUP,Atualizar a planilha constantemente conforme a criação das contas para cada cliente,1 - Automatização do processo de atualização de contas,01/01/2024,31/12/2024,,CONCLUÍDA,"100,00%",Planilha segue sendo atualizada diariamente.,UGSTI,,,
 R.UGSTI.23,Baixo Engajamento das equipes internas,OPERACIONAL,,MODERADO,NÃO,Adotar ações que possibilitem o desenvolvimento das competencias e engajamento dos técnicos/analistas,UGSTI,MTI,Para ampliar o comprometimento e motivação em realizar suas tarefas e contribuir para os objetivos gerais da MTI. Resultando em um ambiente de trabalho colaborativo e produtivo.,"1 - Definindo objetivos e metas de forma clara e aberta 
 2 - Reconhecimento e Feedback reconhecer as realizações das equipes
-3 - Desenvolvimento profissional oferencendo oportunidades",01/05/2024,31/12/2024,,CONCLUÍDA,"100,00%",,UGSTI,,,
+3 - Desenvolvimento profissional oferencendo oportunidades
+",01/05/2024,31/12/2024,,CONCLUÍDA,"100,00%",,UGSTI,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
