@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script de ingestão para processar documentos da ELP da MTI.
 Converte documentos PDF e CSV para Markdown e os salva em data/processed.
