@@ -1,46 +1,31 @@
 import os
 from pathlib import Path
-from typing import Dict, Any
 from dotenv import load_dotenv
 
 load_dotenv()
 
 class Config:
-    def __init__(self):
-        self.project_root = Path(__file__).parent.parent.parent
-        self.data_dir = self.project_root / "data"
-        self.raw_data_dir = self.data_dir / "raw"
-        self.processed_data_dir = self.data_dir / "processed"
-        self.vector_store_dir = self.data_dir / "vector_store"
-        
-        self.gemini_api_key = os.getenv("GEMINI_API_KEY")
-        self.tavily_api_key = os.getenv("TAVILY_API_KEY")
-        
-        self._validate_config()
-        self._ensure_directories()
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
     
-    def _validate_config(self):
-        if not self.gemini_api_key:
+    BASE_DIR = Path(__file__).parent.parent.parent
+    DATA_DIR = BASE_DIR / "data"
+    RAW_DATA_DIR = DATA_DIR / "raw"
+    PROCESSED_DATA_DIR = DATA_DIR / "processed"
+    VECTOR_STORE_DIR = DATA_DIR / "vector_store"
+    
+    FAISS_INDEX_PATH = VECTOR_STORE_DIR / "faiss_index.bin"
+    METADATA_PATH = VECTOR_STORE_DIR / "metadata.json"
+    
+    @classmethod
+    def ensure_directories(cls):
+        cls.RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
+        cls.PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
+        cls.VECTOR_STORE_DIR.mkdir(parents=True, exist_ok=True)
+    
+    @classmethod
+    def validate_config(cls):
+        if not cls.GEMINI_API_KEY:
             raise ValueError("GEMINI_API_KEY não encontrada nas variáveis de ambiente")
-        
-        if not self.tavily_api_key:
-            print("AVISO: TAVILY_API_KEY não encontrada - funcionalidade de busca externa limitada")
-    
-    def _ensure_directories(self):
-        for directory in [self.data_dir, self.raw_data_dir, self.processed_data_dir, self.vector_store_dir]:
-            directory.mkdir(parents=True, exist_ok=True)
-    
-    def get_gemini_config(self) -> Dict[str, Any]:
-        return {
-            "api_key": self.gemini_api_key,
-            "model": "gemini-1.5-pro",
-            "embedding_model": "models/embedding-001"
-        }
-    
-    def get_tavily_config(self) -> Dict[str, Any]:
-        return {
-            "api_key": self.tavily_api_key,
-            "search_depth": "basic"
-        }
-
-config = Config()
+        if not cls.TAVILY_API_KEY:
+            raise ValueError("TAVILY_API_KEY não encontrada nas variáveis de ambiente")

@@ -1,0 +1,154 @@
+[
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Estratégicos_2025_Servicenow_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Estratégicos_2025_Servicenow\n\n## UNIDADE: [ASSCOM - ASSESSORIA DE COMUNICACAO]\n\n### Indicador\n\n**Ciclo:** 2025-2029\n**Nome:** Índice de satisfação e imagem\n**Descrição:** <p>Este indicador é obtido através da pesquisa institucional.</p>\n**Métrica:** Último valor\n**Objetivo Estratégico:** Elevar o nível de satisfação do cliente e da imagem institucional\n**Meta Anual:** 8,4\n\n## UNIDADE: [DTIC - DIRETORIA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO]\n\n### Indicador\n\n**Ciclo:** 2025-2029\n**Nome:** Índice de conformidade com LGPD\n**Descrição:** <p>Proporção em que as práticas da organização estão alinhadas com os princípios e requisitos da LGPD, refletindo o nível de proteção dos dados pessoais dos titulares.</p>\n<div><strong>Nível A - 5</strong></div>\n<div><strong>Nível B - 4</strong></div>\n<div><strong>Nível C - 3</strong></div>\n<div><strong>Nível D - 2</strong></div>\n<div><strong>Nível E - 1</strong></div>\n<div> </div>\n<div><strong>Tarefas de Adequação Sim",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Estratégicos_2025_Servicenow",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Operacionais_24_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Operacionais_24\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Diretoria:** GADP\n**Indicador Descrição:** Eventos realizados - Total de eventos realizados\n**Indicador Fórmula:** (Total de eventos realizados/Total de eventos demandados)*100\n**Meta Objetivo:** - Garantir padronização da identidade visual\n- Contribuir para imagem positiva da MTI\n- Auxiliar os setores na organização dos eventos\n**Meta Valorquantidade Proposta:** 100,00%\n**Meta Prazo:** Mensal\n**Como:** - Planejamento antecipado, incluindo definição de datas, locais e formatos, deve ser realizado pelo setor demandante e repassado à ASSCOM para validação.\n- Divulgação antecipada para maximizar o alcance e impacto.\n\n**Necessidades:** - Que os outros setores comuniquem a ASSCOM com antecedência sobre os eventos planejados.\n**Janeiro Meta Do Mês:** 100%\n**Janeiro Alcance Do Mês:** 100%\n**Janeiro Resultado:** 100,00%\n**Janeiro Observação:** Integração Fic_Dev\nJaneiro Branco\n**Fevereiro Meta Do Mês:** ",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Operacionais_24",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Iniciativas_Estratégicas_2025_Servicenow_general_0",
+    "content": "# Estrutura dados IA - Iniciativas_Estratégicas_2025_Servicenow\n\n## UNIDADE: [ASSCOM - ASSESSORIA DE COMUNICACAO]\n\n### Indicador\n\n**Nome:** Marketing digital para aumentar a visibilidade da MTI e gerar leads qualificados.\n**Tipo De Iniciativa:** OBES - Objetivo Estratégico\n**Resultado Esperado:** '- Vídeo Conexão MTI 1x por mês\n- Site Institucional, Marketplace e Intranet sempre atualizados\n- Redes Sociais: % conteúdos publicados (plano de mkt mensal)\n**Objetivo Estratégico:** Elevar o faturamento\n**Ano:** 2025\n**Prazo:** 31-12-2025 00:00:00\n**Estado:** Em andamento\n**Porcentagem De Conclusão:** 70,00\n\n### Indicador\n\n**Nome:** Valores e missão: Reforçar os valores e a missão da empresa, promovendo um senso de propósito e pertencimento.\n**Tipo De Iniciativa:** OBES - Objetivo Estratégico\n**Resultado Esperado:** Conteúdo sobre missão, visão e valores 1x por mês (utilizando diversas estratégias, como wallpaper, vídeo, texto, arte, quiz, entre outras)\n**Objetivo Estratégico:** Promover a s",
+    "metadata": {
+      "source": "Estrutura dados IA - Iniciativas_Estratégicas_2025_Servicenow",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Riscos_Operacionais_2024_general_0",
+    "content": "# Estrutura dados IA - Riscos_Operacionais_2024\n\n## UNIDADE: [R.ASSCOM.01]\n\n### Indicador\n\n**Descrição Do Risco:** Material jornalístico ou publicitário divulgado na mídia (imprensa e redes sociais) que possa prejudicar a reputação da instituição, seus diretores, gestores e colaboradores.\n**Categoria Do Risco:** OPERACIONAL\n**Risco Residual:** MODERADO\n**Risco De Segurança Da Informação Si:** SIM\n**O Que:** Revisão de todas matérias para publicação\n**Quem:** Unidade de Comunicação e Marketing  / Diretoria\n**Qual Ativo Crítico Afetado Pelo Risco:** MTI\n**Por Que:** Para criar bom relacionamento com a imprensa e mitigar possíveis danos a imagem institucional\n**Como:** 1 – Monitoramento dos principais veículos de imprensa de Mato Grosso;\n2 – Rotina de envio de releases e oferecimento de pautas sobre as ações da MTI à imprensa;\n3 – Realizar Midia Training com os principais porta-vozes da instituição;\n4 – Monitoramento dos riscos de crise institucional junto a Direx ou Comitê de Crise;\n\n**I",
+    "metadata": {
+      "source": "Estrutura dados IA - Riscos_Operacionais_2024",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Plano_Aquisição_2026_general_0",
+    "content": "# Estrutura dados IA - Plano_Aquisição_2026\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Nº:** 1.0\n**Objeto:** Plano Anual de Comunicação e Marketing\n**Contrato:** Novo a contratar 2026\n**Diretoria Responsável:** GADP\n**Cód Paoe:** 2014.0\n**Descrição Do Item De Despesa:** Divulgação de campanhas, redes sociais, vídeos marketing, agência especializada, softwares de edição\n**Unidade De Medida:** Mensal\n**Qtd:** 12.0\n**Valor Unitário:** R$ 3.000,00\n**Valor Total:** R$ 36.000,00\n**Grupo De Despesa:** 3-DESPESAS CORRENTES\n**Natureza:** 3.3.90.39.077\n**Fonte:** 1.501.0000\n**Idu:** OD-OUTRAS DESPESAS\n**Nível De Risco:** MODERADO\n**Plano Estratégico A Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Gravidade B Digite Entre 15 1 Menor 5 Maior:** 2.0\n**Urgência C Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Tendência D Digite Entre 15 1 Menor 5 Maior:** 2.0\n**Prioridade Acumulada Abcd:** 36.0\n\n### Indicador\n\n**Nº:** 2.0\n**Objeto:** Materiais de Marketing \n**Contrato:** Novo a contratar 2026\n**Diretoria Responsá",
+    "metadata": {
+      "source": "Estrutura dados IA - Plano_Aquisição_2026",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Estratégicos_2024_Planilha_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Estratégicos_2024_Planilha\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Indicador:** Índice de satisfação e imagem\n**Meta 2024:** 8,30\n**Unidade Medida:** Nota Avaliação\n**Ciclo Medição:** Anual\n**Diretoria:** GADP\n**Resultado Acumulado:** 8,40\n**Janeiro:** 0,00\n**Fevereiro:** 0,00\n**Março:** 8,40\n**Abril:** 0,00\n**Maio:** 0,00\n**Junho:** 0,00\n**Julho:** 0,00\n**Agosto:** 0,00\n**Setembro:** 0,00\n**Outubro:** 0,00\n**Novembro:** 0,00\n**Dezembro:** 0,00\n\n## UNIDADE: [Gabinete DTIC]\n\n### Indicador\n\n**Objetivos:** Elevar o nível de satisfação do cliente e de imagem institucional\n**Indicador:** Nível de satisfação do cliente com as soluções de TIC entregues\n**Meta 2024:** 70,00\n**Unidade Medida:** Percentual\n**Ciclo Medição:** Mensal\n**Diretoria:** DTIC\n**Resultado Acumulado:** 87,79\n**Janeiro:** 90,76\n**Fevereiro:** 93,41\n**Março:** 87,01\n**Abril:** 87,22\n**Maio:** 83,68\n**Junho:** 80,11\n**Julho:** 84,91\n**Agosto:** 92,40\n**Setembro:** 87,65\n**Outubro:** 98,68\n*",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Estratégicos_2024_Planilha",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Plano_Aquisição_2025_general_0",
+    "content": "# Estrutura dados IA - Plano_Aquisição_2025\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Nº:** 1\n**Objeto:** MANUTENÇÃO DA PROPAGANDA E PUBLICIDADE INSTITUCIONAL\n**Contrato:** Não\n**Diretoria Responsável:** GADP\n**Cód Paoe:** 2014.0\n**Descrição Do Item De Despesa:** SERVIIÇOS DE TERCEIROS PARA PUBLICIDADE INSTITUCIONAL E PROPAGANDA\n**Unidade De Medida:** Unidade\n**Qtd:** 1.0\n**Valor Total:** R$ 0,00\n**Grupo De Despesa:** 3-DESPESAS CORRENTES\n**Fonte:** 1.501.0000\n**Idu:** OD-OUTRAS DESPESAS\n**Prioridade Acumulada Abcd:** 0.0\n\n### Indicador\n\n**Nº:** 2\n**Objeto:** Plano Anual de Comunicação e Marketing\n**Contrato:** Novo a contratar 2025\n**Diretoria Responsável:** GADP\n**Cód Paoe:** 2014.0\n**Descrição Do Item De Despesa:** Divulgação de campanhas, redes sociais, vídeos marketing, agência especializada, softwares de edição\n**Unidade De Medida:** Mensal\n**Qtd:** 12.0\n**Valor Unitário:** R$ 3.000,00\n**Valor Total:** R$ 36.000,00\n**Grupo De Despesa:** 3-DESPESAS CORRENTES\n**Natureza:** 3.3.90.39.",
+    "metadata": {
+      "source": "Estrutura dados IA - Plano_Aquisição_2025",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Satisfação_DTIC_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Satisfação_DTIC\n",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Satisfação_DTIC",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - PTA_2024_general_0",
+    "content": "# Estrutura dados IA - PTA_2024\n\n## Contador: 2004\n\n**Competência:** -\n**Programa:** 36.0\n**Ação:** 2004-Manutenção de Gabinetes\n**Subaçãoentrega Sa:** 1_Pagamento com despesas com diárias\n**Sa Início:** 02/01/2024\n**Sa Término:** 31/12/2024\n**Sa Produto:** Pagamento realizado\n**Sa Unid Medida:** Percentual\n**Sa Quantidade:** 100.0\n**Sa Responsável:** Thaynara Martins de Souza\n**Etapa Et:** 1.1_Programar despesas com diarias\n**Et Início:** 02/01/2024\n**Et Término:** 31/12/2024\n**Et Responsável:** Thaynara Martins de Souza\n**Mc Descrição Do Item De Despesa:** DIARIAS FORA DO ESTADO\n**Mc Unid Medida:** Mensal\n**Mc Quantidade:** 12.0\n**Mc Valor Unitário:** R$ 12.500,00\n**Mc Valor Total:** R$ 150.000,00\n**Mc Grupo:** Grupo_3\n**Mc Natureza:** 3.3.90.14.002\n**Mc Fonte:** 1.500.0000\n**Mc Idu:** OD\n**Contrato:** Não\n**Plano Estratégico A Digite Entre 05 0 Menor 5 Maior:** 3.0\n**Gravidade B Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Urgência C Digite Entre 15 1 Menor 5 Maior:** 1.0\n**Tendência D ",
+    "metadata": {
+      "source": "Estrutura dados IA - PTA_2024",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Estratégicos_2025_Planilha_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Estratégicos_2025_Planilha\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Indicador:** Índice de satisfação e imagem\n**Meta 2025:** 8,40\n**Métrica:** ÚLTIMO VALOR\n**Unidade Medida:** Nota\n**Ciclo Medição:** Anual\n**Diretoria:** GADP\n**Resultado Acumulado:** 0,00\n**Janeiro:** 0,00\n**Fevereiro:** 0,00\n**Março:** 0,00\n**Abril:** 0,00\n**Maio:** 0,00%\n**Junho:** 0,00\n**Julho:** 0,00\n**Agosto:** 0,00\n\n## UNIDADE: [DTIC]\n\n### Indicador\n\n**Objetivos:** Garantir alta disponibilidade das soluções de Tecnologia da Informação e Comunicação\n**Indicador:** Percentual de disponibilidade das soluções de Tecnologia da Informação e Comunicação\n**Meta 2025:** 99,80%\n**Métrica:** MÉDIA\n**Unidade Medida:** Percentual\n**Ciclo Medição:** Mensal\n**Diretoria:** DTIC\n**Resultado Acumulado:** 99,41%\n**Janeiro:** 99,82%\n**Fevereiro:** 99,79%\n**Março:** 98,91%\n**Abril:** 98,82%\n**Maio:** 99,65%\n**Junho:** 99,68%\n**Julho:** 99,07%\n**Agosto:** 99,51%\n\n## UNIDADE: [UGEPV]\n\n### Indicador\n\n*",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Estratégicos_2025_Planilha",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - PTA_2025_general_0",
+    "content": "# Estrutura dados IA - PTA_2025\n\n## Contador: 2004\n\n**Competência:** -\n**Programa:** 36.0\n**Ação:** 2004-Manutenção de Gabinetes\n**Subaçãoentrega Sa:** 1_Pagamento com despesas com diárias\n**Sa Início:** 02/01/2025\n**Sa Término:** 31/12/2025\n**Sa Produto:** Pagamento realizado\n**Sa Unid Medida:** Percentual\n**Sa Quantidade:** 100\n**Sa Responsável:** Thaynara Martins de Souza\n**Etapa Et:** 1.1_Programar despesas com diarias\n**Et Início:** 02/01/2025\n**Et Término:** 31/12/2025\n**Et Responsável:** Thaynara Martins de Souza\n**Mc Descrição Do Item De Despesa:** DIARIAS FORA DO ESTADO \n**Mc Unid Medida:** Mês\n**Mc Quantidade:** 12.0\n**Mc Valor Unitário:** R$ 12.000,00\n**Mc Valor Total:** R$ 144.000,00\n**Mc Grupo:** Grupo_3\n**Mc Natureza:** 3.3.90.14.002\n**Mc Fonte:** 1.501.0000\n**Mc Idu:** OD\n**Contrato:** Não\n**Plano Estratégico A Digite Entre 05 0 Menor 5 Maior:** 3.0\n**Gravidade B Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Urgência C Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Tendência D Digi",
+    "metadata": {
+      "source": "Estrutura dados IA - PTA_2025",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Disponibilidade_DTIC_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Disponibilidade_DTIC\n\n## UNIDADE: [CoE]\n\n### Indicador\n\n**Id:** 21.0\n**Indicador:** Carga de Falha na Sustentação de Soluções Digitais\n**Janeiro:** 38,64%\n**Fevereiro:** 26,85%\n**Março:** 27,64%\n**Abril:** 35,31%\n**Maio:** 40,34%\n**Junho:** 33,39%\n**Julho:** 25,83%\n**Agosto:** 17,68%\n\n### Indicador\n\n**Id:** 24.0\n**Indicador:** Total de Projetos de Soluções Digitais Entregues\n**Janeiro:** 29\n**Fevereiro:** 31\n**Março:** 25\n**Abril:** 27\n**Maio:** 17\n**Junho:** 31\n**Julho:** 42\n**Agosto:** 32\n\n### Indicador\n\n**Id:** 25.0\n**Indicador:** Indice de Disponibilidade MT CIDADÃO (Governador)\n**Fevereiro:** 99,91%\n**Março:** 99,73%\n**Abril:** 99,26%\n**Maio:** 99,60%\n**Junho:** 99,69%\n**Julho:** 99,83%\n**Agosto:** 98,20%\n**Setembro:** 0,00%\n**Outubro:** 0,00%\n**Novembro:** 0,00%\n**Dezembro:** 0,00%\n\n### Indicador\n\n**Id:** 26.0\n**Indicador:** Indice de Disponibilidade PORTAIS DE GOVERNO (Governador)\n**Janeiro:** 99,96%\n**Fevereiro:** 99,73%\n**Março:** 98,95%\n**Ab",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Disponibilidade_DTIC",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Governadoria_Diretoria_Operacional_25_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Governadoria_Diretoria_Operacional_25\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Diretoria:** GADP\n**Indicador Descrição:** Eventos realizados - Total de eventos realizados\n**Indicador Fórmula:** (Total de eventos realizados/Total de eventos demandados)*100\n**Meta Objetivo:** - Garantir padronização da identidade visual\n- Contribuir para imagem positiva da MTI\n- Auxiliar os setores na organização dos eventos\n**Meta Valorquantidade Proposta:** 100,00%\n**Meta Prazo:** Mensal\n**Como:** - Planejamento antecipado, incluindo definição de datas, locais e formatos, deve ser realizado pelo setor demandante e repassado à ASSCOM para validação.\n- Divulgação antecipada para maximizar o alcance e impacto.\n\n**Necessidades:** - Que os outros setores comuniquem a ASSCOM com antecedência sobre os eventos planejados.\n**Janeiro Meta Do Mês:** 100%\n**Janeiro Alcance Do Mês:** 100%\n**Janeiro Resultado:** 100,00%\n**Janeiro Observação:** Janeiro Branco\n**Fevereiro Meta Do Mês:",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Governadoria_Diretoria_Operacional_25",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Iniciativas_Estratégicas_2024_Servicenow_general_0",
+    "content": "# Estrutura dados IA - Iniciativas_Estratégicas_2024_Servicenow\n\n## UNIDADE: [ASSCOM - ASSESSORIA DE COMUNICACAO]\n\n### Indicador\n\n**Nome:** Implementar Podcast da MTI\n**Tipo De Iniciativa:** OBES - Objetivo Estratégico\n**Resultado Esperado:** Podcast implementado\n**Objetivo Estratégico:** Incentivar uma transformação cultural\n**Ano:** 2024\n**Prazo:** 01-08-2024 00:00:00\n**Estado:** Concluído\n**Porcentagem De Conclusão:** 100,00\n\n### Indicador\n\n**Nome:** Consolidar o instrumento de pesquisa institucional  (Pesquisa de Imagem e Satisfação: meta 8,30)\n**Tipo De Iniciativa:** OBES - Objetivo Estratégico\n**Resultado Esperado:** Conceito da avaliação\n**Objetivo Estratégico:** Elevar o nível de satisfação do cliente e de imagem institucional\n**Ano:** 2024\n**Prazo:** 31-12-2024 18:00:00\n**Estado:** Concluído\n**Porcentagem De Conclusão:** 100,00\n\n## UNIDADE: [GABD - GERENCIA DE APLICACAO E BANCO DE DADOS]\n\n### Indicador\n\n**Nome:** Implantação Nuvem Oracle at Customer\n**Tipo De Iniciativa:** OBE",
+    "metadata": {
+      "source": "Estrutura dados IA - Iniciativas_Estratégicas_2024_Servicenow",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Indicadores_Estratégicos_2024_Servicenow_general_0",
+    "content": "# Estrutura dados IA - Indicadores_Estratégicos_2024_Servicenow\n\n## UNIDADE: [ASSCOM - ASSESSORIA DE COMUNICACAO]\n\n### Indicador\n\n**Ciclo:** 2024-2028\n**Nome:** Índice de satisfação e imagem\n**Descrição:** Este indicador é obtido através da pesquisa institucional\n**Métrica:** Último valor\n**Objetivo Estratégico:** Elevar o nível de satisfação do cliente e de imagem institucional\n**Meta Anual:** 8,4\n**Progresso Da Meta:** 8,4\n\n## UNIDADE: [DTIC - DIRETORIA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO]\n\n### Indicador\n\n**Ciclo:** 2024-2028\n**Nome:** Índice de disponibilidade das soluções de TIC\n**Descrição:** Objetivo para o programa PPA é garantir alta disponibilidade das soluções de TIC para o Poder Executivo\n**Métrica:** Média\n**Objetivo Estratégico:** Melhorar a Qualidade das Entregas\n**Meta Anual:** 99,8\n**Progresso Da Meta:** 98,44\n\n### Indicador\n\n**Ciclo:** 2024-2028\n**Nome:** Nível de satisfação do cliente com as soluções de TIC entregues\n**Descrição:** Este indicador visa aumentar o",
+    "metadata": {
+      "source": "Estrutura dados IA - Indicadores_Estratégicos_2024_Servicenow",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Iniciativas_Estratégicas_2024_Planilha_general_0",
+    "content": "# Estrutura dados IA - Iniciativas_Estratégicas_2024_Planilha\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Objetivos Indicadores E Metas:** Objetivo 4: Incentivar uma transformação cultural motivando as pessoas para colaboração, inovação e foco em resultados | Percentual de pessoas com 100% de seu PDI executado | 70%\n**Riscos Estratégicos:** N.S.A.\n**Resultadochave Iniciativa Rei:** Implementar Podcast da MTI\n**Rei Id:** 1.0\n**Diretoria:** GADP\n**Prazo:** 31/07/2024\n**Métrica:** Podcast implementado\n**Situação Trimestre 1:** Ação não iniciada.\n**Situação Trimestre 2:** Equipamentos e local solicitados à SECOM para realização do podcast 1x por mês.\nRealizado estrutura do podcast e sugestões de pautas para ser validada com o presidente.\n**Situação Trimestre 3:** Podcast\nFormato: Aprovado\nLocal: Definido\nConteúdo: Validado\nTemplates de divulgação: Prontos\nAguardando fim do período político conforme instrução da SECOM\n**Situação Geral:** Em execução\n\n### Indicador\n\n**Objetivos Indicadores E Met",
+    "metadata": {
+      "source": "Estrutura dados IA - Iniciativas_Estratégicas_2024_Planilha",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Riscos_Operacionais_2025_general_0",
+    "content": "# Estrutura dados IA - Riscos_Operacionais_2025\n\n## UNIDADE: [#REF!]\n\n### Indicador\n\n**Descrição Do Risco:** #REF!\n**Categoria Do Risco:** #REF!\n**Nível Do Risco:** #REF!\n**Classificação Do Risco:** #REF!\n**O Que:** #REF!\n**Quem:** #REF!\n**Onde:** #REF!\n**Por Que:** #REF!\n**Como:** #REF!\n**Início:** #REF!\n**Fim:** #REF!\n**Quanto:** #REF!\n**Situação:** #REF!\n**Percetual De Execução:** #REF!\n**Observações:** #REF!\n**Ug:** UGSDG\n\n### Indicador\n\n**Descrição Do Risco:** #REF!\n**Categoria Do Risco:** #REF!\n**Nível Do Risco:** #REF!\n**Classificação Do Risco:** #REF!\n**O Que:** #REF!\n**Quem:** #REF!\n**Onde:** #REF!\n**Por Que:** #REF!\n**Como:** #REF!\n**Início:** #REF!\n**Fim:** #REF!\n**Quanto:** #REF!\n**Situação:** #REF!\n**Percetual De Execução:** #REF!\n**Observações:** #REF!\n**Ug:** UGSDG\n\n### Indicador\n\n**Descrição Do Risco:** #REF!\n**Categoria Do Risco:** #REF!\n**Nível Do Risco:** #REF!\n**Classificação Do Risco:** #REF!\n**O Que:** #REF!\n**Quem:** #REF!\n**Onde:** #REF!\n**Por Que:** #REF!\n**Com",
+    "metadata": {
+      "source": "Estrutura dados IA - Riscos_Operacionais_2025",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - PTA_2026_general_0",
+    "content": "# Estrutura dados IA - PTA_2026\n\n## Contador: 2004\n\n**Competência:** -\n**Programa:** 36.0\n**Ação:** 2004-Manutenção de Gabinetes\n**Subaçãoentrega Sa:** 1_Pagamento com despesas com diárias\n**Sa Início:** 02/01/2026\n**Sa Término:** 31/12/2026\n**Sa Produto:** Pagamento realizado\n**Sa Unid Medida:** Percentual\n**Sa Quantidade:** 100.0\n**Sa Responsável:** Thaynara Martins de Souza\n**Etapa Et:** 1.1_Programar despesas com diarias\n**Et Início:** 02/01/2026\n**Et Término:** 31/12/2026\n**Et Responsável:** Thaynara Martins de Souza\n**Mc Descrição Do Item De Despesa:** Pagamento de Diárias Fora do Estado\n**Mc Unid Medida:** Mês\n**Mc Quantidade:** 12.0\n**Mc Valor Unitário:** R$ 20.000,00\n**Mc Valor Total:** R$ 240.000,00\n**Mc Grupo:** Grupo_3\n**Mc Natureza:** 3.3.90.14.002\n**Mc Fonte:** 1.500.0000\n**Mc Idu:** OD\n**Contrato:** Não\n**Plano Estratégico A Digite Entre 05 0 Menor 5 Maior:** 3.0\n**Gravidade B Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Urgência C Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Te",
+    "metadata": {
+      "source": "Estrutura dados IA - PTA_2026",
+      "unidade": "Geral"
+    }
+  },
+  {
+    "chunk_id": "Estrutura dados IA - Plano_Aquisição_2024_general_0",
+    "content": "# Estrutura dados IA - Plano_Aquisição_2024\n\n## UNIDADE: [ASSCOM]\n\n### Indicador\n\n**Nº:** 1\n**Objeto:** MANUTENÇÃO DA PROPAGANDA E PUBLICIDADE INSTITUCIONAL\n**Contrato:** Novo a contratar 2024\n**Diretoria Responsável:** GADP\n**Cód Paoe:** 2014\n**Descrição Do Item De Despesa:** SERVIIÇOS DE TERCEIROS PARA PUBLICIDADE INSTITUCIONAL E PROPAGANDA\n**Unidade De Medida:** Unidade\n**Qtd:** 1.0\n**Valor Unitário:** R$ 73.500,00\n**Valor Total:** R$ 73.500,00\n**Grupo De Despesa:** 3-DESPESAS CORRENTES\n**Natureza:** 339039077\n**Fonte:** 1.501.0000\n**Idu:** OD-OUTRAS DESPESAS\n**Plano Estratégico A Digite Entre 05 0 Menor 5 Maior:** 3.0\n**Gravidade B Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Urgência C Digite Entre 15 1 Menor 5 Maior:** 2.0\n**Tendência D Digite Entre 15 1 Menor 5 Maior:** 3.0\n**Prioridade Acumulada Abcd:** 54\n\n### Indicador\n\n**Nº:** 21\n**Objeto:** Equipamento para foto/vídeo e divulgação em tempo real com qualidade profissional de entrega dos eventos/reuniões/capacitações da MTI\n**Con",
+    "metadata": {
+      "source": "Estrutura dados IA - Plano_Aquisição_2024",
+      "unidade": "Geral"
+    }
+  }
+]

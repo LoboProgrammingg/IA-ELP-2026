@@ -191,3 +191,27 @@ class DataProcessor:
         else:
             logger.warning(f"Formato não suportado: {suffix}")
             return False
+
+    def process_all_documents(self):
+        """
+        Processa todos os documentos na pasta raw/ e salva em processed/
+        """
+        from ..config import Config
+        
+        Config.ensure_directories()
+        
+        raw_files = list(Config.RAW_DATA_DIR.glob("*"))
+        processed_count = 0
+        
+        logger.info(f"Encontrados {len(raw_files)} arquivos para processar")
+        
+        for file_path in raw_files:
+            if file_path.is_file() and file_path.suffix.lower() in ['.pdf', '.csv']:
+                output_filename = file_path.stem + '.md'
+                output_path = Config.PROCESSED_DATA_DIR / output_filename
+                
+                if self.process_document(file_path, output_path):
+                    processed_count += 1
+        
+        logger.info(f"Processamento concluído: {processed_count} arquivos convertidos")
+        return processed_count
